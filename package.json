@@ -1,0 +1,28 @@
+{
+  "name": "dev-blog-directory-raw",
+  "version": "1.0.0",
+  "description": "Raw data storage of Developer Blog Directory.",
+  "scripts": {
+    "lint": "yamllint documents/*.yml",
+    "save": "save-blog && npm run lint",
+    "save-json": "save-blog-json",
+    "readme-gen": "readme-gen documents",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dailyrandomphoto <dailyrandomphoto@gmail.com> (https://www.dailyrandomphoto.com/)",
+  "license": "CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailyrandomphoto/dev-blog-directory-raw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dailyrandomphoto/dev-blog-directory-raw/issues"
+  },
+  "homepage": "https://github.com/dailyrandomphoto/dev-blog-directory-raw#readme",
+  "devDependencies": {
+    "dev-blog-directory-readme-generator": "*",
+    "dev-blog-directory-save-json-cli": "*",
+    "dev-blog-directory-save-yaml-cli": "*",
+    "yaml-lint": "^1.2.4"
+  }
+}
