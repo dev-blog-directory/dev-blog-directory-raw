@@ -1,0 +1,22 @@
+-
+  _id: hqqlv9eugm
+  name: "摩拜 FE"
+  url: "https://mobikefe.github.io/"
+  desc:
+  feed:
+  author: "摩拜 FE"
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: hq0k1wok71
+  name: "SeoCop"
+  url: "https://www.seocop.xyz/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

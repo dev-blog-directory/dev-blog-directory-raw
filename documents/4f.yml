@@ -1,0 +1,33 @@
+-
+  _id: 4f88p57pai
+  name: "Simon Fairbairn's Blog"
+  url: "http://simonfairbairn.com/tag/swift/"
+  desc:
+  feed: "http://simonfairbairn.com/tag/swift/feed"
+  author: "By Simon Fairbairn"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 4fjxb95ae7
+  name: "Fabio Zadrozny"
+  url: "http://pydev.blogspot.co.id/"
+  desc:
+  feed:
+  author: "Fabio Zadrozny"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 4fjdxah7yq
+  name: "人月神话的博客"
+  url: "http://blog.sina.com.cn/cmmi"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

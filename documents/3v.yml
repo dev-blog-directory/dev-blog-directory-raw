@@ -1,0 +1,44 @@
+-
+  _id: 3vemgv0tqy
+  name: "Contageous Dev"
+  url: "https://contagious.dev/blog/category/ios/"
+  desc:
+  feed: "https://contagious.dev/blog/category/ios/feed/"
+  author: "By Dan Griffin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 3vmwepkrk8
+  name: "The Mouse Vs. The Python"
+  url: "http://www.blog.pythonlibrary.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: 3v136oeqac
+  name: "ALL YOUR BASE ARE BELONG TO US"
+  url: "https://allofyourbases.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: 3vzafdpf26
+  name: "觉唯前端"
+  url: "http://www.jiawin.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]

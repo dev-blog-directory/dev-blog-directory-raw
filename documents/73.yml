@@ -1,0 +1,11 @@
+-
+  _id: 73nj8xky9r
+  name: "Alberto De Bortoli's Blog"
+  url: "https://albertodebortoli.com/"
+  desc:
+  feed: "https://albertodebortoli.com/rss/"
+  author: "By Alberto De Bortoli"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

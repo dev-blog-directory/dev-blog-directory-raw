@@ -1,0 +1,33 @@
+-
+  _id: 4k1lwe8m83
+  name: "Alan Zeino on Medium"
+  url: "https://medium.com/@alanzeino"
+  desc:
+  feed: "https://medium.com/feed/@alanzeino"
+  author: "By Alan Zeino"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 4k1pw5dzrp
+  name: "A Cornish Geek"
+  url: "https://acornishgeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: 4kjymhl1ig
+  name: "WEB骇客"
+  url: "http://www.webhek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

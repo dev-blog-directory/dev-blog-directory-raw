@@ -1,0 +1,22 @@
+-
+  _id: qd0h5ljxo1
+  name: "6guts - Tales of Perl 6 guts hacking"
+  url: "https://6guts.wordpress.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]
+-
+  _id: qddsvqldmr
+  name: "Rainy's Blog"
+  url: "http://rainylog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

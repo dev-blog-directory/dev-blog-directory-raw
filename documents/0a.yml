@@ -1,0 +1,22 @@
+-
+  _id: 0a8tutmgma
+  name: "radex.io"
+  url: "http://radex.io/"
+  desc:
+  feed: "http://radex.io/feed.atom"
+  author: "By Radek Pietruszewski"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 0aro6fxr9g
+  name: "Visual C++ Team Blog"
+  url: "http://blogs.msdn.com/b/vcblog/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

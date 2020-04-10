@@ -1,0 +1,33 @@
+-
+  _id: 2t0tcp80b9
+  name: "TechPaliyal | Android Tutorial for Developers"
+  url: "http://www.techpaliyal.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: 2tm0zghtu7
+  name: "Effbot"
+  url: "http://effbot.org/zone/index.htm"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: 2t8cmm688x
+  name: "蝦米逮寄"
+  url: "https://c1rew.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

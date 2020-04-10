@@ -1,0 +1,44 @@
+-
+  _id: en81svqdja
+  name: "Gavin Henderson"
+  url: "https://gavinhenderson.me/"
+  desc:
+  feed:
+  author: "Gavin Henderson"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: enysvqe2da
+  name: "Gokhan Topcu on Medium"
+  url: "https://medium.com/@ifndefgt"
+  desc:
+  feed: "https://medium.com/feed/@ifndefgt"
+  author: "By Gokhan Topcu"
+  langs: ["tr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: en2jblshdn
+  name: "Interop Technology"
+  url: "https://www.interoptechnology.com/blogs/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: en7wtct4uk
+  name: "TechCrunch » Dark web "
+  url: "https://techcrunch.com/tag/dark-web/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["dark-web"]

@@ -1,0 +1,22 @@
+-
+  _id: yluk0ah87q
+  name: "Justin Weiss"
+  url: "https://www.justinweiss.com/articles/archives/"
+  desc:
+  feed:
+  author: "Justin Weiss"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ylnmxr8ql7
+  name: "Ultramarine"
+  url: "http://gerhut.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

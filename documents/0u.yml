@@ -1,0 +1,33 @@
+-
+  _id: 0uu9ea6jzw
+  name: "Made Tech"
+  url: "https://www.madetech.com/blog"
+  desc:
+  feed:
+  author: "Made Tech"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 0uhp9loa8p
+  name: "Python Adventures"
+  url: "https://pythonadventures.wordpress.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: 0ua5o4x7dj
+  name: "HP'S Memory"
+  url: "http://tanhp.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

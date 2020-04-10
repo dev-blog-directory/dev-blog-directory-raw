@@ -1,0 +1,22 @@
+-
+  _id: 4dzpjh5s3a
+  name: "CodingTheSmartWay"
+  url: "https://codingthesmartway.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]
+-
+  _id: 4dlooe1xjh
+  name: "Alex Clark"
+  url: "http://blog.aclark.net/blog/category/python.html"
+  desc:
+  feed:
+  author: "Alex Clark"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

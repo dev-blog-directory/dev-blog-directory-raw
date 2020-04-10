@@ -1,0 +1,55 @@
+-
+  _id: 9g3xpzvjok
+  name: "Evil Martians"
+  url: "https://evilmartians.com/chronicles/"
+  desc:
+  feed:
+  author: "Evil Martians"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 9ghrfc9jpv
+  name: "Shivang Singh"
+  url: "https://www.shivangsingh.in/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 9gqj1yii5l
+  name: "Vue.js Examples"
+  url: "https://vuejsexamples.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]
+-
+  _id: 9gybnmxhjd
+  name: "Angular News"
+  url: "https://angular.jsnews.io/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]
+-
+  _id: 9gmh85q4ep
+  name: "苹果园子"
+  url: "http://ipple.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

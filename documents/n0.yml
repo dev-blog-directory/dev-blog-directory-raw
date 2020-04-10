@@ -1,0 +1,77 @@
+-
+  _id: n035c5fp5q
+  name: "Timescale"
+  url: "https://blog.timescale.com/"
+  desc:
+  feed:
+  author: "Timescale"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: n09mwhztse
+  name: "VNGRS"
+  url: "http://blog.vngrs.com/"
+  desc:
+  feed:
+  author: "VNGRS"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: n07dspq7nd
+  name: "Huon Wilson"
+  url: "http://huonw.github.io/"
+  desc:
+  feed:
+  author: "Huon Wilson"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["rust"]
+-
+  _id: n0demjsw50
+  name: "Techbeamers"
+  url: "https://www.techbeamers.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: n0ri2e8qr1
+  name: "Elvira "
+  url: "https://elvirainfotech.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: n02kegeyki
+  name: "ITworld Cloud Computing"
+  url: "https://www.itworld.com/category/cloud-computing/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: n0ne338wdf
+  name: "mindwind"
+  url: "http://mindwind.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

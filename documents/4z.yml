@@ -1,0 +1,33 @@
+-
+  _id: 4zz8lvmypx
+  name: "GrayCell Technologies"
+  url: "https://www.graycelltech.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: 4z0yt3h1qf
+  name: "Cloud News Daily"
+  url: "http://cloudnewsdaily.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: 4zy8a7ckht
+  name: "skidu"
+  url: "http://www.skidu.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

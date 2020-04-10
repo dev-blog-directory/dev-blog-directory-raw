@@ -1,0 +1,22 @@
+-
+  _id: qz2cl1zjr1
+  name: "Speed of Light"
+  url: "http://nearthespeedoflight.com/"
+  desc:
+  feed: "http://nearthespeedoflight.com/index.xml"
+  author: "By Jason Brennan"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: qz9ctc3rsm
+  name: "Linux Performance"
+  url: "http://linuxperf.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: rs5voljvj9
+  name: "Evernote"
+  url: "https://evernote.com/blog/"
+  desc:
+  feed:
+  author: "Evernote"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: rsdmq3qsg6
+  name: "Findmypast"
+  url: "http://tech.findmypast.com/"
+  desc:
+  feed:
+  author: "Findmypast"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

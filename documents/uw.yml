@@ -1,0 +1,11 @@
+-
+  _id: uw4jd3gb2c
+  name: "SoundCloud"
+  url: "https://developers.soundcloud.com/blog/"
+  desc: "SoundCloud Backstage."
+  feed:
+  author: "SoundCloud"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

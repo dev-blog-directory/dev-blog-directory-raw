@@ -1,0 +1,55 @@
+-
+  _id: pxwmgcqe7i
+  name: "Bootstrap.com"
+  url: "https://blog.getbootstrap.com/"
+  desc:
+  feed:
+  author: "Bootstrap.com"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: pxu7tn49bn
+  name: "Marco Santa Dev"
+  url: "https://marcosantadev.com/tag/ios/"
+  desc:
+  feed: "https://marcosantadev.com/rss"
+  author: "By Marco Santarossa"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: px8z7kuvg7
+  name: "Licess's Blog"
+  url: "http://blog.licess.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: pxu22esx0h
+  name: "David Crawshaw"
+  url: "https://crawshaw.io/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: pxki942xb6
+  name: "junaidqadir.com"
+  url: "https://junaidqadir.com/"
+  desc:
+  feed: "https://junaidqadir.com/feed"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

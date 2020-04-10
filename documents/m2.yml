@@ -1,0 +1,11 @@
+-
+  _id: m2bzntwfoq
+  name: "Tarek Ziadé"
+  url: "https://blog.ziade.org/"
+  desc:
+  feed:
+  author: "Tarek Ziadé"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

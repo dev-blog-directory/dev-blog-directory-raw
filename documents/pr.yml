@@ -1,0 +1,55 @@
+-
+  _id: prjeq73w2l
+  name: "WalmartLabs"
+  url: "https://medium.com/walmartlabs/"
+  desc:
+  feed:
+  author: "WalmartLabs"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: pr7j85kv0n
+  name: "Netsplit"
+  url: "https://netsplit.com/"
+  desc:
+  feed: "https://netsplit.com/feed/"
+  author: "By Scott James Remnant"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: pr7fcz2bx2
+  name: "One Fifty Two"
+  url: "https://152percent.com/blog"
+  desc:
+  feed: "https://152percent.com/blog?format=RSS"
+  author: "By Shaps Benkau"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: prnfiftqx4
+  name: "深度开源"
+  url: "http://www.open-open.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: prerln602g
+  name: "Paul Robert Lloyd"
+  url: "https://paulrobertlloyd.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

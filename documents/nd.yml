@@ -1,0 +1,33 @@
+-
+  _id: nd7ycmt8q9
+  name: "Ilian Konchev on Medium"
+  url: "https://medium.com/@iliankonchev"
+  desc:
+  feed: "https://medium.com/feed/@iliankonchev"
+  author: "By Ilian Konchev"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ndq252i5hc
+  name: "Tutorial And Example"
+  url: "https://www.tutorialandexample.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: nd4z91i4nm
+  name: "Geek Feminism"
+  url: "https://geekfeminism.org/tag/python/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

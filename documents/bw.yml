@@ -1,0 +1,22 @@
+-
+  _id: bwwpbzmgww
+  name: "ThoughtWorks"
+  url: "https://www.thoughtworks.com/insights"
+  desc: "ThoughtWorks Engineering Blog."
+  feed:
+  author: "ThoughtWorks"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: bwe9lwgdfq
+  name: "Armin Ronacher"
+  url: "http://lucumr.pocoo.org/"
+  desc:
+  feed:
+  author: "Armin Ronacher"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

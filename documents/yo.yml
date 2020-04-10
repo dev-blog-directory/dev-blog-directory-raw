@@ -1,0 +1,44 @@
+-
+  _id: yot98457ww
+  name: "Big Nerd Ranch"
+  url: "https://www.bignerdranch.com/blog/category/ios/"
+  desc:
+  feed: "https://www.bignerdranch.com/blog/category/ios/feed/"
+  author: "By Big Nerd Ranch Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: yonu20ue1n
+  name: "廖雪峰的官方网站"
+  url: "https://www.liaoxuefeng.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]
+-
+  _id: yo0msqo3t2
+  name: "YDWE官方博客"
+  url: "http://www.ydwe.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: yooyg2hc13
+  name: "邹成卓的个人网站"
+  url: "http://www.zoucz.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

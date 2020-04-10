@@ -1,0 +1,44 @@
+-
+  _id: pzu56fwftw
+  name: "Dimitri Do Bairro"
+  url: "https://dimsolution.com/"
+  desc:
+  feed:
+  author: "Dimitri Do Bairro"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: pzma7amgq7
+  name: "Nikola Brežnjak"
+  url: "http://www.nikola-breznjak.com/blog/"
+  desc:
+  feed:
+  author: "Nikola Brežnjak"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: pzaqpx9661
+  name: "Random Thoughts on Java Programming"
+  url: "http://randomthoughtsonjavaprogramming.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: pzkvce0dha
+  name: "VueJS AppDividend"
+  url: "https://appdividend.com/category/vuejs/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]

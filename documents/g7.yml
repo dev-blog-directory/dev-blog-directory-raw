@@ -1,0 +1,44 @@
+-
+  _id: g7nn2wo9sf
+  name: "The Always Right Institute"
+  url: "https://www.alwaysrightinstitute.com/"
+  desc:
+  feed: "https://www.alwaysrightinstitute.com/feed"
+  author: "By Helge Heß"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: g7ikc0ngln
+  name: "Anvil - Drag and Drop Python web apps"
+  url: "https://anvil.works/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: g7unr9t7ml
+  name: "十年踪迹的博客"
+  url: "https://www.h5jun.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: g7uylp4r4v
+  name: "初心"
+  url: "http://fleurer.github.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

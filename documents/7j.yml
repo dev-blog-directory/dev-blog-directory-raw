@@ -1,0 +1,33 @@
+-
+  _id: 7jxkhekg9e
+  name: "Drivy"
+  url: "https://drivy.engineering/"
+  desc:
+  feed:
+  author: "Drivy"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 7jq886e3f7
+  name: "Pinterest"
+  url: "https://medium.com/@Pinterest_Engineering"
+  desc:
+  feed:
+  author: "Pinterest"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 7jwdsxudcy
+  name: "indienova 独立游戏新闻，评测，开发教学"
+  url: "http://indienova.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

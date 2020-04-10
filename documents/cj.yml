@@ -1,0 +1,22 @@
+-
+  _id: cjs5et63so
+  name: "Ray Wenderlich - iOS & Swift Tutorials "
+  url: "https://www.raywenderlich.com/ios"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: cjnw6fdmc1
+  name: "mrale.ph"
+  url: "http://mrale.ph/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["javascript"]

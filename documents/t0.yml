@@ -1,0 +1,55 @@
+-
+  _id: t0l1ylw49a
+  name: "Mehmet Koca on Medium"
+  url: "https://medium.com/@mhmtkc"
+  desc:
+  feed: "https://medium.com/feed/@mhmtkc"
+  author: "By Mehmet KOCA"
+  langs: ["tr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: t0rteq8wsj
+  name: "Livecoding.tv Blog"
+  url: "http://blog.livecoding.tv/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: t0pn9ket14
+  name: "业余Linux管理员"
+  url: "https://zhangdashuo.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: t0l0k7oq3g
+  name: "Ji ZHANG's Blog"
+  url: "http://shzhangji.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: t0hrhmziq2
+  name: "feather.ca"
+  url: "https://feather.ca/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

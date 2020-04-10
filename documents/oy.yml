@@ -1,0 +1,22 @@
+-
+  _id: oyl83suarm
+  name: "Bitly"
+  url: "http://word.bitly.com/"
+  desc: "Bitly Engineering."
+  feed:
+  author: "Bitly"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: oyvw2yrh4e
+  name: "QiangBlog"
+  url: "http://www.qiangblog.com/feed"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

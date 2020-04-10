@@ -1,0 +1,11 @@
+-
+  _id: o5qetrlbon
+  name: "GoSquared"
+  url: "https://engineering.gosquared.com/"
+  desc: "GoSquared Engineering Blog."
+  feed:
+  author: "GoSquared"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

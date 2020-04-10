@@ -1,0 +1,66 @@
+-
+  _id: sjbjvsnz73
+  name: "Teamwork"
+  url: "https://engineroom.teamwork.com/"
+  desc:
+  feed:
+  author: "Teamwork"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: sjflg1p4j4
+  name: "Vojta Stavik's Blog"
+  url: "https://vojtastavik.com/"
+  desc:
+  feed: "https://vojtastavik.com/atom.xml"
+  author: "By Vojta Stavik"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: sj9fnc8t08
+  name: "Web Damn - Web Programming Blog"
+  url: "https://webdamn.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: sjytcoezzo
+  name: "CSS魔法"
+  url: "http://www.cssmagic.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]
+-
+  _id: sjzn7m1s8r
+  name: "胡东东博客"
+  url: "http://www.hudongdong.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: sjqje3iwu0
+  name: "greenteajug"
+  url: "http://greenteajug.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

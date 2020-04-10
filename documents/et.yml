@@ -1,0 +1,44 @@
+-
+  _id: etbjqvs9q9
+  name: ".NET"
+  url: "https://blogs.msdn.microsoft.com/dotnet/"
+  desc:
+  feed:
+  author: ".NET"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: etbsltnru9
+  name: "FusionReactor: Java Application Performance Monitor"
+  url: "https://www.fusion-reactor.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: etmuqxkc7y
+  name: "GolangCode"
+  url: "https://golangcode.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["golang"]
+-
+  _id: et6fyg4uw0
+  name: "chenhuijing.com"
+  url: "https://www.chenhuijing.com/"
+  desc:
+  feed: "https://www.chenhuijing.com/feed.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

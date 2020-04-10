@@ -1,0 +1,55 @@
+-
+  _id: i8148kye5j
+  name: "Dimitris Raptis"
+  url: "https://raptis.wtf/blog"
+  desc:
+  feed:
+  author: "Dimitris Raptis"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: i83c3wm1ge
+  name: "Pamela Fox"
+  url: "http://blog.pamelafox.org/"
+  desc:
+  feed:
+  author: "Pamela Fox"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: i8j19xyuoy
+  name: "Little Bites of Cocoa"
+  url: "https://littlebitesofcocoa.com/"
+  desc:
+  feed: "https://littlebitesofcocoa.com/rss"
+  author: "By Jake Marsh"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: i8602hbada
+  name: "算神的博客"
+  url: "http://blog.lishewen.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: i8yljvfnfn
+  name: "Huang Hao"
+  url: "http://blog.huanghao.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

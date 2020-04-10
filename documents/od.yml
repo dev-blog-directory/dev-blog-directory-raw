@@ -1,0 +1,66 @@
+-
+  _id: ode896dmzi
+  name: "Umberto Raimondi's Blog"
+  url: "https://www.uraimo.com/"
+  desc:
+  feed: "https://www.uraimo.com/feed/atom-swift.xml"
+  author: "By Umberto Raimondi"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: od1ywz7vu6
+  name: "一号门-程序员的工作,程序员的生活(java,python,delphi实战)"
+  url: "http://www.yihaomen.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: odj20sywfc
+  name: "可乐加糖 & COLA"
+  url: "http://www.qcoke.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: odx1q5gcdf
+  name: "laike9m's blog"
+  url: "https://laike9m.com/blog/rss"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: odj9tqxj7g
+  name: "贫穷的码农"
+  url: "http://www.baikeyang.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: odu2126dqr
+  name: "飞印 - 微信打印机"
+  url: "http://www.feyin.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

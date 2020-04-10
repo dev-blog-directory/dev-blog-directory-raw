@@ -1,0 +1,22 @@
+-
+  _id: mod01mwtti
+  name: "Andy Ibanez's Blog"
+  url: "https://www.andyibanez.com/tags/apple/"
+  desc:
+  feed: "https://www.andyibanez.com/tags/apple/index.xml"
+  author: "By Andy Ibanez"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: mo2hseo3wt
+  name: "BuiltInPerl"
+  url: "http://blog.builtinperl.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]

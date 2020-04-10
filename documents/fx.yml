@@ -1,0 +1,22 @@
+-
+  _id: fxqpwc85c5
+  name: "PC Maffey"
+  url: "https://www.pcmaffey.com/"
+  desc:
+  feed:
+  author: "PC Maffey"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: fx3eulxe5v
+  name: "REA Group Tech Blog"
+  url: "http://rea.tech/"
+  desc:
+  feed:
+  author: "REA Group Tech Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

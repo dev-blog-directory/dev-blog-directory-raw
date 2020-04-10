@@ -1,0 +1,44 @@
+-
+  _id: mbw3k74gq9
+  name: "qnoid.com"
+  url: "https://qnoid.com/"
+  desc:
+  feed: "https://qnoid.com/feed.xml"
+  author: "By Markos Charatzas"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: mbcwc55tfl
+  name: "Kotlin Expertise Blog - Professional Kotlin Development"
+  url: "https://kotlinexpertise.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["kotlin"]
+-
+  _id: mbhxszwrdo
+  name: "Ned Batchelder"
+  url: "http://nedbatchelder.com/blog/tag/python.html"
+  desc:
+  feed:
+  author: "Ned Batchelder"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: mb3oliroxs
+  name: "goel.io"
+  url: "https://goel.io/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

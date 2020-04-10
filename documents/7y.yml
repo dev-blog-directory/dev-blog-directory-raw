@@ -1,0 +1,55 @@
+-
+  _id: 7yh1nkptuv
+  name: "Sarah Chima"
+  url: "https://dev.to/sarah_chima"
+  desc:
+  feed:
+  author: "Sarah Chima"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 7yuxagvx4j
+  name: "Medium"
+  url: "https://medium.com/medium-eng"
+  desc:
+  feed:
+  author: "Medium"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 7yjp7yorol
+  name: "Paul Irish"
+  url: "https://www.paulirish.com/"
+  desc:
+  feed:
+  author: "Paul Irish"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 7yqfupo07n
+  name: "Samantha Marshall's Blog"
+  url: "http://pewpewthespells.com/"
+  desc:
+  feed: "http://pewpewthespells.com/feed.xml"
+  author: "By Samantha Marshall"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 7yf41daag8
+  name: "Android Authority | Android Development "
+  url: "https://www.androidauthority.com/android-development/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]

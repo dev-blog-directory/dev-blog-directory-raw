@@ -1,0 +1,55 @@
+-
+  _id: v25yz0cg4m
+  name: "Wealthfront"
+  url: "https://eng.wealthfront.com/"
+  desc: "Wealthfront Engineering."
+  feed:
+  author: "Wealthfront"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: v2u91oj37r
+  name: "Cizixs Writes Here"
+  url: "http://cizixs.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: v2dohhppbk
+  name: "Programming Camp"
+  url: "https://programmingcamp1.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: v2izoask95
+  name: "Java Code Geeks"
+  url: "https://www.javacodegeeks.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: v2ebgx4ayr
+  name: "有你做翅膀，孤单都是坚强"
+  url: "http://li.yin.zhen.blog.163.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

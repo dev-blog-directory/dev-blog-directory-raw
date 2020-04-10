@@ -1,0 +1,33 @@
+-
+  _id: wt5pyblecx
+  name: "Max Li"
+  url: "https://maxlibin.com/"
+  desc:
+  feed:
+  author: "Max Li"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: wty9vorl32
+  name: "Square Island"
+  url: "http://blog.sqisland.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: wt1ufhtl5a
+  name: "make it simple"
+  url: "http://www.suerb.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

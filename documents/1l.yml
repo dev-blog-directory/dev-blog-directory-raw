@@ -1,0 +1,33 @@
+-
+  _id: 1lyp38z9vj
+  name: "Bartlomiej Filipek"
+  url: "http://www.bfilipek.com/"
+  desc:
+  feed:
+  author: "Bartlomiej Filipek"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 1lyn63c6zm
+  name: "Recoursive"
+  url: "https://recoursive.com/tag/ios/"
+  desc:
+  feed: "https://recoursive.com/tag/ios/index.xml"
+  author: "By Robin Kunde"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 1l8judyf5f
+  name: "bystander's blog"
+  url: "http://leaver.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

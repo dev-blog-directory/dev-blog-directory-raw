@@ -1,0 +1,55 @@
+-
+  _id: fwkregqs6d
+  name: "Philip Walton"
+  url: "https://philipwalton.com/"
+  desc:
+  feed:
+  author: "Philip Walton"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fwikariigm
+  name: "James Benett"
+  url: "http://www.b-list.org/weblog/categories/python/"
+  desc:
+  feed:
+  author: "James Benett"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: fwf8piq0n4
+  name: "Thinking in Crowd / 鹄思乱想"
+  url: "http://www.thinkingincrowd.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fwocyh89ml
+  name: "曾静的技术博客"
+  url: "http://blog.devzeng.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fwfm39g7py
+  name: "thomasdeneuville.com"
+  url: "https://thomasdeneuville.com/"
+  desc:
+  feed: "https://thomasdeneuville.com/feed"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

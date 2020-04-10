@@ -1,0 +1,11 @@
+-
+  _id: qb5pjc4g32
+  name: "The Shape of Everything"
+  url: "http://shapeof.com/"
+  desc:
+  feed: "http://shapeof.com/rss.xml"
+  author: "By Gus Mueller"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

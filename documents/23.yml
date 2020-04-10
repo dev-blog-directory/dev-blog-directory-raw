@@ -1,0 +1,33 @@
+-
+  _id: 230wlmysxr
+  name: "pilgwon's blog"
+  url: "https://pilgwon.github.io/blog/"
+  desc:
+  feed: "https://pilgwon.github.io/blog/feed.xml"
+  author: "By pilgwon"
+  langs: ["ko"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 23obtjnwpa
+  name: "Meteor Blog "
+  url: "https://blog.meteor.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: 23et1ed9qm
+  name: "Kong's Blog"
+  url: "http://lingxiankong.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

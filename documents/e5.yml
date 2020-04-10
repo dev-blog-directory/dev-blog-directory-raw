@@ -1,0 +1,11 @@
+-
+  _id: e5txqyeiih
+  name: "Blacklane"
+  url: "https://medium.com/blacklane-engineering"
+  desc: "Blacklane Engineering Blog."
+  feed:
+  author: "Blacklane"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

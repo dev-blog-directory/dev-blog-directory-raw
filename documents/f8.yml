@@ -1,0 +1,11 @@
+-
+  _id: f8a2x3q9yf
+  name: "Grouper"
+  url: "http://eng.joingrouper.com/"
+  desc: "Grouper Engineering Team Blog."
+  feed:
+  author: "Grouper"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

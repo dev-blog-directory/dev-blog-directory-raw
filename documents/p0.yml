@@ -1,0 +1,66 @@
+-
+  _id: p09rff6sx8
+  name: "YASB - Yet Another Swift Blog"
+  url: "https://www.vadimbulavin.com/"
+  desc:
+  feed: "https://www.vadimbulavin.com/feed.xml"
+  author: "By Vadim Bulavin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: p09v7b4iqr
+  name: "Java Beginners Tutorial"
+  url: "https://javabeginnerstutorial.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: p0cjl95kln
+  name: "Full Stack Geek - For WebDevs"
+  url: "https://fullstackgeek.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: p00mya9jvs
+  name: "代码工匠"
+  url: "http://code4craft.github.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: p0wwj4fuv5
+  name: "brandonokert.com"
+  url: "http://brandonokert.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["golang"]
+-
+  _id: p03xwkj37m
+  name: "kirupa.com"
+  url: "https://kirupa.com/"
+  desc:
+  feed: "https://kirupa.com/modular/kirupa.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

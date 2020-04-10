@@ -1,0 +1,33 @@
+-
+  _id: mrutap73qu
+  name: "Angie Jones"
+  url: "http://angiejones.tech/"
+  desc:
+  feed:
+  author: "Angie Jones"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: mrhc8clxp8
+  name: "稀土掘金"
+  url: "http://gold.xitu.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: mrgj4b2f0w
+  name: "JustQyx"
+  url: "http://justqyx.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

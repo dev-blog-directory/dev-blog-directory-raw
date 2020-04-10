@@ -1,0 +1,33 @@
+-
+  _id: op86cnycej
+  name: "Reginald Braithwaite"
+  url: "http://raganwald.com/#essays"
+  desc:
+  feed:
+  author: "Reginald Braithwaite"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: opfbo4ml5z
+  name: "Sakib Sami"
+  url: "https://www.sakib.ninja/"
+  desc:
+  feed:
+  author: "Sakib Sami"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: opdjwxibnz
+  name: "Protection Geek"
+  url: "https://www.protectiongeek.co.uk/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

@@ -1,0 +1,55 @@
+-
+  _id: nsl4n91c7s
+  name: "InVision"
+  url: "http://engineering.invisionapp.com/"
+  desc:
+  feed:
+  author: "InVision"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: nspxb7ue7c
+  name: "Jeff Preshing"
+  url: "http://preshing.com/"
+  desc:
+  feed:
+  author: "Jeff Preshing"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["low-level"]
+-
+  _id: ns9z4e41il
+  name: "Mike Mikina's Blog"
+  url: "http://mikemikina.com/"
+  desc:
+  feed: "https://mikemikina.com/feed.xml"
+  author: "By Mike Mikina"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ns0v7hmpvm
+  name: "Tomasz Szulc's Blog"
+  url: "http://szulctomasz.com/programming-blog/"
+  desc:
+  feed: "http://szulctomasz.com/programming-blog/index.xml"
+  author: "By Tomasz Szulc"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: nshzhxbfbk
+  name: "Yet Another Summer Rain"
+  url: "http://liaohuqiu.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

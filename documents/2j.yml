@@ -1,0 +1,33 @@
+-
+  _id: 2j7mwb5jja
+  name: "Schibsted Tech Polska"
+  url: "http://www.schibsted.pl/blog/"
+  desc:
+  feed:
+  author: "Schibsted Tech Polska"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2j6br5kviv
+  name: "Aleksandar Vacić's blog"
+  url: "http://aplus.rs/categories/iosdev/"
+  desc:
+  feed: "http://aplus.rs/index.xml"
+  author: "By Aleksandar Vacić"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 2jnk1krlts
+  name: "GeekDad "
+  url: "https://geekdad.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

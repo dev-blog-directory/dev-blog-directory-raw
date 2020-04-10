@@ -1,0 +1,22 @@
+-
+  _id: ulvu4jc3m9
+  name: "Jonas Plum"
+  url: "https://blog.cugu.eu/"
+  desc:
+  feed:
+  author: "Jonas Plum"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ul9qsbqk23
+  name: "喵容"
+  url: "https://www.miaoroom.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]

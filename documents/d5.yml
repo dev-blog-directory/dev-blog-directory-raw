@@ -1,0 +1,22 @@
+-
+  _id: d5ueb6u4ad
+  name: "Raintank"
+  url: "https://blog.raintank.io/"
+  desc: "Raintank Blog."
+  feed:
+  author: "Raintank"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: d5egh26ztw
+  name: "King"
+  url: "https://techblog.king.com/"
+  desc:
+  feed:
+  author: "King"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

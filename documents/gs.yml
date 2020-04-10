@@ -1,0 +1,44 @@
+-
+  _id: gs3x0tsqyj
+  name: "Coursetro"
+  url: "https://coursetro.com/"
+  desc: "Tutorials on Angular 2, ionic 2, Adobe XD,Photoshop & Java."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: gskalzougz
+  name: "设计达人"
+  url: "http://www.shejidaren.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: gsv3vjjyi1
+  name: "Codedam Blog"
+  url: "https://codedam.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: gsvxaybxvn
+  name: "Designs By Dave O. | A Full Service Website Development Agency"
+  url: "https://designsbydaveo.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

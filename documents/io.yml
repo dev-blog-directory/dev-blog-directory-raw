@@ -1,0 +1,55 @@
+-
+  _id: ioruruzpyd
+  name: "Toptal"
+  url: "https://www.toptal.com/blog/"
+  desc:
+  feed:
+  author: "Toptal"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ioh4xoieuh
+  name: "Reid Hoffman"
+  url: "http://reidhoffman.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: io3leihmnu
+  name: "AFAIK"
+  url: "http://roosephu.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: io2rpsdx1k
+  name: "昔我往矣"
+  url: "http://xnow.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: iovy8fmm59
+  name: "third-bit.com"
+  url: "http://third-bit.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

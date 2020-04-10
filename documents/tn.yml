@@ -1,0 +1,33 @@
+-
+  _id: tng749ec4n
+  name: "Chartbeat"
+  url: "http://engineering.chartbeat.com/"
+  desc: "Chartbeat Engineering Blog."
+  feed:
+  author: "Chartbeat"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: tn22g4lyk7
+  name: "Digital Leaves Blog"
+  url: "https://digitalleaves.com/blog/"
+  desc:
+  feed: "https://digitalleaves.com/feed/"
+  author: "By Ignacio Nieto"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: tnz0hydnwa
+  name: "Android开发技术周报"
+  url: "http://androidweekly.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: 14wens227c
+  name: "Robin Cannon"
+  url: "https://www.robin-cannon.com/"
+  desc:
+  feed:
+  author: "Robin Cannon"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 14o97waugc
+  name: "Guido van Rossum"
+  url: "http://neopythonic.blogspot.com/"
+  desc:
+  feed:
+  author: "Guido van Rossum"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 14uieezlkh
+  name: "BlahGeek's Blog"
+  url: "http://blog.blahgeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: 3snv1z90ar
+  name: "David Reed's Blog"
+  url: "https://microblog.dave256apps.com/"
+  desc:
+  feed: "https://microblog.dave256apps.com/feed.xml"
+  author: "By David Reed"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 3sr1augwmz
+  name: "UNIX类 IT技术博客"
+  url: "http://www.myfreelinux.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3siv87x898
+  name: "动漫茶馆"
+  url: "http://acgtea.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

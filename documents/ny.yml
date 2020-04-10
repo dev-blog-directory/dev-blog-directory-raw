@@ -1,0 +1,22 @@
+-
+  _id: nyd37bemtz
+  name: "Blendle Engineering"
+  url: "https://blendle.engineering/"
+  desc:
+  feed:
+  author: "Blendle Engineering"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: nyo7hbeyxo
+  name: "React"
+  url: "https://facebook.github.io/react/blog/"
+  desc:
+  feed:
+  author: "React"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

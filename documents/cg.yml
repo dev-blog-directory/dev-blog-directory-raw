@@ -1,0 +1,77 @@
+-
+  _id: cgvazcuxyo
+  name: "Kevin Hirczy"
+  url: "https://nehalist.io/"
+  desc:
+  feed:
+  author: "Kevin Hirczy"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: cg3a3qt3n4
+  name: "Daniel Doubrovkine (dB.)"
+  url: "http://code.dblock.org/"
+  desc:
+  feed:
+  author: "Daniel Doubrovkine (dB.)"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cgrpnp66di
+  name: "Wojtek Gawroński"
+  url: "http://www.afronski.pl/"
+  desc:
+  feed:
+  author: "Wojtek Gawroński"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cg6uigyxrz
+  name: "Indie Stack"
+  url: "http://indiestack.com/"
+  desc:
+  feed: "http://indiestack.com/feed/"
+  author: "By Daniel Jalkut"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: cg7729gyic
+  name: "无标题"
+  url: "http://yangbolin.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cgmk6fhul5
+  name: "RTFSC"
+  url: "http://hazirguo.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cgfew04ywm
+  name: "Hessian's Blog"
+  url: "http://hessian.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

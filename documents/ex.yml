@@ -1,0 +1,44 @@
+-
+  _id: exvmzud1mh
+  name: "CALayer"
+  url: "https://calayer.com/"
+  desc:
+  feed: "https://www.calayer.com/feed.xml"
+  author: "By Shannon Potter"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: exf5npjolq
+  name: "Help! I'm Not a Geek"
+  url: "http://helpimnotageek.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: exratxj11w
+  name: "ThoughtWorks洞见"
+  url: "https://insights.thoughtworks.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: exjh23wtib
+  name: "Here comes the Sun"
+  url: "http://sunng.info/blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

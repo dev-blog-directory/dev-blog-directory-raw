@@ -1,0 +1,11 @@
+-
+  _id: it2nrla5te
+  name: "LiveChat"
+  url: "https://developers.livechatinc.com/blog/"
+  desc: "LiveChat Developers Blog."
+  feed:
+  author: "LiveChat"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

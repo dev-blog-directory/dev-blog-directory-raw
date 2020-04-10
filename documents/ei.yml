@@ -1,0 +1,22 @@
+-
+  _id: ei1uht85la
+  name: "Jessen Oller"
+  url: "http://jessenoller.com/"
+  desc:
+  feed:
+  author: "Jessen Oller"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: eic4xbmizu
+  name: "沧海一粟"
+  url: "http://www.dzhope.com/index.php"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,11 @@
+-
+  _id: 5fzj8dxcfo
+  name: "胖子博客"
+  url: "http://thinkerchan.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]

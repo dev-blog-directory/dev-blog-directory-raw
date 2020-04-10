@@ -1,0 +1,44 @@
+-
+  _id: b4gn0vn4rz
+  name: "Kevin Davenport"
+  url: "http://kldavenport.com/"
+  desc:
+  feed:
+  author: "Kevin Davenport"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: b4myyawxa8
+  name: "搜狐焦点UED"
+  url: "http://ued.focus.cn/wordpress"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: b47uj3cbc4
+  name: "Cofface Blog"
+  url: "http://blog.cofface.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: b4u9adylwq
+  name: "keakon的涂鸦馆"
+  url: "http://www.keakon.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

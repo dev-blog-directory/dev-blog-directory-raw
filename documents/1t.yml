@@ -1,0 +1,33 @@
+-
+  _id: 1th5hyqsm8
+  name: "Last Call | RapidAPI Blog"
+  url: "https://blog.rapidapi.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 1t44krtpzv
+  name: "Java AWS Developer Blog"
+  url: "https://aws.amazon.com/blogs/developer/category/java/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: 1teol00oy7
+  name: "Michael Okoh"
+  url: "https://okoh.co.uk/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

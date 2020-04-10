@@ -1,0 +1,22 @@
+-
+  _id: p8ku52jzh6
+  name: "Arunrocks"
+  url: "http://arunrocks.com/archives/"
+  desc:
+  feed:
+  author: "Arunrocks"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: p876fnefzs
+  name: "Ruqi's Log"
+  url: "http://liruqi.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

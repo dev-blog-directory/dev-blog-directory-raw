@@ -1,0 +1,11 @@
+-
+  _id: tc341fe5z1
+  name: "CodeName One"
+  url: "http://www.codenameone.com/blog.html"
+  desc:
+  feed:
+  author: "CodeName One"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

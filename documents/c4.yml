@@ -1,0 +1,33 @@
+-
+  _id: c4lfyz4wse
+  name: "Droids On Roids Blog iOS Development"
+  url: "https://www.thedroidsonroids.com/category/blog/ios"
+  desc:
+  feed: "https://www.thedroidsonroids.com/category/blog/ios/feed"
+  author: "By Droids On Roids Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: c4ah0zxlc8
+  name: "Gizmodo | Android News, Videos, Reviews and Gossip"
+  url: "https://gizmodo.com/tag/android"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: c46fep9rp9
+  name: "BR Softech"
+  url: "https://www.brsoftech.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

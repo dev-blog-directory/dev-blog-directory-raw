@@ -1,0 +1,33 @@
+-
+  _id: uuui9rzub8
+  name: "HireArt"
+  url: "http://code.hireart.com/"
+  desc:
+  feed:
+  author: "HireArt"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: uuqa20vbo2
+  name: "Intent Media"
+  url: "http://intentmedia.com/blog/"
+  desc:
+  feed:
+  author: "Intent Media"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: uuh02i3gop
+  name: "IEEE Cloud Computing"
+  url: "https://www.computer.org/cloud-computing/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]

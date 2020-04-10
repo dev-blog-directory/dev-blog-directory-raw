@@ -1,0 +1,55 @@
+-
+  _id: 79rtj8qrav
+  name: "Grouper"
+  url: "http://blog.joingrouper.com/"
+  desc:
+  feed:
+  author: "Grouper"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 798i6cx5ry
+  name: "NSHipster中国"
+  url: "https://nshipster.cn/"
+  desc:
+  feed: "https://nshipster.cn/feed.xml"
+  author: "By NSHipster"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 79q1vq3eao
+  name: "PHPFOREVER"
+  url: "http://phpforever.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 792yfxb5uy
+  name: "熊猫大仙技术博客"
+  url: "http://www.pandablog.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 79nvu0o9h9
+  name: "juanfernandes"
+  url: "https://juanfernandes.uk/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

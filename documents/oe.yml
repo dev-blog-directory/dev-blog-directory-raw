@@ -1,0 +1,33 @@
+-
+  _id: oecci9fwvf
+  name: "Python Anywhere"
+  url: "https://blog.pythonanywhere.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: oedg1dz00s
+  name: "All things Tech | Golang"
+  url: "https://mariadesouza.com/category/golang/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["golang"]
+-
+  _id: oerja283a7
+  name: "Reddy Prasad"
+  url: "https://reddyprasad.co.in/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

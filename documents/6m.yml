@@ -1,0 +1,33 @@
+-
+  _id: 6mln35no2w
+  name: "Geoblink"
+  url: "https://tech.geoblink.com/"
+  desc:
+  feed:
+  author: "Geoblink"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 6mioap6c38
+  name: "Baking Swift"
+  url: "https://jeroenscode.com/"
+  desc:
+  feed: "https://jeroenscode.com/feed/"
+  author: "By Jeroen Bakker"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 6myqewnw02
+  name: "Amitav Roy Blog | Youtube"
+  url: "https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]

@@ -1,0 +1,33 @@
+-
+  _id: o618hjd2ls
+  name: "swifting.io"
+  url: "https://swifting.io/"
+  desc:
+  feed: "https://swifting.io/feed/"
+  author: "By Michał Wojtysiak, Bartłomiej Woronin and Maciej Piotrowski"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: o6ypc6uh5i
+  name: "InfoWorld Cloud Computing"
+  url: "https://www.infoworld.com/category/cloud-computing/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: o6tfp8bmsc
+  name: "Jeremy Wei"
+  url: "http://weizhifeng.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

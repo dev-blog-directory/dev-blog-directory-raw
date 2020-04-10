@@ -1,0 +1,33 @@
+-
+  _id: 7r7ue0zis8
+  name: "Atom.io"
+  url: "http://blog.atom.io/"
+  desc:
+  feed:
+  author: "Atom.io"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 7rpcy5l8l0
+  name: "David Smith's Blog'"
+  url: "http://david-smith.org/"
+  desc:
+  feed: "https://david-smith.org/atom.xml"
+  author: "By David Smith"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 7rr4mktwv5
+  name: "小小子"
+  url: "http://www.xiaoxiaozi.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: cxed346yu3
+  name: "Hypriot"
+  url: "http://blog.hypriot.com/"
+  desc:
+  feed:
+  author: "Hypriot"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cx7iiksqq7
+  name: "Acodez IT Solutions - Web Design & Web Development Blog"
+  url: "https://acodez.in/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: cxs5tkx9bd
+  name: "ZHMING"
+  url: "http://mingplusplus.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

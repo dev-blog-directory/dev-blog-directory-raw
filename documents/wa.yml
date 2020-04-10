@@ -1,0 +1,66 @@
+-
+  _id: wamha6c1qy
+  name: "Kris Siegel"
+  url: "https://www.krissiegel.com/"
+  desc:
+  feed:
+  author: "Kris Siegel"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: wawk7jqta7
+  name: "TrackMaven"
+  url: "http://engineroom.trackmaven.com/"
+  desc:
+  feed:
+  author: "TrackMaven"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: waff05br85
+  name: "Grzegorz Gajos"
+  url: "http://ggajos.com/"
+  desc:
+  feed:
+  author: "Grzegorz Gajos"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: waovta0h2f
+  name: "Jon Kensy"
+  url: "http://www.jonkensy.com/"
+  desc:
+  feed:
+  author: "Jon Kensy"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wa302da9vp
+  name: "Total.js Blog"
+  url: "https://blog.totaljs.com/blogs/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: wa7g95wgxz
+  name: "西枫里博客"
+  url: "https://www.anji66.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

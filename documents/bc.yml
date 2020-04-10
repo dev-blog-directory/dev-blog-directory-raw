@@ -1,0 +1,22 @@
+-
+  _id: bccczpu84s
+  name: "Paulo Andrade's Blog"
+  url: "https://pfandrade.me/tags/ios/"
+  desc:
+  feed: "https://pfandrade.me/tags/ios/index.xml"
+  author: "By Paulo Andrade"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: bc7n2wbsln
+  name: "Louis Lee's Blog"
+  url: "http://louislee92.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

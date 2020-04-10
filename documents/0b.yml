@@ -1,0 +1,22 @@
+-
+  _id: 0b4hhjgxyc
+  name: "Hackernoon"
+  url: "https://hackernoon.com/"
+  desc: "How hackers start their afternoons."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 0buhx35nmg
+  name: "chsakell's Blog"
+  url: "https://chsakell.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

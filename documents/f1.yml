@@ -1,0 +1,22 @@
+-
+  _id: f1eceawarl
+  name: "Ben Dodson's Weblog"
+  url: "https://bendodson.com/weblog/"
+  desc:
+  feed: "https://bendodson.com/rss.xml"
+  author: "By Ben Dodson"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: f1vbsaee4u
+  name: "Weaponized Fluff"
+  url: "https://apontious.com/"
+  desc:
+  feed: "https://apontious.com/feed/"
+  author: "By Andrew Pontious"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

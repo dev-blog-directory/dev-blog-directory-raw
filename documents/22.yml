@@ -1,0 +1,55 @@
+-
+  _id: 22wp4zcnmv
+  name: "FastMail"
+  url: "https://blog.fastmail.com/"
+  desc: "FastMail Blog."
+  feed:
+  author: "FastMail"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 22enw4gte3
+  name: "Auth0 Blog"
+  url: "https://auth0.com/blog/"
+  desc: "Blog on articles related to Authentication and Securing APIs."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 22ohubw7om
+  name: "Sean Allen"
+  url: "https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw/videos"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: 226y913z7d
+  name: "Tony Bai"
+  url: "http://tonybai.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 228r0ff5wf
+  name: "宅前疯"
+  url: "http://www.zhaiqianfeng.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: 4taj92pnc7
+  name: "REA Group"
+  url: "http://techblog.realestate.com.au/engineering/"
+  desc: "REA Group Engineering Blog"
+  feed:
+  author: "REA Group"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 4t18oow90p
+  name: "Joe Zim's JavaScript Blog"
+  url: "https://www.joezimjs.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: 4t708y37kw
+  name: "郑州网建"
+  url: "http://camnpr.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: 8cdwafvy70
+  name: "Phyramid"
+  url: "https://www.phyramid.com/blog/"
+  desc: "Phyramid Blog."
+  feed:
+  author: "Phyramid"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 8cec5lht44
+  name: "VZ’s Blog"
+  url: "https://vinoit.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

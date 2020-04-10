@@ -1,0 +1,22 @@
+-
+  _id: eovmm61t28
+  name: "Victoria Dev"
+  url: "https://victoria.dev/"
+  desc:
+  feed:
+  author: "Victoria Dev"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: eop5xbsmc2
+  name: "Dark Web List » Dark web"
+  url: "https://www.darkweblist.com/category/dark-web/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["dark-web"]

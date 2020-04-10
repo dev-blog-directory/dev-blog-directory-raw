@@ -1,0 +1,55 @@
+-
+  _id: k9ix6dkw1r
+  name: "Adam Rackis"
+  url: "https://adamrackis.dev/"
+  desc:
+  feed:
+  author: "Adam Rackis"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: k9k42unuha
+  name: "TK"
+  url: "http://leandrotk.github.io/tk"
+  desc:
+  feed:
+  author: "TK"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: k9korc36zo
+  name: "Philipp Oppermann"
+  url: "https://os.phil-opp.com/"
+  desc:
+  feed:
+  author: "Philipp Oppermann"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: k9lmqmncu4
+  name: "Vivekanand Khyade - Algorithm Every Day | Youtube"
+  url: "https://www.youtube.com/user/vivekanandkhyade/videos"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["algorithm"]
+-
+  _id: k9is7g4r4x
+  name: "jaimeolmo.com"
+  url: "http://www.jaimeolmo.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

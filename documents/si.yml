@@ -1,0 +1,11 @@
+-
+  _id: si0py9nsym
+  name: "Coding.net 博客订阅RSS"
+  url: "https://coding.net/?from=rss"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:

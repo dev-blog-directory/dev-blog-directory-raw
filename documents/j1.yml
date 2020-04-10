@@ -1,0 +1,33 @@
+-
+  _id: j1pfdmeouc
+  name: "Besher Al Maleh's Blog"
+  url: "https://medium.com/@almalehdev"
+  desc:
+  feed: "https://medium.com/feed/@almalehdev"
+  author: "By Besher Al Maleh"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: j1m76v9840
+  name: "屈定’s Blog"
+  url: "https://mrdear.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: j1n76cphs8
+  name: "sirarsalih.com"
+  url: "https://sirarsalih.com/"
+  desc:
+  feed: "https://sirarsalih.com/atom.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

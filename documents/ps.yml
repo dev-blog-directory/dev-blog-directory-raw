@@ -1,0 +1,33 @@
+-
+  _id: ps5yw9ruc7
+  name: "Dereuromark"
+  url: "http://www.dereuromark.de/"
+  desc:
+  feed:
+  author: "Dereuromark"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: psrmj4gu6b
+  name: "疯子的自留地"
+  url: "http://pjf.name/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: psppu8ed37
+  name: "Hoolev"
+  url: "http://hoolev.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

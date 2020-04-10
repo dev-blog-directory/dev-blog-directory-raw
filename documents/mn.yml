@@ -1,0 +1,44 @@
+-
+  _id: mnrvqp4pbw
+  name: "SwiftGG"
+  url: "http://swift.gg/"
+  desc:
+  feed: "http://swift.gg/atom.xml"
+  author: "By SwiftGG翻译组"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: mncd3ni5z4
+  name: "How to do in JAVA"
+  url: "https://howtodoinjava.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: mnl4s72ne5
+  name: "polande"
+  url: "http://polande.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: mnr1fmtrqh
+  name: "阳振坤的博客"
+  url: "http://blog.sina.com.cn/kern0612"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

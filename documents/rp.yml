@@ -1,0 +1,22 @@
+-
+  _id: rp4pjp280f
+  name: "Miro Cupak"
+  url: "https://mirocupak.com/"
+  desc:
+  feed:
+  author: "Miro Cupak"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: rpm9he1ygq
+  name: "码农故事"
+  url: "http://mnstory.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: w0snf7r8w5
+  name: "Kolosek"
+  url: "https://kolosek.com/blog/"
+  desc:
+  feed:
+  author: "Kolosek"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: w0a3avfaf3
+  name: "Jerry Gamblin"
+  url: "https://jerrygamblin.com/"
+  desc:
+  feed:
+  author: "Jerry Gamblin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,55 @@
+-
+  _id: 082zqtb1o0
+  name: "Deborah Digges"
+  url: "http://deborah-digges.github.io/"
+  desc:
+  feed:
+  author: "Deborah Digges"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 08jlqcaj8m
+  name: "Machine Think"
+  url: "http://machinethink.net/blog/"
+  desc:
+  feed: "http://machinethink.net/blog/index.xml"
+  author: "By Matthijs Hollemans"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 08pk9ca4yq
+  name: "GAVIN LEE-李大头的生活小站"
+  url: "http://www.liyonge.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 086tla5ugm
+  name: "HTML5资源教程"
+  url: "http://www.html5tricks.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 08usp6tbgo
+  name: "刘荣星的博客"
+  url: "https://www.liurongxing.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

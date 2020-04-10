@@ -1,0 +1,22 @@
+-
+  _id: 8qlzd1j1ij
+  name: "Runtastic"
+  url: "https://www.runtastic.com/blog/en/category/tech/"
+  desc:
+  feed:
+  author: "Runtastic"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 8qavwupybk
+  name: "The Berkun Blog"
+  url: "http://scottberkun.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:

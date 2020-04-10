@@ -1,0 +1,33 @@
+-
+  _id: 7ljjhx17g5
+  name: "Postmarkapp"
+  url: "https://postmarkapp.com/blog"
+  desc: "Postmarkapp Blog."
+  feed:
+  author: "Postmarkapp"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 7l5xytc44g
+  name: "Zero Equals False"
+  url: "https://www.zeroequalsfalse.press/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 7l407uul6h
+  name: "Xuanye's blog"
+  url: "http://xuanye.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

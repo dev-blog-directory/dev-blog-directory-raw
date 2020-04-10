@@ -1,0 +1,55 @@
+-
+  _id: 3bwlzdzy3k
+  name: "John Resig"
+  url: "https://johnresig.com/category/blog/"
+  desc:
+  feed:
+  author: "John Resig"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3blwd38hhn
+  name: "Apple Developer News and Updates"
+  url: "https://developer.apple.com/news/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios"]
+-
+  _id: 3b3ew4kzo0
+  name: "VMCD.ORG"
+  url: "http://www.vmcd.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3b05cxipue
+  name: "云飞机器人实验室 YunFei Robotics Laboratory"
+  url: "http://www.yfworld.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3bj46k1e3o
+  name: "yosefk.com/blog"
+  url: "http://yosefk.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: 4hxrilczpq
+  name: "My Day To-Do"
+  url: "https://mydaytodo.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: 4hxdgt0jjn
+  name: "阿辉的博客"
+  url: "http://www.huilog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 4hnm16e7yz
+  name: "andy的linux小屋"
+  url: "http://andyhuzhill.github.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

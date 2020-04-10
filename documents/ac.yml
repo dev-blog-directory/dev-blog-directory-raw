@@ -1,0 +1,55 @@
+-
+  _id: acjqq53zdk
+  name: "Addy Osmani"
+  url: "https://addyosmani.com/blog/"
+  desc:
+  feed:
+  author: "Addy Osmani"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["javascript"]
+-
+  _id: acan1s2vgs
+  name: "Ariejan de Vroom"
+  url: "https://ariejan.net/"
+  desc:
+  feed:
+  author: "Ariejan de Vroom"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: actzdnxq3z
+  name: "lightSky'Blog"
+  url: "http://www.lightskystreet.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: aco1s0tzcx
+  name: "david"
+  url: "https://www.tianmaying.com/user/david"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ac15nc94o7
+  name: "陈斌彬的技术博客"
+  url: "https://cnbin.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

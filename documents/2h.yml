@@ -1,0 +1,55 @@
+-
+  _id: 2h7v8k4y1w
+  name: "C.H. Robinson"
+  url: "http://engineering.chrobinson.com/"
+  desc: "C.H. Robinson Engineering Blog, 3PL"
+  feed:
+  author: "C.H. Robinson"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2hx8da9rae
+  name: "Build Please"
+  url: "https://buildplease.com/"
+  desc: "Helpful development and design advice for .NET developers."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 2hjv7ljci8
+  name: "Ryan's zone"
+  url: "https://blog.csdn.net/ryantang03"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 2hpjzov5xj
+  name: "MobyGeek » Dark web"
+  url: "https://mobygeek.com/dark-web.html"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["dark-web"]
+-
+  _id: 2hm3n44wc5
+  name: "张宴的博客"
+  url: "http://zyan.cc/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

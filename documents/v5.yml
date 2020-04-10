@@ -1,0 +1,22 @@
+-
+  _id: v5msrgb3ua
+  name: "Python Module of the Week"
+  url: "https://pymotw.com/3/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: v5o93uf0nf
+  name: "欧长坤的博客"
+  url: "http://changkun.us/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

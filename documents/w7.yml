@@ -1,0 +1,22 @@
+-
+  _id: w7s7ttxkyo
+  name: "Chris Winstanley on Medium"
+  url: "https://medium.com/@CWinstanley90"
+  desc:
+  feed: "https://medium.com/feed/@CWinstanley90"
+  author: "By Chris Winstanley"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: w7l94cgv5l
+  name: "船长日志"
+  url: "http://www.cslog.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

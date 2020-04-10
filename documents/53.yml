@@ -1,0 +1,22 @@
+-
+  _id: 5308mibuvc
+  name: "Doğan Uçar"
+  url: "https://www.dogan-ucar.de/category/blog/"
+  desc:
+  feed:
+  author: "Doğan Uçar"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 53ep3b0ypz
+  name: "Planet Perl Iron Man - Enlightened Perl Org"
+  url: "http://ironman.enlightenedperl.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]

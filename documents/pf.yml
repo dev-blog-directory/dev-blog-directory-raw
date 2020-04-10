@@ -1,0 +1,22 @@
+-
+  _id: pf3m6bxixv
+  name: "YouTube"
+  url: "https://youtube-eng.googleblog.com/"
+  desc: "YouTube Engineering and Developers Blog."
+  feed:
+  author: "YouTube"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: pfm6265ce8
+  name: "Bigcommerce"
+  url: "http://www.bigeng.io/"
+  desc:
+  feed:
+  author: "Bigcommerce"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

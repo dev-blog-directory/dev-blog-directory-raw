@@ -1,0 +1,66 @@
+-
+  _id: ibkymsxwg1
+  name: "Susie Lu"
+  url: "https://susielu.com/"
+  desc:
+  feed:
+  author: "Susie Lu"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ibhnrkmjjb
+  name: "Steve Yegge"
+  url: "https://steve-yegge.blogspot.com/"
+  desc:
+  feed:
+  author: "Steve Yegge"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ib1bwo9at2
+  name: "How-To Geek"
+  url: "https://www.howtogeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: iblhmetjfs
+  name: "yangtingkun"
+  url: "http://yangtingkun.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ibfd64bofc
+  name: "张亚楠 ' BLOG - 天意从来高难问"
+  url: "http://www.zhidaow.com/feed"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ibyjypg0m4
+  name: "数码微"
+  url: "http://www.cccbeta.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

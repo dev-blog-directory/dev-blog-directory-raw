@@ -1,0 +1,44 @@
+-
+  _id: yypqyjs1yr
+  name: "bang's blog"
+  url: "http://blog.cnbang.net/"
+  desc:
+  feed: "http://blog.cnbang.net/feed/"
+  author: "By bang"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: yyjairuwqr
+  name: "技术宅"
+  url: "https://jszbug.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: yyqfl1amov
+  name: "zhuweisky"
+  url: "https://www.cnblogs.com/zhuweisky/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: yy2ee8t6gd
+  name: "Mark's Way"
+  url: "http://markchen.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

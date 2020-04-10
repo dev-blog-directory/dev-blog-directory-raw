@@ -1,0 +1,33 @@
+-
+  _id: 6vexsp8urn
+  name: "The Richer Geek Blog"
+  url: "https://www.therichergeek.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: 6vdn3o020d
+  name: "Devchat.tv | Adventures in Angular Episodes "
+  url: "https://devchat.tv/adv-in-angular/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]
+-
+  _id: 6vcgyjrajh
+  name: "某学姐"
+  url: "http://mouxuejie.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

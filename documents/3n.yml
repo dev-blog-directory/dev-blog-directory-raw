@@ -1,0 +1,22 @@
+-
+  _id: 3n304jl7y1
+  name: "hexiangyu"
+  url: "https://blog.hexiangyu.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3nkydhiw09
+  name: "All In the Head - Ponderings and Code By Drew McLellan"
+  url: "http://allinthehead.com/"
+  desc:
+  feed: "https://allinthehead.com/retro/rss"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

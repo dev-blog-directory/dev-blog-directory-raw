@@ -1,0 +1,55 @@
+-
+  _id: u8er2bvzh0
+  name: "Laravel"
+  url: "https://laravel-news.com/blog/"
+  desc:
+  feed:
+  author: "Laravel"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: u8zatzzvt1
+  name: "Techno Thirsty"
+  url: "https://www.technothirsty.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: u8xj2oiqpt
+  name: "JSConf | JavaScript Conferences "
+  url: "https://www.youtube.com/user/jsconfeu/videos"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: u8qcbbbtla
+  name: "屠城"
+  url: "http://haomwei.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: u8tjwwxpu9
+  name: "mearso.co.uk"
+  url: "http://www.mearso.co.uk/"
+  desc:
+  feed: "https://mearso.co.uk/feed.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,77 @@
+-
+  _id: eanjzct5mm
+  name: "Good Eggs"
+  url: "https://team.goodeggs.com/"
+  desc:
+  feed:
+  author: "Good Eggs"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ea11063rdo
+  name: "Mozilla Hacks"
+  url: "https://hacks.mozilla.org/"
+  desc:
+  feed:
+  author: "Mozilla Hacks"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: eacxolc4p9
+  name: "Jonathan Dekhtiar"
+  url: "http://www.born2data.com/"
+  desc:
+  feed:
+  author: "Jonathan Dekhtiar"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ea1xolpmji
+  name: "Stefan Parker"
+  url: "http://codebeforethehorse.tumblr.com/"
+  desc:
+  feed:
+  author: "Stefan Parker"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ea9pcl79hm
+  name: "Itty Bitty Apps Blog"
+  url: "https://www.ittybittyapps.com/blog/"
+  desc:
+  feed: "https://www.ittybittyapps.com/blog/index.xml"
+  author: "By Itty Bitty Apps Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: ea5b21r9ka
+  name: "Diverse Tech Geek"
+  url: "https://www.diversetechgeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: ea1lipts0k
+  name: "未命名"
+  url: "http://blog.leapoahead.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

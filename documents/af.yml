@@ -1,0 +1,22 @@
+-
+  _id: afyo4blpwt
+  name: "Glowing Python"
+  url: "http://glowingpython.blogspot.co.id/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: af57q16ch5
+  name: "斯巴达第二季"
+  url: "http://blog.donghao.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

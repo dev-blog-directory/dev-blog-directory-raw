@@ -1,0 +1,33 @@
+-
+  _id: qxp4u1v2rv
+  name: "Pedro Carrasco's Website"
+  url: "https://pedrommcarrasco.github.io/"
+  desc:
+  feed: "https://pedrommcarrasco.github.io/atom.xml"
+  author: "By Pedro Carrasco"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: qxc63svblg
+  name: "码猿同学"
+  url: "https://blog.csdn.net/AirMario"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: qxress62w6
+  name: "Ceylog"
+  url: "http://ceylog.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

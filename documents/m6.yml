@@ -1,0 +1,33 @@
+-
+  _id: m6uhecbipw
+  name: "Dreamix Group » Java"
+  url: "https://dreamix.eu/blog/category/java"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: m64epu4yas
+  name: "Ember Blog"
+  url: "https://www.emberjs.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: m6olvckq0z
+  name: "Sutter’s Mill"
+  url: "http://herbsutter.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

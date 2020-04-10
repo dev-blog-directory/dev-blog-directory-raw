@@ -1,0 +1,55 @@
+-
+  _id: xfq05lj6wt
+  name: "antirez"
+  url: "http://antirez.com/latest/0"
+  desc: "A blog by [Salvatore Sanfilippo](https://twitter.com/antirez)."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["database"]
+-
+  _id: xf4eqi9djr
+  name: "Ruslan Spivak"
+  url: "https://ruslanspivak.com/"
+  desc:
+  feed:
+  author: "Ruslan Spivak"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xfbj3x9jgs
+  name: "MindStick"
+  url: "https://www.mindstick.com/DeveloperSection/Blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: xf7l77o7or
+  name: "神农民博客"
+  url: "https://www.shennongmin.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xf7wehtbjj
+  name: "庆亮的博客-代码那些事"
+  url: "http://www.qingliangcn.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

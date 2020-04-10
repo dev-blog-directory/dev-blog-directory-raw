@@ -1,0 +1,33 @@
+-
+  _id: no253fwgrl
+  name: "Trevor Harmon"
+  url: "https://thetrevorharmon.com/"
+  desc:
+  feed:
+  author: "Trevor Harmon"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: nocsa2yevb
+  name: "λ-calculus"
+  url: "http://www.cppblog.com/vczh"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: no0jrrhbq5
+  name: "Ragnarok Note"
+  url: "http://ragnraok.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

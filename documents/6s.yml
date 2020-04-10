@@ -1,0 +1,11 @@
+-
+  _id: 6sr8yhfyn0
+  name: "Hynek Schlawack"
+  url: "https://hynek.me/articles/"
+  desc:
+  feed:
+  author: "Hynek Schlawack"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

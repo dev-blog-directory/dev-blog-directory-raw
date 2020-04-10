@@ -1,0 +1,33 @@
+-
+  _id: ljcqtn6qxk
+  name: "App Makers "
+  url: "https://appmakers.dev/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: ljqjgz1osn
+  name: "fisherMartyn"
+  url: "https://fishermartyn.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: lj4nrf4w86
+  name: "qubyte.codes"
+  url: "https://qubyte.codes/"
+  desc:
+  feed: "https://qubyte.codes/atom.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

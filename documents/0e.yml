@@ -1,0 +1,22 @@
+-
+  _id: 0exjyeg8zv
+  name: "Zulily"
+  url: "https://engineering.zulily.com/"
+  desc:
+  feed:
+  author: "Zulily"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 0e9a7gwasr
+  name: "The Coding Interview Blog"
+  url: "http://www.interviewdruid.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:

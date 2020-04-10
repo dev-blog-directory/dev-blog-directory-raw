@@ -1,0 +1,22 @@
+-
+  _id: lg0ha7j63w
+  name: "47 Degrees Blog"
+  url: "https://www.47deg.com/blog/"
+  desc:
+  feed: "https://www.47deg.com/feed.xml"
+  author: "By 47 Degrees"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: lglumaynmk
+  name: "简单点"
+  url: "http://www.95ie.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

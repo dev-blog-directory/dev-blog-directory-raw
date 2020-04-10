@@ -1,0 +1,33 @@
+-
+  _id: vou7t3h5sb
+  name: "wd and cc"
+  url: "http://wdicc.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: volac061tw
+  name: "wahibhaq.com/blog/ultimate-resources-android-dev"
+  url: "http://wahibhaq.com/blog/ultimate-resources-android-dev/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["android"]
+-
+  _id: vobhvgm2gj
+  name: "blog.lmorchard.com"
+  url: "http://blog.lmorchard.com/"
+  desc:
+  feed: "http://blog.lmorchard.com.s3-website-us-east-1.amazonaws.com/index.rss"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

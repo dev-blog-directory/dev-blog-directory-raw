@@ -1,0 +1,77 @@
+-
+  _id: aic0kvd0q1
+  name: "Advanced Web Machinery"
+  url: "https://advancedweb.hu/"
+  desc: "Advanced web Machinery Blog."
+  feed:
+  author: "Advanced Web Machinery"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: aih6366e5f
+  name: "FusionReactor"
+  url: "https://www.fusion-reactor.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: aiz039g2q6
+  name: "Mike's Blog"
+  url: "https://blog.netopyr.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: airl4ksa90
+  name: "Help Desk Geek"
+  url: "https://helpdeskgeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: ai8nkmsb7c
+  name: "栋哥的博客"
+  url: "https://liuyandong.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ails79w45h
+  name: "MongoDB中文社区"
+  url: "http://www.mongoing.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: aiul85er0t
+  name: "火星信息安全研究院"
+  url: "http://www.h4ck.org.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

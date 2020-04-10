@@ -1,0 +1,33 @@
+-
+  _id: fptk6y2rxi
+  name: "Marcelo Rinesi"
+  url: "https://blog.rinesi.com/"
+  desc:
+  feed:
+  author: "Marcelo Rinesi"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fpszipzpw4
+  name: "Javarevisited"
+  url: "https://javarevisited.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: fpdgrhnukl
+  name: "降龙"
+  url: "http://xianglong.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: z5kvqzidtr
+  name: "Juan Treminio"
+  url: "https://jtreminio.com/"
+  desc:
+  feed:
+  author: "Juan Treminio"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: z566ehqfms
+  name: "Kaira Diagne's Blog"
+  url: "https://kairadiagne.com/"
+  desc:
+  feed: "https://kairadiagne.com/feed.xml"
+  author: "By Kaira Diagne"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

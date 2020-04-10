@@ -1,0 +1,44 @@
+-
+  _id: j0crn5perj
+  name: "Discord"
+  url: "https://blog.discordapp.com/"
+  desc:
+  feed:
+  author: "Discord"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: j0npi741kf
+  name: "纯洁的微笑"
+  url: "http://www.ityouknow.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["java"]
+-
+  _id: j0tyljbigw
+  name: "秋过冬漫长"
+  url: "https://jackchan1999.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: j0b8yo3a7e
+  name: "Lavare"
+  url: "http://yangcaimu.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

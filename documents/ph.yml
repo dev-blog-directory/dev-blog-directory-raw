@@ -1,0 +1,22 @@
+-
+  _id: phy0h0it44
+  name: "Python | Reddit.com"
+  url: "https://www.reddit.com/r/Python/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: phmq6a34tx
+  name: "Juri Strumpflohner"
+  url: "https://juristr.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]

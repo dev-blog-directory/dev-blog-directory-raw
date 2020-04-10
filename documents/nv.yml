@@ -1,0 +1,11 @@
+-
+  _id: nvo6uyy85g
+  name: "David Sinclair's Blog"
+  url: "http://www.dejal.com/blog/"
+  desc:
+  feed: "http://www.dejal.com/blog/feed"
+  author: "By David Sinclair"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

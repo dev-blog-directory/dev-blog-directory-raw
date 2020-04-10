@@ -1,0 +1,33 @@
+-
+  _id: 58t6g95sqt
+  name: "Mike Street Blog"
+  url: "https://www.mikestreety.co.uk/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]
+-
+  _id: 589nsozxfs
+  name: "Jev Kuznetsov"
+  url: "http://tradingwithpython.blogspot.co.id/"
+  desc:
+  feed:
+  author: "Jev Kuznetsov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 58bc38sbis
+  name: "Mctrain's Blog"
+  url: "http://ytliu.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

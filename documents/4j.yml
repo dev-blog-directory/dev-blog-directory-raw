@@ -1,0 +1,44 @@
+-
+  _id: 4jal9zr10u
+  name: "Addepar"
+  url: "https://medium.com/build-addepar"
+  desc: "Addepar Engineering Blog."
+  feed:
+  author: "Addepar"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 4jea4s9nwf
+  name: "Slava Pestov on Medium"
+  url: "https://medium.com/@slavapestov"
+  desc:
+  feed: "https://medium.com/feed/@slavapestov"
+  author: "By Slava Pestov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 4j5eptay4c
+  name: "Thomas Ricouard on Medium"
+  url: "https://medium.com/@dimillian"
+  desc:
+  feed: "https://medium.com/feed/@dimillian"
+  author: "By Thomas Ricouard"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 4jm3jukil8
+  name: "The PyCon blog"
+  url: "https://pycon.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]

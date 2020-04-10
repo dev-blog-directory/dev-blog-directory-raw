@@ -1,0 +1,22 @@
+-
+  _id: ppjmqcxgn4
+  name: "Android Developers Blog"
+  url: "https://android-developers.googleblog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: pplnmihkdm
+  name: "Geeky Gadgets"
+  url: "https://www.geeky-gadgets.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

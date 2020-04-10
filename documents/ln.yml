@@ -1,0 +1,33 @@
+-
+  _id: lnt1f2a8lm
+  name: "SourceClear"
+  url: "https://blog.sourceclear.com/"
+  desc:
+  feed:
+  author: "SourceClear"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: lnlzbbqyxn
+  name: "海运的博客"
+  url: "https://www.haiyun.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: lnm14nw97p
+  name: "slient plant"
+  url: "http://mpwang.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

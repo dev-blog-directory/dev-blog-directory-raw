@@ -1,0 +1,55 @@
+-
+  _id: yqigo8n0k2
+  name: "Intel"
+  url: "https://software.intel.com/en-us/blogs/"
+  desc:
+  feed:
+  author: "Intel"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: yqmwkwkjt6
+  name: "LLVS Blog"
+  url: "https://mentalfaculty.github.io/LLVS"
+  desc:
+  feed: "https://mentalfaculty.github.io/LLVS/feed.xml"
+  author: "By Drew McCormack"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: yqmoi0tgd9
+  name: "Virtual Sanity"
+  url: "https://www.virtualsanity.com/"
+  desc:
+  feed: "https://www.virtualsanity.com/feed/"
+  author: "By John Brayton"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: yqd9kk2fr6
+  name: "Chetaru | International Digital Agency"
+  url: "https://chetaru.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: yq8jvc2e2y
+  name: "DianaCody's Shell"
+  url: "http://www.dianacody.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

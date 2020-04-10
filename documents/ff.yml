@@ -1,0 +1,44 @@
+-
+  _id: ffdrdp6sez
+  name: "Cleartrip"
+  url: "https://medium.com/cleartrip"
+  desc: "Cleartrip Blog."
+  feed:
+  author: "Cleartrip"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ffemfj2w84
+  name: "ackermann.io"
+  url: "https://ackermann.io/"
+  desc:
+  feed: "https://ackermann.io/feed"
+  author: "By Ryan Ackermann"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ffimsmnno6
+  name: "Reddit - Cloud computing"
+  url: "https://www.reddit.com/r/cloudcomputing/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: ff4nqt25fw
+  name: "endlessparentheses.com"
+  url: "http://endlessparentheses.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["lisp"]

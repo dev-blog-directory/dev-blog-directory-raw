@@ -1,0 +1,11 @@
+-
+  _id: cp5qbq2fxm
+  name: "Krzysztof Zabłocki's Blog"
+  url: "http://merowing.info/post/"
+  desc:
+  feed: "http://merowing.info/index.xml"
+  author: "By Krzysztof Zabłocki"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

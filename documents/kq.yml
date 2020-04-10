@@ -1,0 +1,44 @@
+-
+  _id: kqx6a9r973
+  name: "知库吧"
+  url: "https://zhiku8.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: kqpn1kba8c
+  name: "RIA爱好者"
+  url: "http://www.riafan.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: kq0ctyv2kl
+  name: "爱上极客"
+  url: "http://www.i3geek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: kq3sdls1e9
+  name: "喻名堂"
+  url: "http://www.asymt.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

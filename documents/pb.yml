@@ -1,0 +1,33 @@
+-
+  _id: pbbxkt0z06
+  name: "Manu Sporny"
+  url: "http://manu.sporny.org/"
+  desc:
+  feed:
+  author: "Manu Sporny"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: pbi6wkqe5x
+  name: " Inside Technologies"
+  url: "https://www.insidetechnologies.eu/en/blogs/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: pb66p7qtc8
+  name: "Axiu Blog"
+  url: "http://axiu.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

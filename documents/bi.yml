@@ -1,0 +1,22 @@
+-
+  _id: big8vp9bl6
+  name: "objc中国"
+  url: "http://objccn.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: bit431s8bi
+  name: "Geek Insider"
+  url: "https://www.geekinsider.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

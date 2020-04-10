@@ -1,0 +1,22 @@
+-
+  _id: uyq9iwwi3q
+  name: "Cyril Mottier"
+  url: "https://cyrilmottier.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: uyqktbppz4
+  name: "Applied Go on "
+  url: "https://appliedgo.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["golang"]

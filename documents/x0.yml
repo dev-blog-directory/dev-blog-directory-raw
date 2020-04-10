@@ -1,0 +1,22 @@
+-
+  _id: x0372al6o7
+  name: "KA Engineering (Khan Academy)"
+  url: "http://engineering.khanacademy.org/"
+  desc:
+  feed:
+  author: "KA Engineering (Khan Academy)"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: x0xikqebk1
+  name: "Code with Dan Blog see it, learn it, code it"
+  url: "https://blog.codewithdan.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]

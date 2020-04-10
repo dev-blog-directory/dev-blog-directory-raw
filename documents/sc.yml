@@ -1,0 +1,22 @@
+-
+  _id: scwtx7vcq8
+  name: "Bazaarvoice"
+  url: "https://blog.developer.bazaarvoice.com/"
+  desc:
+  feed:
+  author: "Bazaarvoice"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: sc4b5orefx
+  name: "My experience in Java"
+  url: "https://sandeepdass003.wordpress.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]

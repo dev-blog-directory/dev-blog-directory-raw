@@ -1,0 +1,33 @@
+-
+  _id: 0t8ptlodg2
+  name: "Atomic Object"
+  url: "https://spin.atomicobject.com/"
+  desc:
+  feed:
+  author: "Atomic Object"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 0t3hu9pev1
+  name: "arcpy.wordpress.com"
+  url: "https://arcpy.wordpress.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 0tze47tqph
+  name: "valhead.com"
+  url: "https://valhead.com/"
+  desc:
+  feed: "https://valhead.com/feed/"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

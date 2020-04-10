@@ -1,0 +1,33 @@
+-
+  _id: umi29tshi7
+  name: "Subclassed"
+  url: "http://blog.pythonaro.com/"
+  desc:
+  feed:
+  author: "Giacomo Lacava"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: umxbqwv53f
+  name: "MaskRay"
+  url: "http://maskray.me/blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ummk88vi36
+  name: "Rming"
+  url: "http://rmingwang.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

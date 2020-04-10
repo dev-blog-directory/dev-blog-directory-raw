@@ -1,0 +1,66 @@
+-
+  _id: hexg6pnz57
+  name: "Larry Land"
+  url: "https://lg.io/"
+  desc:
+  feed:
+  author: "Larry Land"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: hed4bqgeo6
+  name: "MadeWith Vue.js"
+  url: "https://madewithvuejs.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]
+-
+  _id: helh7qxqn0
+  name: "Muhammad Hassan"
+  url: "https://hassantariqblog.wordpress.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]
+-
+  _id: heqr9qnphl
+  name: "StatsBlog"
+  url: "http://www.statsblogs.com/tag/python/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: he0kcvlkrq
+  name: "Cuble's Blog"
+  url: "http://blog.sina.com.cn/fouryu"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: hes9xcsa37
+  name: "snowlotus"
+  url: "http://snowlotus.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

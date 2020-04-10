@@ -1,0 +1,22 @@
+-
+  _id: zghd3bk6s1
+  name: "Matter of Software"
+  url: "https://www.matterofsoftware.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: zgi8sy6qyp
+  name: "CS Slayer"
+  url: "https://www.csslayer.info/wordpress"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,55 @@
+-
+  _id: txogrt3h8b
+  name: "Syntax Sauce"
+  url: "http://www.syntaxsuccess.com/"
+  desc: "Blog about JavaScript topics like frameworks and web performance."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: txo7mhubkc
+  name: "The Coded Self"
+  url: "http://www.thecodedself.com/"
+  desc:
+  feed:
+  author: "The Coded Self"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: tx2f9gb9af
+  name: "StackVoid"
+  url: "http://stackvoid.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: tx79jcb7al
+  name: "Ben Scholtysik's Blog"
+  url: "https://benjaminscholtysik.com/"
+  desc:
+  feed: "https://benjaminscholtysik.com/feed/"
+  author: "By Ben Scholtysik"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: txsia64st5
+  name: "John Scott's Blog"
+  url: "https://jjrscott.com/"
+  desc:
+  feed: "https://jjrscott.com/atom.xml"
+  author: "By John Scott"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

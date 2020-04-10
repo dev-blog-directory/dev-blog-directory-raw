@@ -1,0 +1,33 @@
+-
+  _id: zyjprhyd0o
+  name: "Freek Van der Herten"
+  url: "https://murze.be/"
+  desc:
+  feed:
+  author: "Freek Van der Herten"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: zypnwx8tqb
+  name: "Rudy Huyn"
+  url: "http://www.rudyhuyn.com/blog/"
+  desc:
+  feed:
+  author: "Rudy Huyn"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: zy1c26j4zw
+  name: "PyCon Blog"
+  url: "http://pycon.blogspot.co.id/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

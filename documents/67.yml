@@ -1,0 +1,22 @@
+-
+  _id: 6794qbktgo
+  name: "有赞技术团队"
+  url: "http://tech.youzan.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 67qcjbq04p
+  name: "TW洞见"
+  url: "http://insights.thoughtworkers.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

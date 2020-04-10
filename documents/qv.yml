@@ -1,0 +1,11 @@
+-
+  _id: qvhkehclgc
+  name: "Matt Diephouse's Blog"
+  url: "http://matt.diephouse.com/swift/"
+  desc:
+  feed: "http://matt.diephouse.com/swift/index.xml"
+  author: "By Matt Diephouse"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

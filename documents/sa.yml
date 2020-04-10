@@ -1,0 +1,22 @@
+-
+  _id: saqz1uhpr1
+  name: "IntentHQ"
+  url: "http://engineering.intenthq.com/"
+  desc: "IntentHQ Engineering."
+  feed:
+  author: "IntentHQ"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: sawkot4qna
+  name: "Yoong Kang Lim"
+  url: "https://yoongkang.com/"
+  desc:
+  feed:
+  author: "Yoong Kang Lim"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

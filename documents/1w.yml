@@ -1,0 +1,11 @@
+-
+  _id: 1wo6u6comz
+  name: "Home - colah's blog"
+  url: "http://colah.github.io/"
+  desc:
+  feed:
+  author: "Christopher Olah"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: lxn1k8jzob
+  name: "HollisChuang’s Blog"
+  url: "http://www.hollischuang.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["java"]
+-
+  _id: lxzjwjmexv
+  name: "IT民工 or IT精英"
+  url: "http://www.itfarmer.com.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

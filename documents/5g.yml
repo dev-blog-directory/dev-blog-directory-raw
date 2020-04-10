@@ -1,0 +1,33 @@
+-
+  _id: 5gkx1ingip
+  name: "DCHQ.io"
+  url: "http://dchq.co/blog.html"
+  desc: "DCHQ Blog."
+  feed:
+  author: "DCHQ.io"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 5gydwevoa3
+  name: "Python For Finance"
+  url: "https://pythonforfinance.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: 5gpyqux5lp
+  name: "sijmen.ruwhof.net/weblog"
+  url: "http://sijmen.ruwhof.net/weblog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["security"]

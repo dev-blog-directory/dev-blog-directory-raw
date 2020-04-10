@@ -1,0 +1,22 @@
+-
+  _id: sthfdhlwsk
+  name: "Program Creek"
+  url: "https://www.programcreek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: st70ko3bf7
+  name: "Vue.js Developers"
+  url: "https://vuejsdevelopers.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]

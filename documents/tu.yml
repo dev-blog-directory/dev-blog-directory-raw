@@ -1,0 +1,22 @@
+-
+  _id: tudwpbf3lv
+  name: "GitHub Old"
+  url: "https://github.com/blog/category/engineering"
+  desc:
+  feed:
+  author: "GitHub Old"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: tuk8r46r45
+  name: "That Thing In Swift"
+  url: "https://thatthinginswift.com/"
+  desc:
+  feed:
+  author: "Nick O'Neill"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

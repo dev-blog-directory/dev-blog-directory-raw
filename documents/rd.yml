@@ -1,0 +1,33 @@
+-
+  _id: rdeqp1b6ck
+  name: "MongoDB"
+  url: "https://engineering.mongodb.com/"
+  desc:
+  feed:
+  author: "MongoDB"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: rdj7r6yzw8
+  name: "John Wittenauer"
+  url: "http://www.johnwittenauer.net/"
+  desc:
+  feed:
+  author: "John Wittenauer"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: rdi2nt786g
+  name: "Hans Gerwitz"
+  url: "https://hans.gerwitz.com/"
+  desc:
+  feed:
+  author: "Hans Gerwitz"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

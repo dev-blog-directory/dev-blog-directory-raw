@@ -1,0 +1,22 @@
+-
+  _id: to1s5i9p2r
+  name: "Benoit Pasquier's Blog"
+  url: "https://benoitpasquier.com/"
+  desc:
+  feed: "https://benoitpasquier.com/index.xml"
+  author: "By Benoit Pasquier"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: to9sve86bv
+  name: "The Distance – iOS Posts"
+  url: "https://thedistance.co.uk/category/ios/"
+  desc:
+  feed: "https://thedistance.co.uk/category/ios/feed/"
+  author: "By The Distance"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

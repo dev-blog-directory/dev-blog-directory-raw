@@ -1,0 +1,33 @@
+-
+  _id: ywv2oyl4ut
+  name: "Piotr Pasich"
+  url: "http://piotrpasich.com/"
+  desc:
+  feed:
+  author: "Piotr Pasich"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: yw0noq931t
+  name: "Ben Tappin"
+  url: "http://mrben.co.uk/category/python/"
+  desc:
+  feed:
+  author: "Ben Tappin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: yw8b58nwat
+  name: "懶泥陳的iOS部落格"
+  url: "http://iostech.logdown.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

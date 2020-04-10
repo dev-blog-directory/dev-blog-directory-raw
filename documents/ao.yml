@@ -1,0 +1,22 @@
+-
+  _id: ao9zprw4y7
+  name: "Airbnb"
+  url: "https://medium.com/airbnb-engineering"
+  desc:
+  feed:
+  author: "Airbnb"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: aol0e4addy
+  name: "Arek Holko's Blog"
+  url: "http://holko.pl/"
+  desc:
+  feed: "http://feeds.feedburner.com/ArkadiuszHolko"
+  author: "By Arek Holko"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

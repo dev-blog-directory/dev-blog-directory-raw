@@ -1,0 +1,55 @@
+-
+  _id: 9if5p84irl
+  name: "Panorama Education"
+  url: "http://engineering.panoramaed.com/"
+  desc:
+  feed:
+  author: "Panorama Education"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 9ikwiyh1mm
+  name: "Kaya Thomas' Blog"
+  url: "https://kayathomas.info/"
+  desc:
+  feed: "https://kayathomas.info/feed/"
+  author: "By Kaya Thomas"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 9iw4js16lq
+  name: "Wayne Bishop's Blog"
+  url: "https://extras.waynewbishop.com/swift"
+  desc:
+  feed: "https://extras.waynewbishop.com/swift?format=rss"
+  author: "By Wayne Bishop"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 9ix0x7klti
+  name: "RevenueCat Blog"
+  url: "https://medium.com/revenuecat-blog"
+  desc:
+  feed: "https://medium.com/feed/revenuecat-blog"
+  author: "By Jacob Eiting"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: 9i571xe73z
+  name: "Android UI Patterns"
+  url: "http://www.androiduipatterns.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]

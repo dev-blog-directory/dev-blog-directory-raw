@@ -1,0 +1,22 @@
+-
+  _id: o480z6so16
+  name: "Transferwise"
+  url: "http://tech.transferwise.com/"
+  desc:
+  feed:
+  author: "Transferwise"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: o471b2ow47
+  name: "Objective Tidbits"
+  url: "https://objectivetidbits.com/"
+  desc:
+  feed: "https://objectivetidbits.com/feed/"
+  author: "By Ilter Cengiz"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

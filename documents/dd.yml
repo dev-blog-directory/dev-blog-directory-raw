@@ -1,0 +1,22 @@
+-
+  _id: ddkgtzgssn
+  name: "Andrew Bancroft"
+  url: "https://www.andrewcbancroft.com/"
+  desc:
+  feed: "https://www.andrewcbancroft.com/index.xml"
+  author: "By Andrew Bancroft"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: ddv8zd5fz1
+  name: "Académie Ryfacto | Advanced iOS Craft"
+  url: "https://academie.ryfacto.fr/"
+  desc:
+  feed: "https://academie.ryfacto.fr/advanced-ios-craft/feed.xml"
+  author: "By Nicolas Verinaud"
+  langs: ["fr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

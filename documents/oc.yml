@@ -1,0 +1,33 @@
+-
+  _id: ocv55yg6mo
+  name: "Marcos Griselli's Blog"
+  url: "https://mar.codes/"
+  desc:
+  feed: "https://mar.codes/feed"
+  author: "By Marcos Griselli"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: oc6w3ewyz2
+  name: "SitePoint"
+  url: "https://www.sitepoint.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: oce7qr2tcu
+  name: "bibodeng"
+  url: "http://www.bibodeng.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

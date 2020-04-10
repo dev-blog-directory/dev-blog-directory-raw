@@ -1,0 +1,33 @@
+-
+  _id: xkddk1mjru
+  name: "Zephyro"
+  url: "https://itszephyro.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: xkm7crre13
+  name: "不可能不确定"
+  url: "http://chensd.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xk2g2w98re
+  name: "Freewind @ Thoughtworks"
+  url: "http://freewind.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

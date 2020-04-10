@@ -1,0 +1,66 @@
+-
+  _id: 8tay8epqvn
+  name: "Viget"
+  url: "https://www.viget.com/articles/category/code#articles"
+  desc:
+  feed:
+  author: "Viget"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 8te4tcax3g
+  name: "Andy Obusek's Blog"
+  url: "http://www.cleanswifter.com/"
+  desc:
+  feed: "http://cleanswifter.com/feed/"
+  author: "By Andy Obusek"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 8t6onyavof
+  name: "ComputerworldUK"
+  url: "https://www.computerworlduk.com/cloud-computing/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: 8t158xqrqe
+  name: "Lok"
+  url: "http://lok.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 8tao9v93zf
+  name: "小彭博客"
+  url: "http://www.houfukude.tk/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 8tyn5rdien
+  name: "雅乐网 » 雅乐网"
+  url: "http://www.yalewoo.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

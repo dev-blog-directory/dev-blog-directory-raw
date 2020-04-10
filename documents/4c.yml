@@ -1,0 +1,55 @@
+-
+  _id: 4crb63j7mq
+  name: "Travis Bumgarner"
+  url: "https://blog.travisbumgarner.com/"
+  desc:
+  feed:
+  author: "Travis Bumgarner"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 4cto8t7ehl
+  name: "今日头条技术博客"
+  url: "http://techblog.toutiao.com/"
+  desc:
+  feed:
+  author: "今日头条技术博客"
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 4cz08lybtc
+  name: "Doximity"
+  url: "https://engineering.doximity.com/"
+  desc: "Doximity Engineering Blog."
+  feed:
+  author: "Doximity"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 4cbdan2be9
+  name: "Jan Lelis"
+  url: "https://idiosyncratic-ruby.com/"
+  desc:
+  feed:
+  author: "Jan Lelis"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 4c1696adg8
+  name: "穷折腾"
+  url: "http://blog.zorro.im/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

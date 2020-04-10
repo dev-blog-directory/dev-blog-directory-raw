@@ -1,0 +1,55 @@
+-
+  _id: 1a1kl6d24b
+  name: "Daniel Lemay"
+  url: "https://www.dslemay.com/"
+  desc:
+  feed:
+  author: "Daniel Lemay"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 1audgtqis2
+  name: "Jeff Johnson's Blog"
+  url: "http://lapcatsoftware.com/articles/index.html"
+  desc:
+  feed: "http://lapcatsoftware.com/articles/atom.xml"
+  author: "By Jeff Johnson"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 1ao7uxf04c
+  name: "alexruperez.com"
+  url: "http://www.alexruperez.com/entries"
+  desc:
+  feed: "http://feeds.alexruperez.com/alexruperez"
+  author: "By Alex Rupérez"
+  langs: ["es"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 1agpzvnr8w
+  name: "PyBloggers"
+  url: "http://www.pybloggers.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: 1azww9xj7c
+  name: "开心&努力"
+  url: "http://www.kxtry.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

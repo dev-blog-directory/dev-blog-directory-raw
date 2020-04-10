@@ -1,0 +1,33 @@
+-
+  _id: 9eff6dny6u
+  name: "Magalix Blog"
+  url: "https://www.magalix.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: 9ezcj42nhp
+  name: "点我达技术"
+  url: "http://tech.dianwoda.com/2016/11/10/formbiao-dan-de-jin-jie-xue-xi/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9e9j1i5c96
+  name: "大头龙仔Blog"
+  url: "http://imlcl.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

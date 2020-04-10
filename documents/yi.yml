@@ -1,0 +1,55 @@
+-
+  _id: yier178z4p
+  name: "Tanin's Blog"
+  url: "https://www.tanin.dev/tags/ios"
+  desc:
+  feed: "https://tanin.dev/tags/ios/index.xml"
+  author: "By Tanin Rojanapiansatith"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: yic0x3aiuv
+  name: "Tim Oliver's Blog"
+  url: "http://timoliver.blog/"
+  desc:
+  feed: "https://timoliver.blog/feed/"
+  author: "By Tim Oliver"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: yigkd6psjb
+  name: "TutorialsPoint"
+  url: "http://www.tutorialspoint.com/python/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: yif8w5eyet
+  name: "aneasystone’s blog"
+  url: "https://www.aneasystone.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: yi1uwf6g2v
+  name: "aakinshin.net/en/blog/content"
+  url: "http://aakinshin.net/en/blog/content/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: [".net","c#"]

@@ -1,0 +1,77 @@
+-
+  _id: copffgs4fr
+  name: "Crowdbooster"
+  url: "http://blog.crowdbooster.com/"
+  desc: "Crowdbooster Blog."
+  feed:
+  author: "Crowdbooster"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: cowfkt08ki
+  name: "Flipkart"
+  url: "https://tech.flipkart.com/"
+  desc: "Flipkart Engineering."
+  feed:
+  author: "Flipkart"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: cozzzq294b
+  name: "MrPeak杂货铺"
+  url: "http://mrpeak.cn/"
+  desc:
+  feed: "http://mrpeak.cn/feed.xml"
+  author: "By MrPeak"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: co1d67yraq
+  name: "Moonshine Clouds » Cloud computing "
+  url: "http://www.moonshineclouds.com/category/cloud-computing/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: coc69vjetl
+  name: "马洪飞博客"
+  url: "https://mahongfei.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: co9knlku1j
+  name: "妙音"
+  url: "http://yongqing.is-programmer.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: coq82wy43q
+  name: "Kevin Blog"
+  url: "http://zhowkev.in/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

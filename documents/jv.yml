@@ -1,0 +1,33 @@
+-
+  _id: jvkdfnb787
+  name: "Adrian Śliwa on Medium"
+  url: "https://medium.com/@adrianmsliwa"
+  desc:
+  feed: "https://medium.com/feed/@adrianmsliwa"
+  author: "By Adrian Śliwa"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: jveybqj135
+  name: "Scorpios"
+  url: "https://scorpios.home.blog/"
+  desc:
+  feed: "https://scorpios.home.blog/feed/"
+  author: "By Avi Tsadok"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: jv0unhzjym
+  name: "Leeyee's Blog"
+  url: "http://leeyee.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

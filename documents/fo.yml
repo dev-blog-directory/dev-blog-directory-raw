@@ -1,0 +1,11 @@
+-
+  _id: fo1j2bkgxo
+  name: "theScore"
+  url: "http://techblog.thescore.com/"
+  desc:
+  feed:
+  author: "theScore"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

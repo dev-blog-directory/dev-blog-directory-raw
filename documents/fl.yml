@@ -1,0 +1,55 @@
+-
+  _id: fljqa2x1y0
+  name: "LiveOverflow"
+  url: "https://liveoverflow.com/blog/index.html"
+  desc:
+  feed:
+  author: "LiveOverflow"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: flopjuodm9
+  name: "Appfigures Blog"
+  url: "https://blog.appfigures.com/"
+  desc:
+  feed: "https://blog.appfigures.com/feed/"
+  author: "By Appfigures Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: flkqf6vm9b
+  name: "Miguel Grinberg"
+  url: "https://blog.miguelgrinberg.com/category/Python"
+  desc:
+  feed:
+  author: "Miguel Grinberg"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: flxdxm8i89
+  name: "X-Space"
+  url: "http://blog.phpdr.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: flxhnuf51x
+  name: "OpenStack中国社区"
+  url: "http://www.openstack.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

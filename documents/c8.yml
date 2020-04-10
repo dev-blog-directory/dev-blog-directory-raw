@@ -1,0 +1,33 @@
+-
+  _id: c8j4xq6eqy
+  name: "skagedal's oboy"
+  url: "https://blog.skagedal.tech/"
+  desc:
+  feed: "http://blog.skagedal.tech/feed.xml"
+  author: "By Simon Kågedal Reimer"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: c8um8yni3b
+  name: "undefined"
+  url: "http://undefinedblog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: c8smexs6cc
+  name: "webjigsaw.com"
+  url: "http://webjigsaw.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

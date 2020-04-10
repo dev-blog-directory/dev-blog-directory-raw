@@ -1,0 +1,22 @@
+-
+  _id: ziqxu2m63k
+  name: "Udacity"
+  url: "https://blog.udacity.com/"
+  desc: "Udacity Blog."
+  feed:
+  author: "Udacity"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: zivp21ho87
+  name: "Akagi201"
+  url: "http://akagi201.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

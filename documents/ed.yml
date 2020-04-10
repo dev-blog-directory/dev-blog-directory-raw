@@ -1,0 +1,44 @@
+-
+  _id: ederwc7kca
+  name: "Joe Masilotti's Blog"
+  url: "http://masilotti.com/"
+  desc:
+  feed: "http://masilotti.com/atom.xml"
+  author: "By Joe Masilotti"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: edrisdudsq
+  name: "Niamh Power on Medium"
+  url: "https://medium.com/@niamhpower"
+  desc:
+  feed: "https://medium.com/feed/@niamhpower"
+  author: "By Niamh Power"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ednhlkxojy
+  name: "Medium | React Native Coach"
+  url: "https://blog.reactnativecoach.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["react"]
+-
+  _id: edo5jeehem
+  name: "Contact Center Geek"
+  url: "https://contactcentergeek.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

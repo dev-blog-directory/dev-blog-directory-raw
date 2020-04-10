@@ -1,0 +1,22 @@
+-
+  _id: 7aq9mvmjvt
+  name: "CSS Smashing Magazine"
+  url: "https://www.smashingmagazine.com/tag/css/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["css"]
+-
+  _id: 7a7wev36y7
+  name: "crgeary.com"
+  url: "https://www.crgeary.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

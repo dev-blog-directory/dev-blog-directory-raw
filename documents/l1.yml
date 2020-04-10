@@ -1,0 +1,22 @@
+-
+  _id: l1fbajbpnt
+  name: "Bitsplitting"
+  url: "http://bitsplitting.org/"
+  desc:
+  feed: "http://bitsplitting.org/feed/"
+  author: "By Daniel Jalkut"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: l1hdjpfnap
+  name: "Blog of Felix021"
+  url: "http://www.felix021.com/blog/index.php"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

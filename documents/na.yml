@@ -1,0 +1,22 @@
+-
+  _id: natss0ifbk
+  name: "Coinbase"
+  url: "https://engineering.coinbase.com/"
+  desc:
+  feed:
+  author: "Coinbase"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: na9buqci1v
+  name: "I'm qiqiboy!"
+  url: "http://www.qiqiboy.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

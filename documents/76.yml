@@ -1,0 +1,33 @@
+-
+  _id: 760rvwvwh4
+  name: "Stevey's Blog Rants"
+  url: "https://steve-yegge.blogspot.in/"
+  desc: "Random Whining And Stuff."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 76m5ty61ss
+  name: "SixRevisions"
+  url: "http://sixrevisions.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 769ub1m89e
+  name: "仲昭川"
+  url: "http://blog.sina.com.cn/zhongzhaochuan"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

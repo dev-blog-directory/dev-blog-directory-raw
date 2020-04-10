@@ -1,0 +1,33 @@
+-
+  _id: wi003m8l2x
+  name: "Import.io"
+  url: "https://www.import.io/blog/"
+  desc: "Import.io Blog."
+  feed:
+  author: "Import.io"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: wiulsajsgt
+  name: "Code Workshop"
+  url: "http://codeworkshop.net/"
+  desc:
+  feed: "http://codeworkshop.net/feed"
+  author: "By Matt Stevens"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: wid7y61mtw
+  name: "互联网产品经理_PM28"
+  url: "http://www.pm28.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,11 @@
+-
+  _id: f3k0mubg40
+  name: "owensd.io"
+  url: "https://owensd.io/"
+  desc:
+  feed: "https://owensd.io/feed/"
+  author: "By David Owens II"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

@@ -1,0 +1,33 @@
+-
+  _id: rmu399em8t
+  name: "Chris Biscardi"
+  url: "https://www.christopherbiscardi.com/"
+  desc:
+  feed:
+  author: "Chris Biscardi"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: rm435oeji3
+  name: "越锋利"
+  url: "http://yuefeng.li/feed"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: rme5hswlof
+  name: "张飒的博客"
+  url: "http://zhangsa.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

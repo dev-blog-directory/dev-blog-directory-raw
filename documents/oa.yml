@@ -1,0 +1,22 @@
+-
+  _id: oamwj88i0a
+  name: "Vadim Drobinin's Blog"
+  url: "https://drobinin.com/"
+  desc:
+  feed: "https://drobinin.com/feed.xml"
+  author: "By Vadim Drobinin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: oah1it6cv3
+  name: "youmeek"
+  url: "http://www.youmeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

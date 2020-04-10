@@ -1,0 +1,22 @@
+-
+  _id: hisa5sl9ub
+  name: "Frodo's Blog"
+  url: "http://frodoking.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: hizqa8zkbe
+  name: "Under The Bridge"
+  url: "https://alexcurylo.com/blog/"
+  desc:
+  feed: "https://www.alexcurylo.com/feed/"
+  author: "By Alex Curylo"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

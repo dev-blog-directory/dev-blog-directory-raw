@@ -1,0 +1,22 @@
+-
+  _id: c3usm54it0
+  name: "曙光博客"
+  url: "http://www.ezloo.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: c3wxj76nm7
+  name: "psy-lob-saw.blogspot.com"
+  url: "http://psy-lob-saw.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["java"]

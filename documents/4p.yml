@@ -1,0 +1,44 @@
+-
+  _id: 4ppf5btnti
+  name: "前端观察"
+  url: "http://www.qianduan.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 4p07w1cvsd
+  name: "Adam Wareing on Medium"
+  url: "https://medium.com/@adamwareing241/"
+  desc:
+  feed: "https://medium.com/feed/@adamwareing241"
+  author: "By Adam Wareing"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 4pxwq9ryro
+  name: "The Perl Foundation"
+  url: "http://news.perlfoundation.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]
+-
+  _id: 4ppb85ymcg
+  name: "M&M"
+  url: "https://www.xiaomastack.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

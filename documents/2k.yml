@@ -1,0 +1,44 @@
+-
+  _id: 2kdsxjjovw
+  name: "Airbnb Engineering - Nerds"
+  url: "http://nerds.airbnb.com/"
+  desc:
+  feed:
+  author: "Airbnb Engineering - Nerds"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2kb0wvy3c3
+  name: "Google News | android developer "
+  url: "https://news.google.com/news/section?q=androiddeveloper&tbm=nws&*"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: 2kefxz9dyd
+  name: "Python ID Blog"
+  url: "http://www.python.or.id/"
+  desc:
+  feed:
+  author:
+  langs: ["id"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: 2kd4br8viv
+  name: "GuoJing's Blog"
+  url: "http://guojing.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

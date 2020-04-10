@@ -1,0 +1,55 @@
+-
+  _id: jhar4ki98t
+  name: "Amit Merchant"
+  url: "https://www.amitmerchant.com/"
+  desc:
+  feed:
+  author: "Amit Merchant"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: jhwhkmbu83
+  name: "Artsy"
+  url: "http://artsy.github.io/"
+  desc:
+  feed:
+  author: "Artsy"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: jhpn9ae6y3
+  name: "Myntra Data Science"
+  url: "http://sartorialscience.myntrablogs.com/"
+  desc:
+  feed:
+  author: "Myntra Data Science"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: jh9kgglhml
+  name: "Guilherme Rodrigues"
+  url: "https://firstdoit.com/"
+  desc:
+  feed:
+  author: "Guilherme Rodrigues"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: jhef416ge9
+  name: "justJavac"
+  url: "http://justjavac.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]

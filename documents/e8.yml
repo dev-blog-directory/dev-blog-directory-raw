@@ -1,0 +1,22 @@
+-
+  _id: e8ub154vnh
+  name: "Sarah Lean"
+  url: "https://www.techielass.com/"
+  desc:
+  feed:
+  author: "Sarah Lean"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: e8aqf5jkpj
+  name: "Eric Elliot"
+  url: "https://medium.com/javascript-scene/"
+  desc:
+  feed:
+  author: "Eric Elliot"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

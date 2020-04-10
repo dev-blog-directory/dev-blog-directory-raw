@@ -1,0 +1,55 @@
+-
+  _id: kvbyg7wjmx
+  name: "Indeed"
+  url: "http://engineering.indeedblog.com/blog/"
+  desc: "Indeed Engineering."
+  feed:
+  author: "Indeed"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: kvp5xe0fgj
+  name: "Nextdoor"
+  url: "https://engblog.nextdoor.com/"
+  desc:
+  feed:
+  author: "Nextdoor"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: kv5pprz74l
+  name: "Junior Grossi"
+  url: "https://blog.jgrossi.com/"
+  desc:
+  feed:
+  author: "Junior Grossi"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: kvki5d4qxd
+  name: "稀有猿诉"
+  url: "http://toughcoder.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: kvyvze3qh1
+  name: "saymagic's blog"
+  url: "http://blog.saymagic.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

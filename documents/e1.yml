@@ -1,0 +1,55 @@
+-
+  _id: e1n7zxk6pt
+  name: "Stripe"
+  url: "https://stripe.com/blog/engineering"
+  desc: "Stripe Engineering Blog."
+  feed:
+  author: "Stripe"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: e1bg9zzp8x
+  name: "Blender"
+  url: "https://code.blender.org/"
+  desc:
+  feed:
+  author: "Blender"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: e1a5jwqglw
+  name: "铃不铃不铃"
+  url: "http://www.mjix.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: e1sfuozchn
+  name: "徐毅"
+  url: "http://kaverjody.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: e1l9xzkiky
+  name: "EpingWang's Blog"
+  url: "http://epingwang.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

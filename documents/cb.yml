@@ -1,0 +1,33 @@
+-
+  _id: cbci0cpul7
+  name: "Design Shack"
+  url: "https://designshack.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: cbrolr8h5i
+  name: "TalkersCode.com - Web development Blog"
+  url: "http://talkerscode.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: cbmv5o28w2
+  name: "matthiasott.com"
+  url: "https://matthiasott.com/"
+  desc:
+  feed: "https://matthiasott.com/rss"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

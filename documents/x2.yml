@@ -1,0 +1,55 @@
+-
+  _id: x2c9koehuq
+  name: "Branch"
+  url: "https://blog.branch.io/"
+  desc: "Branch Blog."
+  feed:
+  author: "Branch"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: x24yud3nap
+  name: "Facebook"
+  url: "https://code.facebook.com/posts/"
+  desc: "Facebook Engineering Blog."
+  feed:
+  author: "Facebook"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: x2o23733iy
+  name: "Daily JS"
+  url: "http://dailyjs.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: x2kggpg8lz
+  name: "ArtDriver | Web Development Blog"
+  url: "https://artdriver.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: x2921kctkj
+  name: "糖醋排骨"
+  url: "http://interjc.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

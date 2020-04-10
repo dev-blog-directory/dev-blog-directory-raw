@@ -1,0 +1,33 @@
+-
+  _id: ti4tl9jhr4
+  name: "a-coding"
+  url: "https://a-coding.com/"
+  desc:
+  feed: "https://a-coding.com/feed"
+  author: "By Alejandro Isaza"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: tiljxkr5hn
+  name: "samwize's Blog"
+  url: "https://samwize.com/"
+  desc:
+  feed: "https://samwize.com/feed.xml"
+  author: "By Junda Ong"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: tiomnwklkk
+  name: "运维之路"
+  url: "http://www.361way.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

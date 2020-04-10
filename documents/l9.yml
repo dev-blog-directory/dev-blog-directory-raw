@@ -1,0 +1,33 @@
+-
+  _id: l9xrrs8nio
+  name: "IT人生录"
+  url: "http://www.huqiwen.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: l9fakmd89f
+  name: "李劼杰的博客"
+  url: "http://www.lijiejie.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: l91gm6bzws
+  name: "Code with Hugo"
+  url: "https://codewithhugo.com/"
+  desc:
+  feed: "https://codewithhugo.com/index.xml"
+  author: "Hugo Di Francesco"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["javascript"]

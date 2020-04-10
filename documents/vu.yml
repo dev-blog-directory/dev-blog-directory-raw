@@ -1,0 +1,44 @@
+-
+  _id: vugbwb8vn0
+  name: "BankSimple"
+  url: "https://www.simple.com/engineering"
+  desc: "Simple Blog."
+  feed:
+  author: "BankSimple"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: vuly67tqi7
+  name: "Badoo iOS"
+  url: "https://badootech.badoo.com/tagged/ios"
+  desc:
+  feed: "https://badootech.badoo.com/feed/tagged/ios"
+  author: "By Badoo iOS Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: vuhfr2bj0y
+  name: "Never_yu’s blog"
+  url: "https://neveryu.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: vuhamlhjje
+  name: "WebUI框架使用参考"
+  url: "http://www.easyui.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

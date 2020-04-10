@@ -1,0 +1,66 @@
+-
+  _id: nzriwhlbn5
+  name: "Marco Pivetta"
+  url: "http://ocramius.github.io/"
+  desc:
+  feed:
+  author: "Marco Pivetta"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: nzcz71r1cu
+  name: "Christian Tietze's Blog"
+  url: "https://christiantietze.de/"
+  desc:
+  feed: "https://christiantietze.de/feed.atom"
+  author: "By Christian Tietze"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: nz2pkf5is8
+  name: "Fluffy"
+  url: "https://fluffy.es/"
+  desc:
+  feed: "https://fluffy.es/rss/"
+  author: "By Axel Kee"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: nzrpbxrl61
+  name: "Idexcel"
+  url: "https://www.idexcel.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: nzht8kvmtv
+  name: "Paul Finn"
+  url: "http://www.pfinn.net/"
+  desc:
+  feed:
+  author: "Paul Finn"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: nz7f6jjnzb
+  name: "uxcellence.com"
+  url: "https://uxcellence.com/"
+  desc:
+  feed: "https://uxcellence.com/subscribe"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

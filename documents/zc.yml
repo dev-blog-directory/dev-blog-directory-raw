@@ -1,0 +1,33 @@
+-
+  _id: zcap470voo
+  name: "Dean Harris"
+  url: "https://deanacus.com/"
+  desc:
+  feed:
+  author: "Dean Harris"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: zcgjqmx3bv
+  name: "Redino"
+  url: "http://redino.net/blog/"
+  desc:
+  feed:
+  author: "Redino"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: zcnetlk2ei
+  name: "Bitcoin » Darknet "
+  url: "https://news.bitcoin.com/tag/darknet/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["dark-web"]

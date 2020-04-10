@@ -1,0 +1,66 @@
+-
+  _id: ajus1zzdd6
+  name: "Practo"
+  url: "https://medium.com/practo-engineering"
+  desc: "Practo Engineering Blog."
+  feed:
+  author: "Practo"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ajva9q86ja
+  name: "Microsoft Edge"
+  url: "https://blogs.windows.com/msedgedev/"
+  desc:
+  feed:
+  author: "Microsoft Edge"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ajn48ozvsq
+  name: "Phodal - Growth Engineer"
+  url: "https://www.phodal.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ajde2agig9
+  name: "Mobile Development with Aloha"
+  url: "http://nachbaur.com/tag/apple"
+  desc:
+  feed: "https://nachbaur.com/tag/apple/feed/"
+  author: "By Mike Nachbaur"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ajt20abq9a
+  name: "Cisco"
+  url: "http://blogs.cisco.com/tag/python"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: aj4gebehpb
+  name: "ctbsea"
+  url: "http://ctbsea.lofter.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

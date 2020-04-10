@@ -1,0 +1,44 @@
+-
+  _id: 8zngcou90g
+  name: "ML/DL"
+  url: "https://thomaswdinsmore.com/"
+  desc: "Machine learning. Deep learning."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 8z8r7manyf
+  name: "Stackshare"
+  url: "https://stackshare.io/feed"
+  desc:
+  feed:
+  author: "Stackshare"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 8z0o20pv43
+  name: "Matt Might"
+  url: "http://matt.might.net/articles/"
+  desc:
+  feed:
+  author: "Matt Might"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 8zd8dkw3ie
+  name: "Minborg's Java Pot"
+  url: "http://minborgsjavapot.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]

@@ -1,0 +1,22 @@
+-
+  _id: nnd3fl8w42
+  name: "InfoQ"
+  url: "http://www.infoq.com/cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: nn6i9jhdmr
+  name: "DaoCloud"
+  url: "http://blog.daocloud.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

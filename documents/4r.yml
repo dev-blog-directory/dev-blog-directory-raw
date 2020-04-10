@@ -1,0 +1,22 @@
+-
+  _id: 4rrbblsmcn
+  name: "Ioannis Diamantidis"
+  url: "https://diamantidis.github.io/"
+  desc:
+  feed: "https://diamantidis.github.io/feed.xml"
+  author: "By Ioannis Diamantidis"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 4r8ah4so7b
+  name: "James Dempsey's Blog"
+  url: "http://jamesdempsey.net/"
+  desc:
+  feed: "http://jamesdempsey.net/feed/"
+  author: "By James Dempsey"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

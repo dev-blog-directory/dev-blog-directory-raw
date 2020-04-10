@@ -1,0 +1,22 @@
+-
+  _id: q2ptqm13vz
+  name: "Marcin Krzyżanowski's Blog"
+  url: "http://blog.krzyzanowskim.com/"
+  desc:
+  feed: "http://blog.krzyzanowskim.com/rss/"
+  author: "By Marcin Krzyżanowski"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: q2s1o5y0sj
+  name: "京城之站"
+  url: "http://www.tongjingcheng.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

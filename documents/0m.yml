@@ -1,0 +1,66 @@
+-
+  _id: 0mlhphmcyy
+  name: "NSHint"
+  url: "https://nshint.github.io/"
+  desc:
+  feed: "https://nshint.github.io/atom.xml"
+  author: "By Rafael Machado, Mateusz Matoszko and Wojtek Lukaszuk"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 0mim2fxdrn
+  name: "desappstre"
+  url: "http://desappstre.com/"
+  desc:
+  feed: "http://desappstre.com/feed/"
+  author: "By Adolfo"
+  langs: ["es"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 0mmsmsvvmc
+  name: "Made with React"
+  url: "https://madewithreact.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["react"]
+-
+  _id: 0m1us70wgi
+  name: "TAIPEI GEEK"
+  url: "http://taipeigeek.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: 0m9ijjldfe
+  name: "Brett Cannon"
+  url: "https://snarky.ca/"
+  desc:
+  feed:
+  author: "Brett Cannon"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 0mi7qvjcan
+  name: "吴法吴天还吴聊"
+  url: "http://satanwoo.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

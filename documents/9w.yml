@@ -1,0 +1,44 @@
+-
+  _id: 9wasus6igy
+  name: "Eric Jiang"
+  url: "https://lorderikir.me/blog"
+  desc:
+  feed:
+  author: "Eric Jiang"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 9w7sr9d0qu
+  name: "Bjørn Johansen"
+  url: "https://bjornjohansen.no/"
+  desc:
+  feed:
+  author: "Bjørn Johansen"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9wm7uwnf6a
+  name: "Techgoeasy"
+  url: "https://techgoeasy.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 9w4ifq63ns
+  name: "Erica Sadun"
+  url: "https://ericasadun.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]

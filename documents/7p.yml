@@ -1,0 +1,66 @@
+-
+  _id: 7p7hghegac
+  name: "Bryan Cantrill"
+  url: "http://dtrace.org/blogs/bmc/"
+  desc:
+  feed:
+  author: "Bryan Cantrill"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 7pj6cjbj41
+  name: "GitHub Engineering"
+  url: "https://githubengineering.com/"
+  desc:
+  feed:
+  author: "GitHub Engineering"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 7pkx4f8euy
+  name: "Dirk Holtwick's Blog"
+  url: "https://holtwick.de/blog/"
+  desc:
+  feed: "https://holtwick.de/atom.xml"
+  author: "By Dirk Holtwick"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 7pymbvh0qt
+  name: "Huptech Web"
+  url: "https://www.huptechweb.com/blogs/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: 7pxk1klotr
+  name: "公子府"
+  url: "http://www.gongzi.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 7phrepuyti
+  name: "-Bin-的博客"
+  url: "http://my.oschina.net/997155658"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

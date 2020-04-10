@@ -1,0 +1,22 @@
+-
+  _id: u9u5d86fgk
+  name: "(learn&think)"
+  url: "http://dreamrunner.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: u9bc2d1ef4
+  name: "nicolas-hoizey.com"
+  url: "https://nicolas-hoizey.com/"
+  desc:
+  feed: "https://nicolas-hoizey.com/feeds/articles.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

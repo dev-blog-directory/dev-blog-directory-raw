@@ -1,0 +1,22 @@
+-
+  _id: ae3rq0xrjf
+  name: "Michael Crump"
+  url: "https://michaelcrump.net/"
+  desc:
+  feed:
+  author: "Michael Crump"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: aeknvdqmqg
+  name: "Java Tutorial"
+  url: "http://javapapers.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

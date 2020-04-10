@@ -1,0 +1,33 @@
+-
+  _id: xtaqpc3bg9
+  name: "ETRD博客"
+  url: "http://etrd.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xthd31ncjy
+  name: "明月浩空博客"
+  url: "http://limh.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xtnp7lnw4c
+  name: "relunctance_viruse的博客"
+  url: "http://blog.sina.com.cn/u/2179459874"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

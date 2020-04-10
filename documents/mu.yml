@@ -1,0 +1,22 @@
+-
+  _id: mu42o4mik5
+  name: "Graphcool"
+  url: "https://blog.graph.cool/"
+  desc:
+  feed:
+  author: "Graphcool"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: muyprytkvl
+  name: "Sataware Technologies"
+  url: "https://www.sataware.com/blogs/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

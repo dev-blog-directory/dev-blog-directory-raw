@@ -1,0 +1,44 @@
+-
+  _id: wkbilneo31
+  name: "Allen Pike's Blog"
+  url: "http://www.allenpike.com/"
+  desc:
+  feed: "http://www.allenpike.com/feed/"
+  author: "By Allen Pike"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: wkxk7ynlly
+  name: "Thinking inside a large box"
+  url: "http://blog.benjamin-encz.de/"
+  desc:
+  feed: "http://blog.benjamin-encz.de/index.xml"
+  author: "By Benjamin Encz"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: wklv9czxfh
+  name: "Infinum | AndroidSweets"
+  url: "https://androidsweets.ongoodbits.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: wkqw46f8pk
+  name: "Eli Bendersky"
+  url: "http://eli.thegreenplace.net/tag/python"
+  desc:
+  feed:
+  author: "Eli Bendersky"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

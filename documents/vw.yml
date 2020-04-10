@@ -1,0 +1,22 @@
+-
+  _id: vwgvy3ej32
+  name: "Farzad YZ"
+  url: "https://farzadyz.com/blog"
+  desc:
+  feed:
+  author: "Farzad YZ"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: vwcl86qct9
+  name: "Peter Thaleikis"
+  url: "https://peterthaleikis.com/"
+  desc:
+  feed: "https://peterthaleikis.com/feed.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

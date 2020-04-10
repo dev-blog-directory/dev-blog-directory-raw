@@ -1,0 +1,77 @@
+-
+  _id: 4yu3m6d34y
+  name: "Bill the Lizard"
+  url: "http://www.billthelizard.com/"
+  desc:
+  feed:
+  author: "Bill the Lizard"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 4yge939zi8
+  name: "Nikolay Nemshilov"
+  url: "http://nikolay.rocks/"
+  desc:
+  feed:
+  author: "Nikolay Nemshilov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 4yte7ytqbk
+  name: "jQWidgets Blog"
+  url: "https://www.jqwidgets.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript","vuejs","framework","web-development"]
+-
+  _id: 4yqnxcu1b7
+  name: "The Angular Dot Net"
+  url: "http://rajatsrivastava.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]
+-
+  _id: 4yatgu7xeb
+  name: "Andrii Soldatenko"
+  url: "https://asoldatenko.com/category/python.html"
+  desc:
+  feed:
+  author: "Andrii Soldatenko"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 4yzyxnxbee
+  name: "Ondřej Čertík"
+  url: "http://ondrejcertik.blogspot.co.id/search/label/python"
+  desc:
+  feed:
+  author: "Ondřej Čertík"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 4ym0k6kx07
+  name: "runforever"
+  url: "http://runforever.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

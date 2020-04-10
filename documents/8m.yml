@@ -1,0 +1,33 @@
+-
+  _id: 8m2gy977a1
+  name: "Jay Fields"
+  url: "http://blog.jayfields.com/"
+  desc:
+  feed:
+  author: "Jay Fields"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 8m308jn5ba
+  name: "Reddit - JavaScript"
+  url: "https://www.reddit.com/r/javascript/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: 8m1jn3fdq6
+  name: "苏岳宁博客"
+  url: "http://suyuening.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

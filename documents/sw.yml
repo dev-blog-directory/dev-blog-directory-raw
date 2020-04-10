@@ -1,0 +1,55 @@
+-
+  _id: swueko96dd
+  name: "Robin Wieruch"
+  url: "https://www.robinwieruch.de/"
+  desc:
+  feed:
+  author: "Robin Wieruch"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: sw67ygddlw
+  name: "Snapdeal"
+  url: "http://engineering.snapdeal.com/"
+  desc: "Snapdeal Engineering Blog."
+  feed:
+  author: "Snapdeal"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: swdyck3pea
+  name: "TwoSigma"
+  url: "https://www.twosigma.com/insights/category/technology"
+  desc: "TwoSigma Technology Blog."
+  feed:
+  author: "TwoSigma"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: sw9powtoi6
+  name: "Wingify"
+  url: "http://engineering.wingify.com/"
+  desc:
+  feed:
+  author: "Wingify"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: sw0nqyp2t2
+  name: "陆春的技术小书"
+  url: "http://luchun.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

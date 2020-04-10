@@ -1,0 +1,22 @@
+-
+  _id: fh0s3rtw3e
+  name: "Mysterios Code"
+  url: "https://mysteriouscode.io/blog/"
+  desc: "Stuff around AWS but also FreeBSD and general IT security."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: fhiok4acj7
+  name: "Go语言学习园地博客"
+  url: "http://blog.studygolang.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

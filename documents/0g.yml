@@ -1,0 +1,66 @@
+-
+  _id: 0gblgagoq5
+  name: "Jim Filippou"
+  url: "https://jimfilippou.space/"
+  desc:
+  feed:
+  author: "Jim Filippou"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 0gxhittie5
+  name: "Bloomberg"
+  url: "https://www.techatbloomberg.com/blog/#2"
+  desc: "Tech At Bloomberg."
+  feed:
+  author: "Bloomberg"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 0gga1j8pjt
+  name: "SwiftLee Blog - Antoine v.d. Lee "
+  url: "https://www.avanderlee.com/"
+  desc:
+  feed: "https://www.avanderlee.com/feed/"
+  author: "By Antoine van der Lee"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: 0g2wti9e7s
+  name: "行至水深处，坐看云起时"
+  url: "http://blog.sina.com.cn/mindtesting"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 0gasrotx2b
+  name: "小孔成像"
+  url: "http://www.conxz.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 0ghcz7o2db
+  name: "Solarex's Blog"
+  url: "http://solarex.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

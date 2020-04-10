@@ -1,0 +1,44 @@
+-
+  _id: cc0vhur6mj
+  name: "John Reilly"
+  url: "https://blog.johnnyreilly.com/"
+  desc:
+  feed:
+  author: "John Reilly"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ccvw1g398b
+  name: "Yet Another Math Programming Consultant"
+  url: "http://yetanothermathprogrammingconsultant.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ccf7cjstud
+  name: "大发贼志"
+  url: "https://fatesinger.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cckfyfba9w
+  name: "Jecvay Notes"
+  url: "http://jecvay.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

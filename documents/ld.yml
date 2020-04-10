@@ -1,0 +1,55 @@
+-
+  _id: ldmniasf06
+  name: "Peteris Krumins"
+  url: "http://www.catonmat.net/blog/"
+  desc:
+  feed:
+  author: "Peteris Krumins"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ld9vx8ul3s
+  name: "Jimmy M Andersson on Medium"
+  url: "https://medium.com/@JimmyMAndersson"
+  desc:
+  feed: "https://medium.com/feed/@JimmyMAndersson"
+  author: "By Jimmy M Andersson"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ldyuvqbx1b
+  name: "Python 4 Kids"
+  url: "https://python4kids.brendanscott.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: ldcqjp5w32
+  name: "代明博客"
+  url: "http://www.daimingblog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ld85gsgopz
+  name: "On Your Mark"
+  url: "http://lijiayu.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

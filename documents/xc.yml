@@ -1,0 +1,66 @@
+-
+  _id: xcchj6afol
+  name: "淘宝 FED"
+  url: "http://taobaofed.org/"
+  desc:
+  feed:
+  author: "淘宝 FED"
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xcrytuey52
+  name: "Stride"
+  url: "https://blog.stridenyc.com/"
+  desc:
+  feed:
+  author: "Stride"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xcyeo666kx
+  name: "Erica Sadun"
+  url: "https://ericasadun.com/"
+  desc:
+  feed: "http://ericasadun.com/feed/"
+  author: "By Erica Sadun"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: xcqgxp9zgq
+  name: "Hesham Abd-Elmegid's Blog"
+  url: "https://hesh.am/"
+  desc:
+  feed: "https://hesh.am/feed.xml"
+  author: "By Hesham Abd-Elmegid"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: xcmvzm3uuu
+  name: "Indie iOS Focus Weekly"
+  url: "https://indieiosfocus.com/"
+  desc:
+  feed: "https://indieiosfocus.com/issues.rss"
+  author: "By Chris Beshore"
+  langs: ["en"]
+  github:
+  categories: ["Newsletter"]
+  tags: ["ios"]
+-
+  _id: xcbz0ht0vb
+  name: "雨夜带刀's Blog 关注前端与用户体验"
+  url: "http://stylechen.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

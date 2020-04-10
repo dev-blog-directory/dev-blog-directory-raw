@@ -1,0 +1,22 @@
+-
+  _id: a1181bsoyp
+  name: "Jolly Good Code"
+  url: "https://jollygoodcode.github.io/"
+  desc: "Jolly Good Code Blog."
+  feed:
+  author: "Jolly Good Code"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: a1gqvumv0r
+  name: "The Python Corner"
+  url: "https://www.thepythoncorner.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]

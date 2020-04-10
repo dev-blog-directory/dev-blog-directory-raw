@@ -1,0 +1,33 @@
+-
+  _id: jzt46zhcr3
+  name: "Mandrill"
+  url: "http://blog.mandrill.com/"
+  desc: "Mandrill Blog."
+  feed:
+  author: "Mandrill"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: jzlwtlqxtn
+  name: "Kirill Shevchenko"
+  url: "https://medium.com/@kirill_shevch"
+  desc:
+  feed:
+  author: "Kirill Shevchenko"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: jz8eht3gpn
+  name: "尘缘的博客"
+  url: "http://www.4wei.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

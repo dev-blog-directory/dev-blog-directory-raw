@@ -1,0 +1,33 @@
+-
+  _id: 5bb4iocue2
+  name: "Prezi"
+  url: "https://medium.com/prezi-engineering"
+  desc:
+  feed:
+  author: "Prezi"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 5bb7apjeup
+  name: "Carlos Becker"
+  url: "https://carlosbecker.com/"
+  desc:
+  feed:
+  author: "Carlos Becker"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5bq54phz43
+  name: "SylvanasSun Blog"
+  url: "http://sylvanassun.github.io/sylvanassun.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

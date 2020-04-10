@@ -1,0 +1,22 @@
+-
+  _id: 92u9hcxhgs
+  name: "Jasdev Singh’s Blog"
+  url: "https://jasdev.me/"
+  desc:
+  feed: "https://jasdev.me/atom.xml"
+  author: "By Jasdev Singh"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 92p1xn0bsq
+  name: "CodingLabs"
+  url: "http://blog.codinglabs.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

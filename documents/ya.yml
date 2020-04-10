@@ -1,0 +1,11 @@
+-
+  _id: yareim9a9b
+  name: "Matthew's Dev Blog"
+  url: "https://daringsnowball.net/"
+  desc:
+  feed: "https://daringsnowball.net/atom.xml"
+  author: "By Matthew Flint"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

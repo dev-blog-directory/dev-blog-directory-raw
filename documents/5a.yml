@@ -1,0 +1,55 @@
+-
+  _id: 5ap2wiuv64
+  name: "Avant"
+  url: "http://avant.engineering/"
+  desc: "Avant Engineering."
+  feed:
+  author: "Avant"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 5ar475vre1
+  name: "William Kennedy"
+  url: "https://www.goinggo.net/"
+  desc:
+  feed:
+  author: "William Kennedy"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5aue7tryuu
+  name: "Samantha John's Blog"
+  url: "https://samanthajohn.com/"
+  desc:
+  feed: "https://samanthajohn.com/feed.xml"
+  author: "By Samantha John"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 5amgvyvgja
+  name: "idea’s web"
+  url: "http://www.ideawu.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5ategcl9nr
+  name: "猫窝"
+  url: "http://blog.wangjunyu.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

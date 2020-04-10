@@ -1,0 +1,55 @@
+-
+  _id: ay06t26zpo
+  name: "Mattias Geniar"
+  url: "https://ma.ttias.be/blog/"
+  desc: "A blog by Mattias Geniar."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ayoy093e3m
+  name: "Hannes Dorfmann"
+  url: "http://hannesdorfmann.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: ayye2f180y
+  name: "Changelog | Go Time"
+  url: "https://changelog.com/gotime"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["golang"]
+-
+  _id: ayi4o8gvp5
+  name: "ksnowlv"
+  url: "http://ksnowlv.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ay8r6th4em
+  name: "machiel.me"
+  url: "https://machiel.me/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["golang"]

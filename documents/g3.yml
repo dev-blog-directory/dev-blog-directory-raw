@@ -1,0 +1,77 @@
+-
+  _id: g3fwkqa7bz
+  name: "百度医生 Tech"
+  url: "https://msbu-tech.github.io/"
+  desc:
+  feed:
+  author: "百度医生 Tech"
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: g3xe91g1iu
+  name: "dev.to"
+  url: "https://dev.to/"
+  desc: "A blog where programmers share ideas and help each other grow."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: g3oyfywo99
+  name: "Sven Weidauer’s Blog"
+  url: "https://5sw.de/"
+  desc:
+  feed: "https://5sw.de/feed/"
+  author: "By Sven Weidauer"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: g33ml8rzl3
+  name: "菜鸟博客"
+  url: "https://www.wlphp.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: g3gr9m3lg9
+  name: "木匣子"
+  url: "http://blog.mutoo.im/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: g32c3kl752
+  name: "轻薄"
+  url: "http://qingbob.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: g3lyp6vo6z
+  name: "子勰的博客"
+  url: "http://blog.bihe0832.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

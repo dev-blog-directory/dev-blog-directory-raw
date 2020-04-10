@@ -1,0 +1,22 @@
+-
+  _id: f5xhnqd1ix
+  name: "Zolmeister"
+  url: "https://zolmeister.com/"
+  desc:
+  feed:
+  author: "Zolmeister"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: f5xs41tpgh
+  name: "某人的栖息地"
+  url: "http://www.ooso.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

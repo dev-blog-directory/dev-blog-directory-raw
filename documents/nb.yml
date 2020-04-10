@@ -1,0 +1,44 @@
+-
+  _id: nbdhiviwnq
+  name: "Marcy Sutton"
+  url: "https://marcysutton.com/"
+  desc:
+  feed:
+  author: "Marcy Sutton"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: nbc6cizwoc
+  name: "Milosz Galazka"
+  url: "https://blog.sleeplessbeastie.eu/"
+  desc:
+  feed:
+  author: "Milosz Galazka"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: nb6fwgp9f5
+  name: "Xuanwo’s Blog"
+  url: "https://xuanwo.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: nbuwv1ixdt
+  name: "西秦公子部落格"
+  url: "http://www.ixiqin.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

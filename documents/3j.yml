@@ -1,0 +1,22 @@
+-
+  _id: 3j3y8qjbma
+  name: "dongcoder"
+  url: "http://www.dongcoder.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3j3bv4vcon
+  name: "jordanm.co.uk"
+  url: "https://jordanm.co.uk/"
+  desc:
+  feed: "https://jordanm.co.uk/feed"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: 63sftcm7fm
+  name: "The Waldo Blog"
+  url: "https://blog.waldo.io/"
+  desc:
+  feed: "https://blog.waldo.io/feed/"
+  author: "By Waldo Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: 63chq8coh4
+  name: "Lincolnge's world"
+  url: "http://lincolnge.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 63evur8z1g
+  name: "Lyric.im"
+  url: "http://lyric.im/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

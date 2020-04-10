@@ -1,0 +1,22 @@
+-
+  _id: p9bcwkmodu
+  name: "Design Instruct"
+  url: "http://designinstruct.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: p97tgum4o8
+  name: "Nick Fitzgerald"
+  url: "http://fitzgeraldnick.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

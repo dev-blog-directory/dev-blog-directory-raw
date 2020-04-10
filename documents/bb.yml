@@ -1,0 +1,44 @@
+-
+  _id: bbs0hhv5d4
+  name: "Thumbtack"
+  url: "https://www.thumbtack.com/engineering/"
+  desc: "Thumbtack Engineering."
+  feed:
+  author: "Thumbtack"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: bbt7n9vhc2
+  name: "Donny Wals' Blog"
+  url: "https://www.donnywals.com/"
+  desc:
+  feed: "https://www.donnywals.com/feed/"
+  author: "By Donny Wals"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: bbd1qcsdv9
+  name: "Tim Miko's Blog"
+  url: "https://tim.engineering/"
+  desc:
+  feed: "https://tim.engineering/rss/"
+  author: "By Tim Miko"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: bbjfn178q3
+  name: "An Android Developer's Blog"
+  url: "https://blog.egorand.me/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]

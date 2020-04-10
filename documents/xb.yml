@@ -1,0 +1,33 @@
+-
+  _id: xbc4500uim
+  name: "Kevin Berridge"
+  url: "https://www.kevinberridge.com/"
+  desc:
+  feed:
+  author: "Kevin Berridge"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: xb64olwgqu
+  name: "Persiscope Data"
+  url: "https://www.periscopedata.com/blog"
+  desc: "Periscope Data Blog."
+  feed:
+  author: "Persiscope Data"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xbagi9pwvd
+  name: "单线程"
+  url: "http://opjasee.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

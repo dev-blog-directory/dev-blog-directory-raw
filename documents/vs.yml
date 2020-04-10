@@ -1,0 +1,44 @@
+-
+  _id: vsx6e1tr5y
+  name: "Daniel Kennett's Blog"
+  url: "http://ikennd.ac/"
+  desc:
+  feed: "http://ikennd.ac/atom.xml"
+  author: "By Daniel Kennett"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: vskcelmjlh
+  name: "Medium | Android "
+  url: "https://medium.com/tag/android-app-development"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: vsxgu5bdan
+  name: "柳城"
+  url: "http://liucheng.name/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: vse799gow4
+  name: "刘坤的技术博客"
+  url: "http://blog.cnbluebox.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

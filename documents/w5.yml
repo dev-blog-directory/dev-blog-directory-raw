@@ -1,0 +1,33 @@
+-
+  _id: w54fkmqe30
+  name: "Jon Kuperman"
+  url: "https://jonkuperman.com/"
+  desc:
+  feed:
+  author: "Jon Kuperman"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: w5h4ngadgw
+  name: "Roundwall Software"
+  url: "https://roundwallsoftware.com/"
+  desc:
+  feed: "https://roundwallsoftware.com/rss"
+  author: "By Samuel Goodwin"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: w5p239f8ui
+  name: "DaPythonista"
+  url: "http://dapythonista.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]

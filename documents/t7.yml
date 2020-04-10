@@ -1,0 +1,22 @@
+-
+  _id: t77abjss5u
+  name: "Haptik"
+  url: "https://haptik.ai/tech/"
+  desc:
+  feed:
+  author: "Haptik"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: t7aocu801p
+  name: "Timac"
+  url: "https://blog.timac.org/"
+  desc:
+  feed: "https://blog.timac.org/index.xml"
+  author: "By Alexandre Colucci"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

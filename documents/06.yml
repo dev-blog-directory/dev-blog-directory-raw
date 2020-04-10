@@ -1,0 +1,22 @@
+-
+  _id: 06l2y4w4bu
+  name: "Kent C. Dodds"
+  url: "https://kentcdodds.com/"
+  desc:
+  feed:
+  author: "Kent C. Dodds"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 063sxf670f
+  name: "Google's Python Class"
+  url: "https://developers.google.com/edu/python/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

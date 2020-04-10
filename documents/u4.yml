@@ -1,0 +1,33 @@
+-
+  _id: u4cjb3m57n
+  name: "Siddharth Kshetrapal"
+  url: "https://sid.studio/blog"
+  desc:
+  feed:
+  author: "Siddharth Kshetrapal"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: u4c81g7dx1
+  name: "Hasura"
+  url: "https://blog.hasura.io/"
+  desc:
+  feed:
+  author: "Hasura"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: u4l6bvhylu
+  name: "Pontikis.net - Tech blog & Web labs"
+  url: "https://www.pontikis.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

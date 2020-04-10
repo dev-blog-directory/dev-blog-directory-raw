@@ -1,0 +1,55 @@
+-
+  _id: a9bhfiyzf3
+  name: "John Stewart"
+  url: "https://www.johnstewart.io/"
+  desc:
+  feed:
+  author: "John Stewart"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: a9dxmewjq6
+  name: "Daily JS"
+  url: "https://medium.com/dailyjs"
+  desc:
+  feed:
+  author: "Daily JS"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: a9y8s5ubth
+  name: "Bugfender Blog"
+  url: "https://bugfender.com/blog/"
+  desc:
+  feed: "https://bugfender.com/blog/feed/"
+  author: "By Bugfender Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: a9o7unc2yq
+  name: "考拉哥的博客"
+  url: "http://lifestack.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: a9t0gev6d5
+  name: "mcfunley.com"
+  url: "http://mcfunley.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,55 @@
+-
+  _id: q9rp99tvx8
+  name: "Blundell | Android Developer Tutorials"
+  url: "https://blog.blundellapps.co.uk/"
+  desc:
+  feed:
+  author: "Blundell's Android Tutorials"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["android"]
+-
+  _id: q9u2se7a4o
+  name: "Josh Sherman"
+  url: "https://joshtronic.com/"
+  desc:
+  feed:
+  author: "Josh Sherman"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: q9g1y9zf28
+  name: "Swift Weekly"
+  url: "https://swiftweekly.com/"
+  desc:
+  feed: "http://digest.swiftweekly.com/?format=rss"
+  author: "By Sascha Schwabbauer"
+  langs: ["en"]
+  github:
+  categories: ["Newsletter"]
+  tags: ["ios"]
+-
+  _id: q9czuyyl5t
+  name: "Codementor | Android Tutorials"
+  url: "https://www.codementor.io/android/tutorial"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: q97g9sjpys
+  name: "React | A JavaScript library for building user interfaces"
+  url: "https://reactjs.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript","web-development","react"]

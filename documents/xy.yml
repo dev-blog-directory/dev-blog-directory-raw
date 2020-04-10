@@ -1,0 +1,33 @@
+-
+  _id: xyswl6okhi
+  name: "Heap"
+  url: "https://heap.engineering/"
+  desc:
+  feed:
+  author: "Heap"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xypddkgn45
+  name: "James Hague"
+  url: "http://prog21.dadgum.com/"
+  desc:
+  feed:
+  author: "James Hague"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xypl7scxvg
+  name: "CBR Digital"
+  url: "http://www.cbrdigital.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]

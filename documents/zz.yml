@@ -1,0 +1,55 @@
+-
+  _id: zzsr73ybbu
+  name: "Lacy Henschel"
+  url: "https://www.laceyhenschel.com/blog/"
+  desc:
+  feed:
+  author: "Lacy Henschel"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: zzudo3m40q
+  name: "Terin Stock"
+  url: "https://terinstock.com/"
+  desc:
+  feed:
+  author: "Terin Stock"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: zz2z3vbk8n
+  name: "Grab"
+  url: "http://engineering.grab.com/"
+  desc: "Grab Tech Blog."
+  feed:
+  author: "Grab"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: zz2bd2bz63
+  name: "Techie Delight - Coding made easy"
+  url: "https://www.techiedelight.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: zzguit0jxz
+  name: "Zato"
+  url: "https://zato.io/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

@@ -1,0 +1,55 @@
+-
+  _id: 2v6az40obu
+  name: "Dave Chaney"
+  url: "https://dave.cheney.net/"
+  desc:
+  feed:
+  author: "Dave Chaney"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 2v957tomsy
+  name: "Groupon Engineering Blog"
+  url: "https://engineering.groupon.com/"
+  desc:
+  feed:
+  author: "Groupon Engineering Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2vsme090w9
+  name: "Android"
+  url: "https://android-developers.blogspot.com/"
+  desc:
+  feed:
+  author: "Android"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2vphiwmbbs
+  name: "mokacoding"
+  url: "http://www.mokacoding.com/"
+  desc:
+  feed: "http://www.mokacoding.com/feed.xml"
+  author: "By Giovanni Lodi"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 2vgjr7df0x
+  name: "Vapor on Medium"
+  url: "https://medium.com/@codevapor"
+  desc:
+  feed: "https://medium.com/feed/@codevapor"
+  author: "By Vapor Team"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

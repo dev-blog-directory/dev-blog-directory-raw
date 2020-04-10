@@ -1,0 +1,33 @@
+-
+  _id: t4zdkfz8dy
+  name: "Box Engineering Blog"
+  url: "https://www.box.com/blog/engineering/"
+  desc:
+  feed:
+  author: "Box Engineering Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: t4qp4n1c85
+  name: "Scotch | Developers bringing fire to the people."
+  url: "https://scotch.io/"
+  desc: "Top shelf web developer training."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: t4i88ci404
+  name: "INDGLOBA - Web Designing And Development Company "
+  url: "http://indglobalconsultingsolution.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

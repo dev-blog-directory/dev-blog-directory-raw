@@ -1,0 +1,44 @@
+-
+  _id: jibvpz7nl5
+  name: "Joachim Complains About Things"
+  url: "http://blog.cocoafrog.de/"
+  desc:
+  feed: "http://blog.cocoafrog.de/feed.xml"
+  author: "By Joachim Kurz"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: jiuxb1rpl5
+  name: "Kilo Loco"
+  url: "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA/videos"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: jims427m7o
+  name: "龙爪槐守望者的博客"
+  url: "http://www.ftium4.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: jisgpc9t4v
+  name: "Marco's Accessibility Blog"
+  url: "https://www.marcozehe.de/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

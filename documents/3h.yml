@@ -1,0 +1,44 @@
+-
+  _id: 3hlinlzp0n
+  name: "Martin Mitrevski's Blog"
+  url: "https://martinmitrevski.com/"
+  desc:
+  feed: "https://martinmitrevski.com/feed/"
+  author: "By Martin Mitrevski"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 3h8n906ax7
+  name: "AndroidHive | Android Tutorial for Beginners"
+  url: "https://www.androidhive.info/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: 3hschoe2sg
+  name: "Notific.io | Notifications as a Service"
+  url: "https://blog.notific.io/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: 3hhjek0msn
+  name: "DeltaX"
+  url: "http://draveness.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

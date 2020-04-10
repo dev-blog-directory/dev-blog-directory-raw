@@ -1,0 +1,22 @@
+-
+  _id: hfh88wcmbn
+  name: "Yrom's Blog"
+  url: "http://www.yrom.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: hf4y3z0qhq
+  name: "paulmcbride.net"
+  url: "https://paulmcbride.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

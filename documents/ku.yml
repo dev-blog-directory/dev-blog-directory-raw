@@ -1,0 +1,33 @@
+-
+  _id: kugu5caogw
+  name: "Kyle Fuller's Blog"
+  url: "https://fuller.li/"
+  desc:
+  feed: "https://fuller.li/posts/feed/latest.atom"
+  author: "By Kyle Fuller"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: kuafudp12f
+  name: "All Tech Geeks"
+  url: "http://www.alltechgeeks.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: ku72gbu1kw
+  name: "谁见到过风?"
+  url: "http://www.withparadox2.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

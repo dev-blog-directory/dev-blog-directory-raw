@@ -1,0 +1,44 @@
+-
+  _id: fg54e6mkw5
+  name: "Lea Verou"
+  url: "http://lea.verou.me/"
+  desc:
+  feed:
+  author: "Lea Verou"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: fg28i5x3p2
+  name: "Cocoa Is My Girlfriend"
+  url: "http://www.cimgf.com/"
+  desc:
+  feed: "http://www.cimgf.com/feed/"
+  author: "By Marcus Zarra and Matt Long"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: fgtuq6w9qf
+  name: "Newtum"
+  url: "http://blog.newtum.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: fgiu02hodg
+  name: "Technocrats Horizons"
+  url: "https://www.technocratshorizons.com/blogs/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

@@ -1,0 +1,22 @@
+-
+  _id: ds9orc1xvi
+  name: "Lord Codes"
+  url: "https://www.lordcodes.com/ios/"
+  desc:
+  feed: "https://www.lordcodes.com/feeds/ios.xml"
+  author: "By Andrew Lord"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: dsu7z64i0z
+  name: "Nate Thompson's Blog"
+  url: "https://www.natethompson.io/blog/"
+  desc:
+  feed: "https://www.natethompson.io/feed.xml"
+  author: "By Nate Thompson"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

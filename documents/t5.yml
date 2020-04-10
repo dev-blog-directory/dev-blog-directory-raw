@@ -1,0 +1,22 @@
+-
+  _id: t5hse930bl
+  name: "Perl. org Blog"
+  url: "http://blogs.perl.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]
+-
+  _id: t56vsandgj
+  name: "Tab Atkins"
+  url: "https://www.xanthir.com/blog/"
+  desc:
+  feed: "https://www.xanthir.com/blog/atom/"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

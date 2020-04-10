@@ -1,0 +1,33 @@
+-
+  _id: wp6qxwi3gs
+  name: "BloomReach"
+  url: "http://engineering.bloomreach.com/"
+  desc:
+  feed:
+  author: "BloomReach"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: wp76b3w0z0
+  name: "谷歌中国开发者社区 (GDG)"
+  url: "http://chinagdg.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wpnob05xl6
+  name: "我的站点"
+  url: "http://nanxiao.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

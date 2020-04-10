@@ -1,0 +1,44 @@
+-
+  _id: 5yovn0ysw5
+  name: "Pixelhint"
+  url: "http://pixelhint.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: 5y1nxr3wz6
+  name: "Stories for sad robots"
+  url: "http://blog.erezsh.com/"
+  desc:
+  feed:
+  author: "Stories for sad robots"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 5y58psh4uo
+  name: "Blog | Phodal Geek's Life"
+  url: "http://www.phodal.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5y3q8ieyt5
+  name: "奇遇观察"
+  url: "http://www.ueview.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

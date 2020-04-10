@@ -1,0 +1,55 @@
+-
+  _id: ilptkqf8wr
+  name: "Oursky"
+  url: "https://code.oursky.com/"
+  desc:
+  feed:
+  author: "Oursky"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ilg1tl0bl5
+  name: "PyDanny"
+  url: "https://www.pydanny.com/category/python.html"
+  desc:
+  feed:
+  author: "PyDanny"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: ilbgz8ficj
+  name: "jwcyber"
+  url: "http://jwcyber.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ilqcrmns1r
+  name: "jdsteinbach.com"
+  url: "https://jdsteinbach.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: iluewfwsqw
+  name: "kizu.ru"
+  url: "https://www.kizu.ru/"
+  desc:
+  feed: "https://feeds.feedburner.com/kizuruen"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

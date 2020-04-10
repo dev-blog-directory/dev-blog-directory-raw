@@ -1,0 +1,66 @@
+-
+  _id: auhs936yg2
+  name: "Pagerduty"
+  url: "https://www.pagerduty.com/blog/"
+  desc: "Pagerduty Blog."
+  feed:
+  author: "Pagerduty"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: augsk8aefx
+  name: "通天塔"
+  url: "https://ttt.tt/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: aubhoakut8
+  name: "Fueled Blog "
+  url: "https://fueled.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: aulypjqgij
+  name: "晨帆起航"
+  url: "http://www.lichenfan.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: aurmdmkeq6
+  name: "VeryCB"
+  url: "http://verycb.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: aukz99o1jy
+  name: "zrong's Blog"
+  url: "http://zengrong.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

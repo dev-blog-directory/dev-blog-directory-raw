@@ -1,0 +1,22 @@
+-
+  _id: y9arvrlw2y
+  name: "LearnAppMaking"
+  url: "https://learnappmaking.com/"
+  desc:
+  feed: "https://learnappmaking.com/feed"
+  author: "By Reinder de Vries"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: y93wmhajcn
+  name: "InfoQ - Java Community Content On InfoQ"
+  url: "https://www.infoq.com/java/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]

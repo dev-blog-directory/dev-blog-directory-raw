@@ -1,0 +1,11 @@
+-
+  _id: aa70dg8yvc
+  name: "The FutureBlog – For Developers"
+  url: "https://www.futuretap.com/blog?tag=developer"
+  desc:
+  feed: "https://www.futuretap.com/category/blog/feed?tag=developer"
+  author: "By Ortwin Gentz"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

@@ -1,0 +1,33 @@
+-
+  _id: qsdrrk9q67
+  name: "WHOKNOWS Blog"
+  url: "https://medium.com/whoknows-swift"
+  desc:
+  feed: "https://medium.com/feed/whoknows-swift"
+  author: "By WHOKNOWS Community"
+  langs: ["tr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: qs6h986iq3
+  name: "Riggaroo"
+  url: "https://riggaroo.co.za/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: qs9e6u3965
+  name: "朴石"
+  url: "http://pustone.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

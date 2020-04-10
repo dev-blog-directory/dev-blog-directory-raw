@@ -1,0 +1,33 @@
+-
+  _id: 34f6os31d3
+  name: "ClusterHQ"
+  url: "https://clusterhq.com/blog/"
+  desc: "ClusterHQ Blog."
+  feed:
+  author: "ClusterHQ"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 34gn5c5ahx
+  name: "IBM Cloud computing "
+  url: "https://www.ibm.com/blogs/cloud-computing/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: 34g572wmk2
+  name: "freebuf"
+  url: "https://www.freebuf.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

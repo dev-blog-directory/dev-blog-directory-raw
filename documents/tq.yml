@@ -1,0 +1,44 @@
+-
+  _id: tqvm3x68ga
+  name: "Grammarly"
+  url: "https://tech.grammarly.com/blog/index.html"
+  desc:
+  feed:
+  author: "Grammarly"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: tqjoh6kya1
+  name: "I'm Programmer"
+  url: "https://www.improgrammer.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: tqfdfbvyjn
+  name: "2muchcoffee | Web and Mobile Application Development Company "
+  url: "https://2muchcoffee.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: tq10db0rqv
+  name: "oleb.net"
+  url: "http://oleb.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["swift","ios"]

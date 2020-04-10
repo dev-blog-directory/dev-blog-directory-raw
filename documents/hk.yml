@@ -1,0 +1,33 @@
+-
+  _id: hk8a2gc80w
+  name: "BBC"
+  url: "https://medium.com/bbc-design-engineering/"
+  desc: "BBC Design & Engineering Blog."
+  feed:
+  author: "BBC"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: hkg3xw02fv
+  name: "Milap Neupane Blog"
+  url: "https://milapneupane.com.np/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: hkjzkovaoi
+  name: "kleinfreund.de"
+  url: "https://kleinfreund.de/"
+  desc:
+  feed: "https://kleinfreund.de/index.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

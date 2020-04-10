@@ -1,0 +1,33 @@
+-
+  _id: 3eeuf5k5uk
+  name: "结构之法 算法之道"
+  url: "https://blog.csdn.net/v_july_v"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3exc676ejb
+  name: "shortdiv.com"
+  url: "https://shortdiv.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3egdlgt7ud
+  name: "Sagar Giri"
+  url: "https://girisagar46.github.io/"
+  desc:
+  feed:
+  author: "Sagar Giri"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

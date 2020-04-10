@@ -1,0 +1,33 @@
+-
+  _id: iglf3xsxk7
+  name: "Alejandro Martinez"
+  url: "https://alejandromp.com/"
+  desc:
+  feed: "https://alejandromp.com/blog/feed.xml"
+  author: "By Alejandro Martinez"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ig9owb9dbq
+  name: "From Python Import Podcast"
+  url: "http://www.frompythonimportpodcast.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: iga0223it7
+  name: "thecodist.com"
+  url: "http://thecodist.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

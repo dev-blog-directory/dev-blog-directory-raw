@@ -1,0 +1,22 @@
+-
+  _id: yvqlgyqqkp
+  name: "Collections ♥ Scotch"
+  url: "https://scotch.io/collections"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: yvpapn9uzl
+  name: "Göksel Köksal on Medium"
+  url: "https://medium.com/@gokselkoksal"
+  desc:
+  feed: "https://medium.com/feed/@gokselkoksal"
+  author: "By Göksel Köksal"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

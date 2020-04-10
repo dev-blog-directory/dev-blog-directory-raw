@@ -1,0 +1,55 @@
+-
+  _id: amvdkkzw7c
+  name: "danluu"
+  url: "https://danluu.com/"
+  desc: "A blog by [Dan Luu](https://twitter.com/danluu)."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["low-level"]
+-
+  _id: am48w5xqqq
+  name: "Geek Mamas"
+  url: "https://geekmamas.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: ambugc23hc
+  name: "Neo 时刻准备着"
+  url: "http://neoremind.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: am9736lj4r
+  name: "Cifer"
+  url: "http://cifer.logdown.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: amvqo5qsq1
+  name: "davidosomething.com"
+  url: "https://davidosomething.com/"
+  desc:
+  feed: "https://davidosomething.com/rss.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

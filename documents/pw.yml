@@ -1,0 +1,77 @@
+-
+  _id: pwvtd326rb
+  name: "Ismail Ghallou"
+  url: "https://smakosh.com/blog/"
+  desc:
+  feed:
+  author: "Ismail Ghallou"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: pwq99q3jqd
+  name: "Soledad Penadés"
+  url: "https://soledadpenades.com/"
+  desc:
+  feed:
+  author: "Soledad Penadés"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: pw18a2lgp1
+  name: "Natasha The Robot"
+  url: "https://www.natashatherobot.com/"
+  desc:
+  feed: "https://www.natashatherobot.com/feed/"
+  author: "By Natasha Murashev"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: pwa5pdpwgf
+  name: "Roland Leth's Blog"
+  url: "https://rolandleth.com/"
+  desc:
+  feed: "https://rolandleth.com/feed"
+  author: "By Roland Leth"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: pwxry45jll
+  name: "S﻿table﻿ ﻿Kernel Blog"
+  url: "http://blog.stablekernel.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios"]
+-
+  _id: pwk69wv4eu
+  name: "code123"
+  url: "http://www.code123.cc/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: pwtsfsulir
+  name: "XiongLiding的个人空间"
+  url: "http://my.oschina.net/xiongliding"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

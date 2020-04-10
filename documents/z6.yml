@@ -1,0 +1,55 @@
+-
+  _id: z6ob9s98cv
+  name: "sudo ISL"
+  url: "https://sudo.isl.co/"
+  desc:
+  feed: "https://sudo.isl.co/atom.xml"
+  author: "By ISL Engineering Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: z6lloapp8w
+  name: "Geeknews"
+  url: "http://www.geeknews.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: z68dctj8x1
+  name: "焦秋野，互联网运营，产品设计，SEM"
+  url: "http://www.imjqy.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: z6od67wb07
+  name: "山水寨"
+  url: "http://www.shaynez.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: z67hjh1chw
+  name: "jonhilton.net"
+  url: "https://jonhilton.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

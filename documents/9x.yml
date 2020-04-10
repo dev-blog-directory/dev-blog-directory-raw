@@ -1,0 +1,22 @@
+-
+  _id: 9xqgelokr2
+  name: "Mozilla Release Engineering"
+  url: "https://planet.mozilla.org/releng/"
+  desc:
+  feed:
+  author: "Mozilla Release Engineering"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 9xcu0cmm5k
+  name: "froger_mcs dev blog – Coding with love {❤️}"
+  url: "http://frogermcs.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

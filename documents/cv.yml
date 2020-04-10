@@ -1,0 +1,33 @@
+-
+  _id: cvvtmr6vb6
+  name: "Ben Scheirman Blog"
+  url: "https://benscheirman.com/"
+  desc:
+  feed: "https://benscheirman.com/rss/"
+  author: "By Ben Scheirman"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: cvjsfeip7w
+  name: "java小强"
+  url: "http://www.javacui.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cvmct2nfj4
+  name: "POCO C++ Libraries Blog"
+  url: "http://pocoproject.org/blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: jc0dhljc2g
+  name: "GeekGirlCon"
+  url: "https://geekgirlcon.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: jc0khmray9
+  name: "blog of Willem Jiang"
+  url: "http://willemjiang.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

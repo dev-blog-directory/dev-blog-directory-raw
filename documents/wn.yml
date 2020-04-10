@@ -1,0 +1,22 @@
+-
+  _id: wnlrfgoa9y
+  name: "Mahmoud Hashemi"
+  url: "http://sedimental.org/tagged/python/"
+  desc:
+  feed:
+  author: "Mahmoud Hashemi"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: wn57jymldn
+  name: "pvk.ca"
+  url: "http://www.pvk.ca/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["lisp"]

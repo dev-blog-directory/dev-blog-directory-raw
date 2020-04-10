@@ -1,0 +1,22 @@
+-
+  _id: x5de6q7mcu
+  name: "Jamis Buck"
+  url: "http://weblog.jamisbuck.org/"
+  desc:
+  feed:
+  author: "Jamis Buck"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: x54d7j5bbk
+  name: "月光中的污点"
+  url: "http://www.extlight.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

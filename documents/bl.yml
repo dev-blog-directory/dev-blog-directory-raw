@@ -1,0 +1,11 @@
+-
+  _id: blgogbptrk
+  name: "Elastic"
+  url: "https://www.elastic.co/blog"
+  desc: "Elastic Blog."
+  feed:
+  author: "Elastic"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

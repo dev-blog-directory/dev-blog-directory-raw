@@ -1,0 +1,22 @@
+-
+  _id: ik4kqcgrip
+  name: "Moove-it"
+  url: "https://blog.moove-it.com/"
+  desc:
+  feed:
+  author: "Moove-it"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ik8nxrw3fl
+  name: "Andrew Brampton"
+  url: "https://blog.bramp.net/"
+  desc:
+  feed:
+  author: "Andrew Brampton"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

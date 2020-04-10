@@ -1,0 +1,55 @@
+-
+  _id: d1lflvfhn8
+  name: "Avenue Code"
+  url: "http://blog.avenuecode.com/"
+  desc:
+  feed:
+  author: "Avenue Code"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: d1k9w41a9n
+  name: "Matteo Manferdini's Blog"
+  url: "https://matteomanferdini.com/blog/"
+  desc:
+  feed: "https://matteomanferdini.com/feed/"
+  author: "By Matteo Manferdini"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: d1j4w3ztmp
+  name: "Webf Blog"
+  url: "https://blog.webf.zone/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]
+-
+  _id: d10f6a4epd
+  name: "Samaritans博客园"
+  url: "http://www.cnblogs.com/dolphinX/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]
+-
+  _id: d1dlcv44vh
+  name: "腾讯ISUX - 社交用户体验设计 - Better Experience Through Design"
+  url: "http://isux.tencent.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:

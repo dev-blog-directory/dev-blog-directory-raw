@@ -1,0 +1,22 @@
+-
+  _id: b37pndksax
+  name: "Landon Fuller's Blog"
+  url: "http://landonf.org/"
+  desc:
+  feed: "http://landonf.org/index.rss"
+  author: "By Landon Fuller"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: b3r0slffp0
+  name: "Cap_zhou的博客"
+  url: "http://my.oschina.net/u/553773"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

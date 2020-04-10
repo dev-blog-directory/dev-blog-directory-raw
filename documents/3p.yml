@@ -1,0 +1,44 @@
+-
+  _id: 3p361dvq3c
+  name: "美团技术团队"
+  url: "http://tech.meituan.com/"
+  desc:
+  feed:
+  author: "美团"
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 3pz4pr0wbk
+  name: "Computing & Technology"
+  url: "https://helloacm.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 3poy7qxa1s
+  name: "吴昊博客"
+  url: "https://blog.whsir.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3pp2ejev2i
+  name: "郝聪SEO博客：网站SEO顾问_十年SEO服务经验_北京SEO公司"
+  url: "http://www.bloghuman.com/index.php"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

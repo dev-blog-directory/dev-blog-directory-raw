@@ -1,0 +1,33 @@
+-
+  _id: 9m9tkf8tkx
+  name: "BookMyShow"
+  url: "https://we-are.bookmyshow.com/"
+  desc: "BookMyShow Blog."
+  feed:
+  author: "BookMyShow"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 9mhattphnk
+  name: "thzt"
+  url: "https://github.com/thzt/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9m3sc1nvlq
+  name: "philna.sh"
+  url: "https://philna.sh/"
+  desc:
+  feed: "https://philna.sh/feed.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

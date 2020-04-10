@@ -1,0 +1,22 @@
+-
+  _id: c2wvq86ole
+  name: "Neglected Potential"
+  url: "http://www.neglectedpotential.com/"
+  desc:
+  feed: "http://www.neglectedpotential.com/feed/"
+  author: "By Nick Arnott"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: c2d2dx6dry
+  name: "Swift World"
+  url: "https://medium.com/@NilStack/"
+  desc:
+  feed: "https://medium.com/feed/@NilStack"
+  author: "By Peng Guo"
+  langs: ["en"]
+  github:
+  categories: ["Newsletter"]
+  tags: ["ios"]

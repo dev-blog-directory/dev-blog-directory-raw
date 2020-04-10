@@ -1,0 +1,55 @@
+-
+  _id: 36rbqke4et
+  name: "Jake Champion"
+  url: "https://jakechampion.name/"
+  desc:
+  feed:
+  author: "Jake Champion"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 36gzqbz6em
+  name: "DeferPanic"
+  url: "https://deferpanic.com/blog/"
+  desc:
+  feed:
+  author: "DeferPanic"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 36emkvumca
+  name: "Matt Cutts"
+  url: "https://www.mattcutts.com/blog/"
+  desc:
+  feed:
+  author: "Matt Cutts"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 363ehpd7y5
+  name: "Gwenn Guihal on Medium"
+  url: "https://medium.com/@_myrddin_"
+  desc:
+  feed: "https://medium.com/feed/@_myrddin_"
+  author: "By Gwenn Guihal"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 36tb3jp4za
+  name: "Codeconvey CSS Tutorial"
+  url: "https://codeconvey.com/category/css-tutorial/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["css"]

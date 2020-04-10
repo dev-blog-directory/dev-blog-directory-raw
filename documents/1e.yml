@@ -1,0 +1,66 @@
+-
+  _id: 1esn4jkqfj
+  name: "Carbon Five"
+  url: "http://blog.carbonfive.com/"
+  desc: "Carbon Five Blog."
+  feed:
+  author: "Carbon Five"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 1eytak7nr7
+  name: "A Java geek"
+  url: "https://blog.frankel.ch/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java","geek"]
+-
+  _id: 1eg90oxwtm
+  name: "Talk Python To Me Podcast"
+  url: "https://talkpython.fm/episodes/all"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: 1erzmmedd8
+  name: "神仙的仙居"
+  url: "http://xiezhenye.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 1epz02oerk
+  name: "悠然居"
+  url: "https://wordpress.youran.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 1eny7qf8s0
+  name: "steve-yegge.blogspot.de"
+  url: "http://steve-yegge.blogspot.de/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

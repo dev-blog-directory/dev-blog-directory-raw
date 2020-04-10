@@ -1,0 +1,33 @@
+-
+  _id: vzgh5zrpqm
+  name: "Eli Perkins' Blog"
+  url: "https://blog.eliperkins.me/"
+  desc:
+  feed: "https://blog.eliperkins.me/rss.xml"
+  author: "By Eli Perkins"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: vz19dqf99g
+  name: "David Ford's Programming blog"
+  url: "https://medium.com/@daveford"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: vz8oycekkp
+  name: "IT范儿"
+  url: "https://www.itfanr.cc/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,55 @@
+-
+  _id: 2ruk8had2l
+  name: "Juri Strumpflohner"
+  url: "https://juristr.com/blog"
+  desc:
+  feed:
+  author: "Juri Strumpflohner"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 2rhwo0dn1p
+  name: "Digital Trends"
+  url: "http://www.digitaltrends.com/"
+  desc: "News about all things tech."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 2r2kzjhy6t
+  name: "化外之民"
+  url: "http://blog.wencan.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 2roenvtdml
+  name: "BlogMars"
+  url: "http://www.blogmars.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 2r9fmel3uw
+  name: "仰望星空！"
+  url: "http://www.succw.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

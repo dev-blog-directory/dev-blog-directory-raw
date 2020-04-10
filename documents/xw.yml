@@ -1,0 +1,110 @@
+-
+  _id: xw7o6sylx5
+  name: "AirBrake"
+  url: "https://airbrake.io/blog/"
+  desc: "AirBrake Blog."
+  feed:
+  author: "AirBrake"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xwpnoijzrx
+  name: "Zillow"
+  url: "https://www.zillow.com/engineering/"
+  desc: "Zillow Engineering Blog."
+  feed:
+  author: "Zillow"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xwn67mhtpt
+  name: "Wimdu"
+  url: "http://tech.wimdu.com/"
+  desc:
+  feed:
+  author: "Wimdu"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xwih7lshxt
+  name: "Eddie Smith"
+  url: "http://www.practicallyefficient.com/"
+  desc:
+  feed:
+  author: "Eddie Smith"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xwit9bs4ye
+  name: "Anastasiia Vixentael on Medium"
+  url: "https://medium.com/@vixentael/"
+  desc:
+  feed: "https://medium.com/feed/@vixentael/"
+  author: "By Anastasiia Vixentael"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: xw4iz1z4b5
+  name: "cutting.io"
+  url: "https://cutting.io/"
+  desc:
+  feed: "http://feed.cutting.io/"
+  author: "By Dan Cutting"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: xwabn0mwe8
+  name: "Raymond Camden Blog"
+  url: "https://www.raymondcamden.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]
+-
+  _id: xwhs9tjilo
+  name: "Log4D"
+  url: "http://blog.log4d.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xwuz3g5rvq
+  name: "谢益辉"
+  url: "http://yihui.name/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xwqxl3b3m2
+  name: "TheCodeWay:我的博客"
+  url: "http://thecodeway.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,55 @@
+-
+  _id: g5i8cipplk
+  name: "DevOps 门户"
+  url: "http://devopshub.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: g5px6xgk0f
+  name: "GNUer's blog"
+  url: "https://blog.gnuers.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: g57vqor21e
+  name: "蓝鲸的网站分析笔记"
+  url: "http://bluewhale.cc/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: g5tjcxc42y
+  name: "翔妖除魔的个人博客"
+  url: "http://sunxiang0918.github.io//"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: g551es14pn
+  name: "Drupal与高性能网站架构"
+  url: "http://www.drupal001.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

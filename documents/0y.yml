@@ -1,0 +1,33 @@
+-
+  _id: 0yk66ejixi
+  name: "MajorGeeks.Com"
+  url: "https://www.majorgeeks.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: 0yurf4k188
+  name: "Muuzii"
+  url: "http://www.muuzii.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 0yyedsp7cd
+  name: "Yecheng Fu's Home Page"
+  url: "http://yechengfu.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

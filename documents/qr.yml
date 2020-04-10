@@ -1,0 +1,22 @@
+-
+  _id: qr6avxtacj
+  name: "Dušan Tadić's Blog"
+  url: "https://www.dusantadic.dev/"
+  desc:
+  feed: "https://www.dusantadic.dev/index.xml"
+  author: "By Dušan Tadić"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: qrfg295pzb
+  name: "CloudTech"
+  url: "https://www.cloudcomputing-news.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]

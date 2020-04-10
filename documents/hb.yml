@@ -1,0 +1,33 @@
+-
+  _id: hbkjhqmd09
+  name: "AWS News Blog"
+  url: "https://aws.amazon.com/blogs/aws/"
+  desc:
+  feed:
+  author: "AWS"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["cloud-computing"]
+-
+  _id: hb8h4md835
+  name: "1A23 Labs"
+  url: "https://blog.1a23.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: hbfo7qoqj2
+  name: "Andy Matuschak's Blog"
+  url: "http://blog.andymatuschak.org/"
+  desc:
+  feed: "http://blog.andymatuschak.org/rss"
+  author: "By Andy Matuschak"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

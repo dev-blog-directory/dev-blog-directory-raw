@@ -1,0 +1,22 @@
+-
+  _id: u25411br0c
+  name: "Lambda the Ultimate"
+  url: "http://lambda-the-ultimate.org/"
+  desc:
+  feed:
+  author: "Lambda the Ultimate"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: u2qi1jesrd
+  name: "The Hitchhiker’s Guide to Python!"
+  url: "http://docs.python-guide.org/en/latest/"
+  desc:
+  feed:
+  author: "The Hitchhiker’s Guide to Python!"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

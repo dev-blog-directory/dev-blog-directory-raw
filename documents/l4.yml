@@ -1,0 +1,22 @@
+-
+  _id: l4pht87xw3
+  name: "fiveaday.co | Five web design & development articles a day"
+  url: "https://fiveaday.co/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: l46c00jrq4
+  name: "LinuxLabs | Golang"
+  url: "https://www.linxlabs.com/category/golang/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["golang"]

@@ -1,0 +1,33 @@
+-
+  _id: sn913pv64p
+  name: "Expedia"
+  url: "https://medium.com/expedia-group-tech"
+  desc:
+  feed: "https://medium.com/feed/expedia-group-tech"
+  author: "Expedia"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: sn6ofbzgtk
+  name: "Srinivas Tamada"
+  url: "https://www.9lessons.info/"
+  desc:
+  feed:
+  author: "Srinivas Tamada"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: snmraylso9
+  name: "GeekFence "
+  url: "https://www.geekfence.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

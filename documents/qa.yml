@@ -1,0 +1,33 @@
+-
+  _id: qa2hgsoo1u
+  name: "Chien Tran"
+  url: "http://thelazylog.com/"
+  desc:
+  feed:
+  author: "Chien Tran"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: qa225dm04i
+  name: "Planet SciPy"
+  url: "https://planet.scipy.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: qavejvjp9g
+  name: "Zerynth Python for Microcontrollers, IoT and Embedded Solutions"
+  url: "https://www.zerynth.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

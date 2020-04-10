@@ -1,0 +1,33 @@
+-
+  _id: qmbghtqpiu
+  name: "Adam Tuliper"
+  url: "http://www.adamtuliper.com/"
+  desc:
+  feed:
+  author: "Adam Tuliper"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: [".net","c#"]
+-
+  _id: qmnhw58is7
+  name: "The Geek Stuff"
+  url: "https://www.thegeekstuff.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: qmyglr4vdw
+  name: "箱猫日和"
+  url: "http://blog.gssxgss.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

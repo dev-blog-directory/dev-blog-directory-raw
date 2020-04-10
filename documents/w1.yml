@@ -1,0 +1,33 @@
+-
+  _id: w1v5suv03q
+  name: "Brandwatch"
+  url: "http://engineering.brandwatch.com/"
+  desc:
+  feed:
+  author: "Brandwatch"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: w1vbg7me0n
+  name: "gingerbookgeek"
+  url: "https://gingerbookgeek.wordpress.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: w1ewnetai4
+  name: "魔法月饼"
+  url: "https://www.mocakemagic.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

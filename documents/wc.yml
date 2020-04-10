@@ -1,0 +1,11 @@
+-
+  _id: wcufmybzj9
+  name: "Belle B. Cooper's Blog"
+  url: "http://blog.bellebcooper.com/"
+  desc:
+  feed: "http://blog.bellebcooper.com/feeds/all.atom.xml"
+  author: "By Belle B. Cooper"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

@@ -1,0 +1,11 @@
+-
+  _id: d4dwcpigtj
+  name: "Swiggy"
+  url: "https://bytes.swiggy.com/"
+  desc: "Swiggy Engineering"
+  feed:
+  author: "Swiggy"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

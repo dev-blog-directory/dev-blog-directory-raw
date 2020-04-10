@@ -1,0 +1,33 @@
+-
+  _id: mqiha29pt5
+  name: "Cool Python Codes"
+  url: "http://coolpythoncodes.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: mq4xkmwvbm
+  name: "Alan Richmond"
+  url: "http://python3.codes/"
+  desc:
+  feed:
+  author: "Alan Richmond"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: mqdn9zee2e
+  name: "Gokulakrishnan Kalaikovan"
+  url: "https://gokul.site/"
+  desc:
+  feed:
+  author: "Gokulakrishnan Kalaikovan"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

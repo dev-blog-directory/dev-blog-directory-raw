@@ -1,0 +1,22 @@
+-
+  _id: y2uyq806kg
+  name: "Matt Warren"
+  url: "http://mattwarren.org/"
+  desc:
+  feed:
+  author: "Matt Warren"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: y257azrnvw
+  name: "Aurelia Blog"
+  url: "http://blog.aurelia.io/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]

@@ -1,0 +1,55 @@
+-
+  _id: mjwd8bbiek
+  name: "LiveRamp"
+  url: "https://liveramp.com/engineering/"
+  desc:
+  feed:
+  author: "LiveRamp"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: mj1l3fjkt1
+  name: "MapTiler"
+  url: "https://www.maptiler.com/blog/"
+  desc:
+  feed:
+  author: "MapTiler"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: mj389pnh7r
+  name: "OneV's Den"
+  url: "https://onevcat.com/"
+  desc:
+  feed: "https://onevcat.com/feed"
+  author: "By 王巍 (@onevcat)"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: mjzw8obtlo
+  name: "Jster's Blog"
+  url: "http://jster.net/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: mjpuetnrsg
+  name: "Haorooms博客-前端博客-前端技术，记录web前端开发的技术博客"
+  url: "http://www.haorooms.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

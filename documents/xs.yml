@@ -1,0 +1,55 @@
+-
+  _id: xsixpszs5c
+  name: "Brandon Skerritt"
+  url: "https://skerritt.blog/"
+  desc:
+  feed:
+  author: "Brandon Skerritt"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: xsxlbi1a0s
+  name: "Jon Skeet"
+  url: "https://codeblog.jonskeet.uk/"
+  desc:
+  feed:
+  author: "Jon Skeet"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: xsl7gq0kix
+  name: "Dean Hume"
+  url: "http://deanhume.com/"
+  desc:
+  feed:
+  author: "Dean Hume"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xsm1kieohq
+  name: "JamesDouble iOS"
+  url: "https://jamesdouble.github.io/blog/"
+  desc:
+  feed: "https://jamesdouble.github.io/blog/atom.xml"
+  author: "By JamesDouble (郭介騵)"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: xsg4mlpy4q
+  name: "技术人生-孙强"
+  url: "http://blog.cxiangnet.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

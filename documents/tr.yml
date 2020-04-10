@@ -1,0 +1,33 @@
+-
+  _id: try3frx75q
+  name: "REA Group"
+  url: "http://rea.tech/engineering/"
+  desc:
+  feed:
+  author: "REA Group"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: trdr0608z3
+  name: "Mark Struzinski's Blog"
+  url: "http://markstruzinski.com/"
+  desc:
+  feed: "http://markstruzinski.com/index.xml"
+  author: "By Mark Struzinski"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: tripgvkvgz
+  name: "御风大世界"
+  url: "https://blog.bywind.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

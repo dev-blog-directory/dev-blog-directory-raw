@@ -1,0 +1,66 @@
+-
+  _id: 9l6e8eiixv
+  name: "Xmartlabs"
+  url: "https://blog.xmartlabs.com/"
+  desc:
+  feed:
+  author: "Xmartlabs"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 9lreazeuqw
+  name: "Natasha Murashev"
+  url: "https://natashatherobot.com/"
+  desc:
+  feed:
+  author: "Natasha Murashev"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9la8fpzbh6
+  name: "技术小黑屋"
+  url: "http://droidyue.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9loqmgfdlk
+  name: "落园"
+  url: "http://www.loyhome.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9la610jul3
+  name: "Oracle数据库服务热线：400-690-3643   诗檀软件 »  –  Oracle数据库数据恢复、性能优化来问问AskMaclean – 诗檀软件旗下网站"
+  url: "http://www.askmaclean.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9lm7a2lj6p
+  name: "Reboot运维开发"
+  url: "http://51reboot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

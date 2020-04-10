@@ -1,0 +1,33 @@
+-
+  _id: ix11k83f37
+  name: "DazeEnd"
+  url: "https://dazeend.org/"
+  desc:
+  feed: "https://dazeend.org/feed/?cat=-12"
+  author: "By Charles Perry"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ix2f0p0u39
+  name: "Smashing Magazine | For Professional Web Designers and Developers"
+  url: "https://www.smashingmagazine.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: ixwphtmaua
+  name: "Web Development Zone"
+  url: "https://medium.com/web-development-zone"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

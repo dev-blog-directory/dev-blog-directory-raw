@@ -1,0 +1,22 @@
+-
+  _id: nhypqc21sj
+  name: "Flipboard"
+  url: "http://engineering.flipboard.com/"
+  desc: "Flipboard Engineering."
+  feed:
+  author: "Flipboard"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: nhue086mmu
+  name: "Max Stoiber"
+  url: "https://mxstbr.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: inr6gn91v3
+  name: "Vinay Sajip"
+  url: "http://plumberjack.blogspot.co.id/"
+  desc:
+  feed:
+  author: "Vinay Sajip"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: inaq098rsx
+  name: "李阳良博客"
+  url: "http://liyangliang.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ingsj06aye
+  name: "gloriacho.com"
+  url: "https://www.gloriacho.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

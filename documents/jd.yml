@@ -1,0 +1,33 @@
+-
+  _id: jdviu9x6jj
+  name: "The Effective Engineer"
+  url: "http://www.theeffectiveengineer.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: jdkkdg4d5o
+  name: "鍵盤藍綠藻Neo"
+  url: "https://koromiko1104.wordpress.com/"
+  desc:
+  feed: "https://koromiko1104.wordpress.com/comments/feed/"
+  author: "By ShihTing Huang"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: jdoucy3f48
+  name: "果冻想"
+  url: "http://www.jellythink.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

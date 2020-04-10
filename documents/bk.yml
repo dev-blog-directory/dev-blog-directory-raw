@@ -1,0 +1,44 @@
+-
+  _id: bkodvi8d68
+  name: "ritesh.hh"
+  url: "http://riteshhh.com/"
+  desc:
+  feed: "http://riteshhh.com/rss.xml"
+  author: "By Ritesh Gupta"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: bkoj41p6uk
+  name: "Good Old Geek IT Services"
+  url: "https://www.goodoldgeek.com/blogs/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: bk0odlhz6q
+  name: "酷喃｜coolnull｜"
+  url: "http://coolnull.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: bkgg1z249a
+  name: "ariya.ofilabs.com"
+  url: "http://ariya.ofilabs.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["javascript"]

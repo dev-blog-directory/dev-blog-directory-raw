@@ -1,0 +1,33 @@
+-
+  _id: w2y0qi4z5s
+  name: "Bixly - Django Developer & Python Programmer Blog"
+  url: "https://bixly.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: w2urt8cx6s
+  name: "Talking Kotlin - A Podcast on Kotlin and more "
+  url: "https://talkingkotlin.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["kotlin"]
+-
+  _id: w2y5kl09hs
+  name: "Apollo GraphQL Blog"
+  url: "https://blog.apollographql.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["graphql"]

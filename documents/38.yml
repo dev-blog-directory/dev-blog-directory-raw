@@ -1,0 +1,33 @@
+-
+  _id: 384xuzheyg
+  name: "SlideShare"
+  url: "http://engineering.slideshare.net/"
+  desc: "SlideShare Engineering Blog."
+  feed:
+  author: "SlideShare"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 382f6bl0ye
+  name: "祁劲松的博客"
+  url: "http://jamesqi.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 38yyrpi3d6
+  name: "深圳技师学院 | 电子信息技术系"
+  url: "http://www.helloit.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

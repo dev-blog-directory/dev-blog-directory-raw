@@ -1,0 +1,33 @@
+-
+  _id: 5pgvkwz1u8
+  name: "Vertabelo"
+  url: "http://www.vertabelo.com/blog"
+  desc:
+  feed:
+  author: "Vertabelo"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 5pfmuf0o1v
+  name: "Arseniy Kuznetsov's Blog"
+  url: "http://akpdev.com/"
+  desc:
+  feed: "http://www.akpdev.com/feed.xml"
+  author: "By Arseniy Kuznetsov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 5py2wp0m2v
+  name: "Rebecca Murphy"
+  url: "http://rmurphey.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

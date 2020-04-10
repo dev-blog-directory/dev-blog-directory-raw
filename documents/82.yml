@@ -1,0 +1,66 @@
+-
+  _id: 82auzxvha1
+  name: "Shyp"
+  url: "https://medium.com/shyp-engineering"
+  desc:
+  feed:
+  author: "Shyp"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 82920v64v5
+  name: "Aleksander Popko's Blog"
+  url: "https://aleksanderpopko.tech/blog/"
+  desc:
+  feed: "https://aleksanderpopko.tech/feed.xml"
+  author: "By Aleksander Popko"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 82zvn6bjis
+  name: "阿里云产品博客"
+  url: "https://yq.aliyun.com/articles/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 82zeoijohb
+  name: "罗磊的独立博客"
+  url: "http://luolei.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 8209ydy2dw
+  name: "akun's blog"
+  url: "http://zhengkun.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 82q2bygm23
+  name: "Luca Crea"
+  url: "https://lcrea.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

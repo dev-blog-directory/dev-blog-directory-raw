@@ -1,0 +1,66 @@
+-
+  _id: j2ex14o3lt
+  name: "Boxever"
+  url: "http://www.boxever.com/blog/"
+  desc:
+  feed:
+  author: "Boxever"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: j2mhp3w8lo
+  name: "Yifan Lu"
+  url: "http://yifan.lu/"
+  desc:
+  feed:
+  author: "Yifan Lu"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: j2ygnefyjl
+  name: "Swift"
+  url: "https://developer.apple.com/swift/blog/"
+  desc:
+  feed:
+  author: "Swift"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: j2nghfpaot
+  name: "Thoughts About Various Backend Development Topics"
+  url: "http://korhner.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: j26ydh77ia
+  name: "码农日记"
+  url: "http://www.androiddev.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: j2qwba0srv
+  name: "brooker.co.za/blog"
+  url: "https://brooker.co.za/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["systems"]

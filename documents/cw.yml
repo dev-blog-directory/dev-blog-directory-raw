@@ -1,0 +1,44 @@
+-
+  _id: cwt7up1v47
+  name: "Sunshinejr's Blog"
+  url: "http://sunshinejr.com/tags/ios/"
+  desc:
+  feed: "http://sunshinejr.com/tags/ios/index.xml"
+  author: "By Łukasz Mróz"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: cwn1by02qn
+  name: "刻骨铭心"
+  url: "http://jacoxu.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cwhvsmgsay
+  name: "不折腾会死"
+  url: "http://www.youc.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cwi734640k
+  name: "medium.com/@kentcdodds"
+  url: "https://medium.com/@kentcdodds"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["javascript"]

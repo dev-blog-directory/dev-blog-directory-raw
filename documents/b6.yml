@@ -1,0 +1,33 @@
+-
+  _id: b6sx2i5g9o
+  name: "GIPHY"
+  url: "https://engineering.giphy.com/"
+  desc:
+  feed:
+  author: "GIPHY"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: b6oukpsehv
+  name: "Over Engineering blog"
+  url: "https://medium.com/over-engineering/tagged/ios"
+  desc:
+  feed: "https://medium.com/feed/over-engineering/tagged/ios"
+  author: "By Over iOS Engineering team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: b6a0mp2jvd
+  name: "安静的boy"
+  url: "https://www.cnblogs.com/wutianqi/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: a75tmt30wq
+  name: "Gideon Pyzer"
+  url: "https://gideonpyzer.dev/blog/"
+  desc:
+  feed:
+  author: "Gideon Pyzer"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: a7ccghbn4o
+  name: "Matthias Eisen (Python Pattern)"
+  url: "http://matthiaseisen.com/pp/"
+  desc:
+  feed:
+  author: "Matthias Eisen (Python Pattern)"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: a7klc916v2
+  name: "Wyatt Baldwin"
+  url: "http://wyattbaldwin.com/"
+  desc:
+  feed:
+  author: "Wyatt Baldwin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

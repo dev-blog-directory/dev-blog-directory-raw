@@ -1,2 +1,4 @@
 node_modules/
 dist/
+dev-blog-directory-feed-db
+feed-db.json

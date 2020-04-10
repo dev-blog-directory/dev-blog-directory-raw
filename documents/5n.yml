@@ -1,0 +1,55 @@
+-
+  _id: 5nz2qte6qg
+  name: "Alan Chang"
+  url: "https://tcode2k16.github.io/blog/"
+  desc:
+  feed:
+  author: "Alan Chang"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 5n26vuz7cp
+  name: "SingleHop"
+  url: "https://www.singlehop.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: 5nchurok7o
+  name: "webzhao"
+  url: "https://webzhao.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5n4x9ixd9m
+  name: "码蜂笔记"
+  url: "http://coderbee.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5nwpu00vac
+  name: "Basten Gao's Blog"
+  url: "http://bastengao.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

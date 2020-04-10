@@ -1,0 +1,22 @@
+-
+  _id: yemq7xveiy
+  name: "This is Kyle"
+  url: "http://thisiskyle.me/"
+  desc:
+  feed: "http://thisiskyle.me/feed.xml"
+  author: "By Kyle Sherman"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ye6yaayqx6
+  name: "Periphery Blog"
+  url: "https://peripheryapp.com/blog/"
+  desc:
+  feed: "https://www.peripheryapp.com/blog/feed.xml"
+  author: "By Periphery Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

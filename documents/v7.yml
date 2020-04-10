@@ -1,0 +1,11 @@
+-
+  _id: v7re30u4vy
+  name: "Appracatappra Blog"
+  url: "https://appracatappra.com/category/blog/"
+  desc:
+  feed: "https://appracatappra.com/feed/rss2/"
+  author: "By Kevin Mullins"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

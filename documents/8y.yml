@@ -1,0 +1,22 @@
+-
+  _id: 8yoqxnw39r
+  name: "Regular Geek"
+  url: "http://regulargeek.com/"
+  desc:
+  feed:
+  author: "Regular Geek"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 8yji6k0j9f
+  name: "Web Designer News"
+  url: "https://www.webdesignernews.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

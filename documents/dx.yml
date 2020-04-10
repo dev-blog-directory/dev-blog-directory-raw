@@ -1,0 +1,55 @@
+-
+  _id: dxp2q1d6xw
+  name: "Vine"
+  url: "http://engineering.vine.co/"
+  desc:
+  feed:
+  author: "Vine"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: dxo50elvlk
+  name: "Android Tutts"
+  url: "https://tutorp0int.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: dxficdy44b
+  name: "Cloud Matters"
+  url: "https://cloudmatters.cloud/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: dx0knaof42
+  name: "柳伟卫/老卫/Way Lau’s Personal Site"
+  url: "https://waylau.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: dxvyu6v524
+  name: "独行为僧"
+  url: "http://blog.omitol.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

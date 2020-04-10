@@ -1,0 +1,22 @@
+-
+  _id: rbqqqxhq8w
+  name: "Reza Rahman's Java Blog"
+  url: "http://blog.rahmannet.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: rbl8tptu1b
+  name: "Perlsphere - the Perl blog aggregator"
+  url: "http://perlsphere.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]

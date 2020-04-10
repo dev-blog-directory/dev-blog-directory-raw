@@ -1,0 +1,44 @@
+-
+  _id: p5a6n05ykl
+  name: "Aditya Rohilla"
+  url: "https://adityarohilla.com/blog/"
+  desc:
+  feed:
+  author: "Aditya Rohilla"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: p5gxtqjpyk
+  name: "Stack Overflow Blog"
+  url: "https://stackoverflow.blog/engineering/"
+  desc:
+  feed:
+  author: "Stack Overflow Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: p5ce40zj2g
+  name: "LendingHome"
+  url: "https://tech.lendinghome.com/"
+  desc:
+  feed:
+  author: "LendingHome"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: p5adrrjocr
+  name: "Blog of GangMax"
+  url: "http://gangmax.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

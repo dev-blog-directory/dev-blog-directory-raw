@@ -1,0 +1,22 @@
+-
+  _id: ijo1rwdhmt
+  name: "Alexis Creuzot on Medium"
+  url: "https://medium.com/@alexiscreuzot"
+  desc:
+  feed: "https://medium.com/feed/@alexiscreuzot"
+  author: "By Alexis Creuzot"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ijkq7gzof2
+  name: "nathany.com"
+  url: "https://nathany.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["golang"]

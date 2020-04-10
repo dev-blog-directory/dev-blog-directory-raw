@@ -1,0 +1,22 @@
+-
+  _id: g8nsgw238v
+  name: "The JavaScript Playground"
+  url: "https://javascriptplayground.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: g8e30szgrh
+  name: "c0smx"
+  url: "https://www.c0smx.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

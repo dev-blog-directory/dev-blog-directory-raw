@@ -1,0 +1,22 @@
+-
+  _id: n8zpcc275f
+  name: "Jampp"
+  url: "https://geeks.jampp.com/"
+  desc: "Jampp's Engineering Blog."
+  feed:
+  author: "Jampp"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: n8f0dwh1lc
+  name: "Hexwhale"
+  url: "https://www.hexwhale.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

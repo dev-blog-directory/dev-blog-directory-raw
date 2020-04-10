@@ -1,0 +1,22 @@
+-
+  _id: r3nh7ffpji
+  name: "Riot Games Engineering"
+  url: "https://engineering.riotgames.com/"
+  desc:
+  feed:
+  author: "Riot Games Engineering"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: r3uz3oryh8
+  name: "The.Swift.Dev."
+  url: "https://theswiftdev.com/"
+  desc:
+  feed: "https://theswiftdev.com/rss/"
+  author: "By Tibor Bödecs"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]

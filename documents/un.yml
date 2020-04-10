@@ -1,0 +1,66 @@
+-
+  _id: un0vlkjamr
+  name: "Aman Pratap Singh"
+  url: "https://blog.amanpratapsingh.in/"
+  desc:
+  feed:
+  author: "Aman Pratap Singh"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ung2k4hdd0
+  name: "Nick Craver"
+  url: "https://nickcraver.com/blog/"
+  desc:
+  feed:
+  author: "Nick Craver"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: unl2hr6z10
+  name: "Colin Drake's Blog"
+  url: "https://colindrake.me/post/"
+  desc:
+  feed: "https://colindrake.me/post/index.xml"
+  author: "By Colin Drake"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: unch6id38u
+  name: "A Geek With Guns"
+  url: "https://blog.christopherburg.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: un9as3xsja
+  name: "与您分享电脑世界"
+  url: "http://www.netpc.com.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: unznbtw0hg
+  name: "It event poll"
+  url: "http://www.epooll.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

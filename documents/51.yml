@@ -1,0 +1,33 @@
+-
+  _id: 513qfsu5qi
+  name: "Slack"
+  url: "https://slack.engineering/"
+  desc: "Slack Engineering Blog."
+  feed:
+  author: "Slack"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 51bra2nkiq
+  name: "Yammer"
+  url: "https://medium.com/@YammerEng"
+  desc: "Blog Yammer Engineering."
+  feed:
+  author: "Yammer"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 51b7z3tqeq
+  name: "Linux Story"
+  url: "http://www.linuxstory.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

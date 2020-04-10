@@ -1,0 +1,55 @@
+-
+  _id: q8w7t2ye7k
+  name: "Angus Croll"
+  url: "https://javascriptweblog.wordpress.com/"
+  desc:
+  feed:
+  author: "Angus Croll"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: q8ac1etbg7
+  name: "Tutorial Land"
+  url: "https://ccpptutoriallands.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: q8ee8n4ref
+  name: "FOX-JIMMY ‘S BLOG."
+  url: "http://blog.sead.co/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: q8693gxhic
+  name: "A Geek’s Page"
+  url: "http://wangcong.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: q8s7r48xba
+  name: "Web 平台和移动应用开发"
+  url: "http://www.tfan.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

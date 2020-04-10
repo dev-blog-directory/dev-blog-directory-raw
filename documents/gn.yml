@@ -1,0 +1,33 @@
+-
+  _id: gnaxta9qqi
+  name: "Sophie Alpert"
+  url: "https://sophiebits.com/"
+  desc:
+  feed:
+  author: "Sophie Alpert"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: gnpp2jgfbw
+  name: "Flickr"
+  url: "https://code.flickr.net/"
+  desc: "Code.flickr.com."
+  feed:
+  author: "Flickr"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: gns93svz77
+  name: "Bret Victor's Blog"
+  url: "http://worrydream.com/"
+  desc:
+  feed: "http://worrydream.com/feed.xml"
+  author: "By Bret Victor"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

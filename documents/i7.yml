@@ -1,0 +1,11 @@
+-
+  _id: i7rlvc15r1
+  name: "Zomato"
+  url: "https://engineering.zomato.com/"
+  desc: "Zomato Engineering Blog."
+  feed:
+  author: "Zomato"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

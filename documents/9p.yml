@@ -1,0 +1,33 @@
+-
+  _id: 9pjdpzoobb
+  name: "Jake Trent"
+  url: "https://jaketrent.com/"
+  desc:
+  feed:
+  author: "Jake Trent"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9pgmozwvmg
+  name: "Discussdesk | Programming Blog"
+  url: "https://www.discussdesk.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 9pbmlz42oz
+  name: "柳婼 の blog"
+  url: "https://www.liuchuo.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,44 @@
+-
+  _id: rjm9k9u2gt
+  name: "iOS Developer Blog - Esh Satrasala"
+  url: "https://iosdeveloperblog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: rjimv8qgls
+  name: "Content Marketing Geek"
+  url: "http://contentmarketinggeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: rje4h78r9d
+  name: "亚里士朱德的博客"
+  url: "http://yalishizhude.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: rj93p8icgs
+  name: "独立思考"
+  url: "http://my.oschina.net/enyo"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

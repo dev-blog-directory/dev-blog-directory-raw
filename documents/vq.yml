@@ -1,0 +1,33 @@
+-
+  _id: vqx4p5peid
+  name: "UpGrad"
+  url: "https://engineering.upgrad.com/"
+  desc:
+  feed:
+  author: "UpGrad"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: vqdxpv4nne
+  name: "小刚"
+  url: "http://keeganlee.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: vq92zf48py
+  name: "iOS Goodies"
+  url: "http://ios-goodies.com/"
+  desc:
+  feed: "http://ios-goodies.com/rss"
+  author: "By Marius Constantinescu"
+  langs: ["en"]
+  github:
+  categories: ["Newsletter"]
+  tags: ["ios"]

@@ -1,0 +1,22 @@
+-
+  _id: 7u55lpfkfs
+  name: "Ken Pythonic"
+  url: "https://kenpythonic.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: 7uwhkazoqx
+  name: "edi.wang"
+  url: "http://edi.wang/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: 6egvchn476
+  name: "Autodesk"
+  url: "http://cloudengineering.autodesk.com/blog/"
+  desc: "Autodesk Engineering Blog."
+  feed:
+  author: "Autodesk"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 6evidc3ipj
+  name: "iCalvin.dev"
+  url: "https://icalvin.dev/"
+  desc:
+  feed: "https://icalvin.dev/posts/json"
+  author: "By Calvin Chestnut"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

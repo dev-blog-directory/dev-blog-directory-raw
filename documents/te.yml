@@ -1,0 +1,33 @@
+-
+  _id: te8n7onpke
+  name: "Engineering at IFTTT"
+  url: "http://engineering.ifttt.com/"
+  desc:
+  feed:
+  author: "Engineering at IFTTT"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: teen50exnq
+  name: "Tero Parviainen"
+  url: "http://teropa.info/"
+  desc:
+  feed:
+  author: "Tero Parviainen"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: tenzl6isdg
+  name: "Mariotaku.random()"
+  url: "http://blog.mariotaku.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

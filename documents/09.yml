@@ -1,0 +1,22 @@
+-
+  _id: 09hydol6b2
+  name: "Pat Shaughnessy"
+  url: "http://patshaughnessy.net/"
+  desc:
+  feed:
+  author: "Pat Shaughnessy"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ruby"]
+-
+  _id: 09xjv965bu
+  name: "Born Geek"
+  url: "https://borngeekblog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

@@ -1,0 +1,55 @@
+-
+  _id: iig2ey7oat
+  name: "SitePoint"
+  url: "https://sitepoint.com/"
+  desc:
+  feed:
+  author: "SitePoint"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ii6e94cbjw
+  name: "Zanella Gaétan on Medium"
+  url: "https://medium.com/@gaetan.zanella"
+  desc:
+  feed: "https://medium.com/feed/@gaetan.zanella"
+  author: "By Zanella Gaétan"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ii5qp27e07
+  name: "Python Statistics | Statistics, Python and Data science learning center"
+  url: "http://pythonstatistics.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: ii4skhxbx9
+  name: "Everybody's Hometown Geek"
+  url: "https://everybodyshometowngeek.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: iivin8ucm5
+  name: "www.blogways.net"
+  url: "http://www.blogways.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

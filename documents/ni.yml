@@ -1,0 +1,22 @@
+-
+  _id: nikdmcnrc3
+  name: "NSHipster"
+  url: "https://nshipster.com/"
+  desc:
+  feed: "https://nshipster.com/feed.xml"
+  author: "By NSHipster"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: nilfw4wewj
+  name: "The London Geek"
+  url: "https://www.thelondongeek.co.uk/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

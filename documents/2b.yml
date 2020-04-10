@@ -1,0 +1,22 @@
+-
+  _id: 2b0ojm5lbb
+  name: "Jamie Barton | Youtube"
+  url: "https://www.youtube.com/channel/UCcSj41xzQJCT2V0GNwlob_w/videos"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["graphql"]
+-
+  _id: 2brwffulmc
+  name: "blog.xdite.net"
+  url: "http://blog.xdite.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

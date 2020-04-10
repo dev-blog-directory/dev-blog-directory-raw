@@ -1,0 +1,33 @@
+-
+  _id: 9ynfr4k31i
+  name: "RetailMeNot"
+  url: "https://medium.com/retailmenot-engineering/"
+  desc:
+  feed:
+  author: "RetailMeNot"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 9ykig55r2v
+  name: "Casa Taloyum's blog"
+  url: "https://casatwy.com/"
+  desc:
+  feed: "https://casatwy.com/feeds/all.atom.xml"
+  author: "By Tian Wei Yu(Casa Taloyum)"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 9yp2kwr6db
+  name: "akkartik.name"
+  url: "http://akkartik.name/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

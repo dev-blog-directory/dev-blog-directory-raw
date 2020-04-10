@@ -1,0 +1,55 @@
+-
+  _id: owrpu4pjpm
+  name: "Twitch"
+  url: "https://blog.twitch.tv/tagged/engineering"
+  desc:
+  feed:
+  author: "Twitch"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: oww1jsc0da
+  name: "Better Programming "
+  url: "https://medium.com/better-programming"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: owv93gzs7d
+  name: "Shadowcat Systems | Youtube"
+  url: "https://www.youtube.com/user/ShadowcatSystems/videos"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]
+-
+  _id: owzi9wo29d
+  name: "Cloudwards"
+  url: "https://www.cloudwards.net/articles/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: ow2uxd0atk
+  name: "Platforms"
+  url: "http://londry.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

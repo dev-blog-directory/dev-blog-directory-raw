@@ -1,0 +1,44 @@
+-
+  _id: tlg3vipj0i
+  name: "Kristaps Grinbergs's Blog"
+  url: "https://kristaps.me/"
+  desc:
+  feed: "https://kristaps.me/feed.xml"
+  author: "By Kristaps Grinbergs"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: tl0sywmnai
+  name: "Hosting"
+  url: "https://www.hosting.com/cloud-computing-blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: tl9hpvd972
+  name: "Francois Doin"
+  url: "http://raspberry-python.blogspot.co.id/search/label/english"
+  desc:
+  feed:
+  author: "Francois Doin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: tlltq5wot8
+  name: "肉壳的胡思八道"
+  url: "http://colinzhang.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: bgm9bz1udu
+  name: "Programming Throwdown"
+  url: "https://www.programmingthrowdown.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: bg5phf1wo3
+  name: "奥卡姆剃刀"
+  url: "http://www.razorer.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

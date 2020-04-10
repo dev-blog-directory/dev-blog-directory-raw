@@ -1,0 +1,44 @@
+-
+  _id: nfxcf3p8p2
+  name: "Salesforce"
+  url: "https://developer.salesforce.com/blogs/engineering/"
+  desc: "Salesforce Engineering Blog."
+  feed:
+  author: "Salesforce"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: nfm6zvapk2
+  name: "RisingStack Blog"
+  url: "https://blog.risingstack.com/"
+  desc: "Blog on best practices of Node.js & Javascript."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: nfpbm0mwa0
+  name: "Kai Hendry"
+  url: "https://hendry.iki.fi/"
+  desc:
+  feed:
+  author: "Kai Hendry"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: nf8q6x9mcm
+  name: "在路上"
+  url: "http://hongjiang.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

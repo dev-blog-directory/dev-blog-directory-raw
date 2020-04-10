@@ -1,0 +1,11 @@
+-
+  _id: 0x90dux7ej
+  name: "师少兵博客"
+  url: "https://www.xiabingbao.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]

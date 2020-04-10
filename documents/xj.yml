@@ -1,0 +1,22 @@
+-
+  _id: xj8sk6rskt
+  name: "Uber"
+  url: "http://eng.uber.com/"
+  desc:
+  feed:
+  author: "Uber"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xjrsdfc9dk
+  name: "iOS Dev Recipes"
+  url: "https://iosdev.recipes/"
+  desc:
+  feed: "https://iosdev.recipes/rss.xml"
+  author: "By Dave Lyon"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

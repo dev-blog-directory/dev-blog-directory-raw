@@ -1,0 +1,11 @@
+-
+  _id: 9rkfev5jao
+  name: "MetaCPAN - Recent CPAN uploads of perl "
+  url: "https://metacpan.org/pod/release/RJBS/perl-5.25.0/pod/perl.pod"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]

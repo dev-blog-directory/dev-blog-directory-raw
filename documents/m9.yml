@@ -1,0 +1,11 @@
+-
+  _id: m91fg79l8v
+  name: "Michele Titolo's Blog"
+  url: "https://michele.io/"
+  desc:
+  feed: "https://michele.io/index.xml"
+  author: "By Michele Titolo"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

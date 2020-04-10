@@ -1,0 +1,33 @@
+-
+  _id: wmdugg9e36
+  name: "NSHipster en español"
+  url: "https://nshipster.es/"
+  desc:
+  feed: "https://nshipster.es/feed.xml"
+  author: "By NSHipster"
+  langs: ["es"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: wm28i9nkew
+  name: "静觅-崔庆才的个人博客"
+  url: "https://cuiqingcai.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wmv2h66kzj
+  name: "褚成志"
+  url: "http://blog.sina.com.cn/blog782081987"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

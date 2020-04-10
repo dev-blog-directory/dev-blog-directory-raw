@@ -1,0 +1,33 @@
+-
+  _id: v0avgibg5p
+  name: "Coder's point"
+  url: "https://www.coderspoint.in/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: v04rnytoqi
+  name: "Perl Maven"
+  url: "https://perlmaven.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]
+-
+  _id: v0y3qf81iz
+  name: "大数网"
+  url: "http://www.hindata.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

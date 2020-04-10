@@ -1,0 +1,99 @@
+-
+  _id: pkp8rfoyyu
+  name: "Allegro"
+  url: "https://allegro.tech/"
+  desc: "Allegro.tech Blog."
+  feed:
+  author: "Allegro"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: pkpp773cwv
+  name: "Machinalis"
+  url: "https://www.machinalis.com/blog/"
+  desc: "Machinalis Blog."
+  feed:
+  author: "Machinalis"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: pkjv30jmjx
+  name: "Ticketmaster"
+  url: "https://tech.ticketmaster.com/"
+  desc:
+  feed:
+  author: "Ticketmaster"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: pkttzy96as
+  name: "Marek Majkowski"
+  url: "https://idea.popcount.org/"
+  desc:
+  feed:
+  author: "Marek Majkowski"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: pkcnolv4x0
+  name: "Nick Desaulniers"
+  url: "https://nickdesaulniers.github.io/"
+  desc:
+  feed:
+  author: "Nick Desaulniers"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: pk19kr987x
+  name: "晚晴幽草轩"
+  url: "http://www.jeffjade.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: pkxujhbzc9
+  name: "Smash Swift"
+  url: "https://smashswift.com/"
+  desc:
+  feed: "https://smashswift.com/feed/"
+  author: "By Kornel Miszczak"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: pk55sq0fjw
+  name: "Big Mountain Studio's Swift Quickstart Guide"
+  url: "http://swiftquickstart.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: pkdfo7c5yj
+  name: "Parallel Labs"
+  url: "http://www.parallellabs.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

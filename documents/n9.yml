@@ -1,0 +1,55 @@
+-
+  _id: n9kr8hk7t0
+  name: "Yuguo Blog"
+  url: "http://yuguo.us/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: n91bhrpys7
+  name: "Coach Frank"
+  url: "http://www.ioscoachfrank.com/"
+  desc:
+  feed: "http://www.ioscoachfrank.com/feed/atom.xml"
+  author: "By Frank Courville"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: n9l09hvfrn
+  name: "Explo-Media | Seo & Web Design Company in Canada"
+  url: "https://www.explo-media.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: n91oz6nhcj
+  name: "阿权的书房"
+  url: "http://www.aslibra.com/blog/index.php"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: n91fijijhi
+  name: "老白经"
+  url: "http://aminby.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

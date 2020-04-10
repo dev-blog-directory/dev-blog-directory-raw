@@ -1,0 +1,33 @@
+-
+  _id: uq78qbipak
+  name: "Informed K12"
+  url: "https://tostring.informedk12.com/"
+  desc: "Informed K12 Engineering Blog."
+  feed:
+  author: "Informed K12"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: uqs9igbkih
+  name: "泥瓦匠BYSocket"
+  url: "http://www.bysocket.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: uq87lhc2jh
+  name: "无网不剩"
+  url: "http://blog.leezhong.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

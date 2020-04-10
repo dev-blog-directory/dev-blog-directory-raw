@@ -1,0 +1,22 @@
+-
+  _id: 3ga5ka1ak2
+  name: "Fabrizio Branca"
+  url: "http://fbrnc.net/"
+  desc:
+  feed:
+  author: "Fabrizio Branca"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3gm6h8b4by
+  name: "all about apps"
+  url: "https://code.allaboutapps.at/categories/ios/"
+  desc:
+  feed: "https://code.allaboutapps.at/categories/ios/index.xml"
+  author: "By all about apps Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

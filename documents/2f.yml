@@ -1,0 +1,88 @@
+-
+  _id: 2fkhbx2rqa
+  name: "Eli Bendersky"
+  url: "https://eli.thegreenplace.net/"
+  desc:
+  feed:
+  author: "Eli Bendersky"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 2f4u2vsq55
+  name: "Jaime González"
+  url: "https://www.barbarianmeetscoding.com/"
+  desc:
+  feed:
+  author: "Jaime González"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 2fpkwcazyx
+  name: "Erlang Solutions"
+  url: "https://www.erlang-solutions.com/blog.html"
+  desc:
+  feed:
+  author: "Erlang Solutions"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2fpcw6t0hg
+  name: "OCTO Technology"
+  url: "https://blog.octo.com/en/"
+  desc:
+  feed:
+  author: "OCTO Technology"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2fjt24xgy1
+  name: "Real Python"
+  url: "https://realpython.com/blog/"
+  desc:
+  feed:
+  author: "Real Python"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: 2f6uc3ha1s
+  name: "MacKuba"
+  url: "https://mackuba.eu/"
+  desc:
+  feed: "https://feeds.feedburner.com/psionides-eu"
+  author: "By Kuba Suder"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 2f8yo9iti3
+  name: "Onextrapixel - Web Design & Development Online Magazine"
+  url: "https://onextrapixel.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: 2finog660p
+  name: "ReactScript | Latest React & React Native Components With Live Demos"
+  url: "https://reactscript.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["react"]

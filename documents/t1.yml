@@ -1,0 +1,22 @@
+-
+  _id: t1owx2g5mu
+  name: "HoneyBadger"
+  url: "https://blog.honeybadger.io/"
+  desc: "HoneyBadger Blog."
+  feed:
+  author: "HoneyBadger"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: t1duuovshn
+  name: "Prezi"
+  url: "https://engineering.prezi.com/"
+  desc: "Prezi Engineering."
+  feed:
+  author: "Prezi"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: 8wr1t7dcp0
+  name: "The Hack Fator"
+  url: "https://hackerfactor.com/blog/"
+  desc: "A blog on security, privacy and (foto) forensics."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 8wrsf9bfyp
+  name: "Sebastian Raschka"
+  url: "https://sebastianraschka.com/blog/"
+  desc:
+  feed:
+  author: "Sebastian Raschka"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

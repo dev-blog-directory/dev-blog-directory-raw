@@ -1,0 +1,33 @@
+-
+  _id: qc5gyhch1v
+  name: "Shodipo Ayomide"
+  url: "https://www.shodipoayomide.com/"
+  desc:
+  feed:
+  author: "Shodipo Ayomide"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: qcmqmrt12n
+  name: "Sharethis"
+  url: "https://www.sharethis.com/category/engineering/"
+  desc:
+  feed:
+  author: "Sharethis"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: qct7b26d6j
+  name: "YLD!"
+  url: "https://blog.yld.io/"
+  desc:
+  feed:
+  author: "YLD!"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

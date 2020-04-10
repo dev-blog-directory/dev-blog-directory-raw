@@ -1,0 +1,55 @@
+-
+  _id: 6ybv8x42ig
+  name: "TheServerSide"
+  url: "http://www.theserverside.com/"
+  desc: "Enterprise Java Community."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 6ygsr98sik
+  name: "Buzzfeed"
+  url: "https://www.buzzfeed.com/techblog"
+  desc:
+  feed:
+  author: "Buzzfeed"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 6yb3gartta
+  name: "Durul Dalkanat on Medium"
+  url: "https://medium.com/@duruldalkanat"
+  desc:
+  feed: "https://medium.com/feed/@duruldalkanat"
+  author: "By Durul Dalkanat"
+  langs: ["tr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 6ytikmchw9
+  name: "天地孤影任我行"
+  url: "http://blog.rootk.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 6y2s2kht5o
+  name: "Kendra Little"
+  url: "https://littlekendra.com/"
+  desc:
+  feed:
+  author: "Kendra Little"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

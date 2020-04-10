@@ -1,0 +1,22 @@
+-
+  _id: 33r76g5v09
+  name: "Fluidinfo"
+  url: "http://blogs.fluidinfo.com/"
+  desc: "Fluidinfo Blog."
+  feed:
+  author: "Fluidinfo"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 334bvvun88
+  name: "JavaWorld"
+  url: "https://www.javaworld.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]

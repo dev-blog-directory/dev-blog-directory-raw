@@ -1,0 +1,33 @@
+-
+  _id: 88krwriu0a
+  name: "HubSpot"
+  url: "http://product.hubspot.com/blog/topic/engineering"
+  desc:
+  feed:
+  author: "HubSpot"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 88m25gds4i
+  name: "SoSoSwift - The Most Comprehensive Swift Language Resource"
+  url: "http://www.sososwift.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: 889k5g298r
+  name: "James Pan's Blog"
+  url: "http://blog.jamespan.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

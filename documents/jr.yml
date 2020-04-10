@@ -1,0 +1,22 @@
+-
+  _id: jro8ootwp4
+  name: "AudioKit Blog"
+  url: "https://audiokitpro.com/blog/"
+  desc:
+  feed: "https://audiokitpro.com/feed/"
+  author: "By AudioKit"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: jrpqftf1xc
+  name: "The Android Mania | Everything about android"
+  url: "https://www.theandroid-mania.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]

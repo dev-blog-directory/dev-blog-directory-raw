@@ -1,0 +1,55 @@
+-
+  _id: 37mt76ymop
+  name: "2ality JavaScript and more"
+  url: "https://2ality.com/"
+  desc:
+  feed:
+  author: "Axel Rauschmayer"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["javascript"]
+-
+  _id: 375c5yv624
+  name: "Dev House Blog | Developers's Blog"
+  url: "https://devhouse-blog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: 37v5dj87pp
+  name: "NthaCloud"
+  url: "https://www.nthacloud.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: 37jaszjta9
+  name: "Lin"
+  url: "http://linlexus.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 375j6yogfn
+  name: "chrisruppel.com"
+  url: "https://chrisruppel.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

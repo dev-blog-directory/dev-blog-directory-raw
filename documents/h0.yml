@@ -1,0 +1,22 @@
+-
+  _id: h0pye7ris5
+  name: "1CloudHub | Cloud Transformation"
+  url: "https://www.1cloudhub.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: h0i10ytmg6
+  name: "funbox's Blog"
+  url: "http://www.funboxpower.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

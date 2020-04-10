@@ -1,0 +1,44 @@
+-
+  _id: 5sv1cnuhac
+  name: "The Geek Getaway"
+  url: "https://thegeekgetaway.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: 5sa8fnbnd5
+  name: "咀嚼之味"
+  url: "http://jerryzou.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5savch7sdz
+  name: "LiteFeel"
+  url: "http://www.litefeel.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5sixq01rqy
+  name: "Jibin Thomas"
+  url: "https://blog.jibin.tech/"
+  desc:
+  feed:
+  author: "Jibin Thomas"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

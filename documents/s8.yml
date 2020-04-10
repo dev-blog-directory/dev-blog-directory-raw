@@ -1,0 +1,55 @@
+-
+  _id: s8vipoueuw
+  name: "Alan Storm"
+  url: "http://alanstorm.com/"
+  desc:
+  feed:
+  author: "Alan Storm"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: s8yvgwhqur
+  name: "CGMaster"
+  url: "http://www.cgmasters.net/category/free-tutorials/python/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: s81xalonss
+  name: "Geospatial Python"
+  url: "http://geospatialpython.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: s8vyu7xy6k
+  name: "Java 技术驿站"
+  url: "http://cmsblogs.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: s8zq1eb8zq
+  name: "adexchanger广告技术流"
+  url: "http://www.adexchanger.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

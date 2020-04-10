@@ -1,0 +1,88 @@
+-
+  _id: rlyxrmapgf
+  name: "Cloudera Engineering Blog"
+  url: "https://blog.cloudera.com/"
+  desc:
+  feed:
+  author: "Cloudera Engineering Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: rlrxpc6vw1
+  name: "ASOS"
+  url: "https://medium.com/asos-techblog"
+  desc: "ASOS Tech Blog."
+  feed:
+  author: "ASOS"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: rlvjjuboj3
+  name: "Ievgen Kuzminov"
+  url: "http://stdout.in/"
+  desc:
+  feed:
+  author: "Ievgen Kuzminov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: rltphy0p3i
+  name: "EncodeDna.com "
+  url: "https://www.encodedna.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: rl5ceb2ea1
+  name: "SinxLoud"
+  url: "https://sinxloud.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: rlktx8c0xa
+  name: "George Markou"
+  url: "https://www.markou.me/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: rlagx43606
+  name: "潇微网"
+  url: "http://www.shelwee.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: rlmr70g0c2
+  name: "klion26"
+  url: "http://www.klion26.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

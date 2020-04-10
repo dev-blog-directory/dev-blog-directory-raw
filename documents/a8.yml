@@ -1,0 +1,99 @@
+-
+  _id: a8af5lmomi
+  name: "Rachel Kroll"
+  url: "https://rachelbythebay.com/w/"
+  desc:
+  feed:
+  author: "Rachel Kroll"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["systems"]
+-
+  _id: a8m4x52ung
+  name: "Grofers"
+  url: "https://lambda.grofers.com/"
+  desc: "Lambda-The Grofers Engineering Blog."
+  feed:
+  author: "Grofers"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: a8n8jx438z
+  name: "Influxdata"
+  url: "https://influxdata.com/blog/"
+  desc: "Influxdata Blog."
+  feed:
+  author: "Influxdata"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: a8tkqnw21k
+  name: "CockroachDB"
+  url: "https://www.cockroachlabs.com/blog/"
+  desc:
+  feed:
+  author: "CockroachDB"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: a8775ism5w
+  name: "Bartosz Ciechanowski's Blog"
+  url: "http://ciechanowski.me/"
+  desc:
+  feed: "http://ciechanowski.me/atom.xml"
+  author: "By Bartosz Ciechanowski"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: a8jlat5q16
+  name: "Hüseyin Bagana on Medium"
+  url: "https://medium.com/@huseyinbagana"
+  desc:
+  feed: "https://medium.com/feed/@huseyinbagana"
+  author: "By Hüseyin Bagana"
+  langs: ["tr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: a8ava1gr9f
+  name: "CSS WG Blog"
+  url: "https://www.w3.org/blog/css/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["css"]
+-
+  _id: a86n4thwb4
+  name: "编程随想"
+  url: "https://program-think.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: a8x7rsdrl4
+  name: "hiheng"
+  url: "http://www.hiheng.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]

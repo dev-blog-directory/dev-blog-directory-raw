@@ -1,0 +1,77 @@
+-
+  _id: 3q7z2dl2cl
+  name: "PubNub:"
+  url: "https://www.pubnub.com/blog/"
+  desc:
+  feed:
+  author: "PubNub:"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 3qh4v5uier
+  name: "Brujo Benavides"
+  url: "https://medium.com/@elbrujohalcon"
+  desc:
+  feed:
+  author: "Brujo Benavides"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3qvwr2b3ij
+  name: "Nic Raboy"
+  url: "https://blog.nraboy.com/"
+  desc:
+  feed:
+  author: "Nic Raboy"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3q65rlso2i
+  name: "Kristof Kocsis's Blog"
+  url: "http://kristofk.com/category/ios-development/"
+  desc:
+  feed: "http://kristofk.com/category/ios-development/feed"
+  author: "By Kristof Kocsis"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 3qonwzy8mz
+  name: "Sunnyxx"
+  url: "http://blog.sunnyxx.com/"
+  desc:
+  feed: "http://blog.sunnyxx.com/atom.xml"
+  author: "By 我就叫Sunny怎么了"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 3q586wf1zf
+  name: "蘭陵N散記"
+  url: "http://lanlingzi.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3q0a72vk0u
+  name: "Liangshan"
+  url: "http://liangshan.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: p3ocek0k8v
+  name: "HackerEarth"
+  url: "http://engineering.hackerearth.com/"
+  desc:
+  feed:
+  author: "HackerEarth"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: p3bbolblr1
+  name: "HERE"
+  url: "https://developer.here.com/blog"
+  desc:
+  feed:
+  author: "HERE"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: p37c1ixjbr
+  name: "@mdo"
+  url: "http://markdotto.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,44 @@
+-
+  _id: 7xrmy49m8u
+  name: "Ali Spittel"
+  url: "https://dev.to/aspittel"
+  desc:
+  feed:
+  author: "Ali Spittel"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 7x9y9jkdzo
+  name: "Ivan Ursul"
+  url: "https://ivanursul.com/"
+  desc:
+  feed:
+  author: "Ivan Ursul"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 7xnf6oojzq
+  name: "Concord Software & Executive Consulting"
+  url: "http://www.concordsoftwareandexecutiveconsulting.com/wordpress/wordpress/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["react"]
+-
+  _id: 7xaieeyrqq
+  name: "吕神的自我修养"
+  url: "http://www.lrxin.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]

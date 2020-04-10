@@ -1,0 +1,44 @@
+-
+  _id: br2ux2ey4d
+  name: "iOS Dev Tools"
+  url: "https://iosdev.tools/"
+  desc:
+  feed: "https://iosdev.tools/rss.php"
+  author: "By Adam Swinden"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: br9j7fhuoj
+  name: "Ross Butler on Medium"
+  url: "https://medium.com/@rwbutler"
+  desc:
+  feed: "https://medium.com/feed/@rwbutler"
+  author: "By Ross Butler"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: brlnmhf90a
+  name: "Flawless App Stories"
+  url: "https://medium.com/flawless-app-stories"
+  desc:
+  feed: "https://medium.com/feed/flawless-app-stories"
+  author: "By Lisa Dziuba and friends"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: brvnvhy9d3
+  name: "Perl Jobs - Ask Bjørn Hansen "
+  url: "https://jobs.perl.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]

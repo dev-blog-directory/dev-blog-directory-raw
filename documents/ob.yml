@@ -1,0 +1,22 @@
+-
+  _id: obc88d4jd0
+  name: "Stratechery"
+  url: "https://stratechery.com/"
+  desc: "A blog by [Ben Thompson](https://twitter.com/benthompson)."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: obwxv2p759
+  name: "Miguel Quinones' Blog"
+  url: "https://miqu.me/"
+  desc:
+  feed: "https://miqu.me/atom.xml"
+  author: "By Miguel Quinones"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

@@ -1,0 +1,33 @@
+-
+  _id: o7vmes7aj6
+  name: "Benchling"
+  url: "https://benchling.engineering/"
+  desc:
+  feed:
+  author: "Benchling"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: o7iyaxub2a
+  name: "Linux Magazine Perl Columns by Mike Schilli"
+  url: "https://perlmeister.com/art_eng.html"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]
+-
+  _id: o7widkigux
+  name: "blogs.msdn.microsoft.com/abhinaba"
+  url: "https://blogs.msdn.microsoft.com/abhinaba/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: [".net","c#"]

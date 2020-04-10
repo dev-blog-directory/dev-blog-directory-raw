@@ -1,0 +1,88 @@
+-
+  _id: wrr32cfen4
+  name: "Reginald Braithwaite"
+  url: "https://raganwald.com/"
+  desc:
+  feed:
+  author: "Reginald Braithwaite"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: wrwb8fmsky
+  name: "Medium"
+  url: "https://medium.engineering/"
+  desc: "Medium Engineering Blog."
+  feed:
+  author: "Medium"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: wr89gxol4m
+  name: "FullJoin.io"
+  url: "https://fulljoin.io/"
+  desc: "Search engine for company engineering blogs."
+  feed:
+  author: "FullJoin.io"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: wrt9bh1z4b
+  name: "Ben Awad | Youtube"
+  url: "https://www.youtube.com/user/99baddawg/videos"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["graphql"]
+-
+  _id: wr9jgs0qfy
+  name: "月与灯依旧"
+  url: "http://www.zhukun.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wr70fv6tjj
+  name: "闲散人生 | idlelife"
+  url: "http://idlelife.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wrv9uontmv
+  name: "quding0308的博客"
+  url: "http://quding0308.iteye.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wrshiz7a1i
+  name: "theerlangelist.com"
+  url: "http://theerlangelist.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["erlang"]

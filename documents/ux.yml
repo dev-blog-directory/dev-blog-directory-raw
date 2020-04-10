@@ -1,0 +1,66 @@
+-
+  _id: uxb8tx8foo
+  name: "HubbleHQ"
+  url: "https://hubblehq.com/blog"
+  desc: "HubbleHQ Blog."
+  feed:
+  author: "HubbleHQ"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: uxut01rdo4
+  name: "OpenAI"
+  url: "https://openai.com/blog/"
+  desc: "A tech blog by OpenAI."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ux8imh4x4d
+  name: "Dave Verwer’s Blog"
+  url: "https://daveverwer.com/"
+  desc:
+  feed: "https://daveverwer.com/feed.xml"
+  author: "By Dave Verwer"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: uxdzqr8b1p
+  name: "QuickBird Studios Blog"
+  url: "https://quickbirdstudios.com/blog/"
+  desc:
+  feed: "https://quickbirdstudios.com/blog/feed/"
+  author: "By QuickBird Studios Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: uxqizeo917
+  name: "老实人"
+  url: "http://laoshiren.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: uxi1z3hbfn
+  name: "张砷镓"
+  url: "http://zhangshenjia.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

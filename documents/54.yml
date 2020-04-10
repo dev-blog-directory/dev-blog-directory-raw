@@ -1,0 +1,55 @@
+-
+  _id: 54xl96sifi
+  name: "Jacopo Tarantino"
+  url: "https://jack.ofspades.com/"
+  desc:
+  feed:
+  author: "Jacopo Tarantino"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 54haw6b0uf
+  name: "SICPERS"
+  url: "http://www.sicpers.info/"
+  desc:
+  feed: "http://www.sicpers.info/feed/"
+  author: "By Graham Lee"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 54to168cw9
+  name: "Zonneveld Dev Blog"
+  url: "https://zonneveld.dev/"
+  desc:
+  feed: "https://zonneveld.dev/feed/"
+  author: "By Jeroen Zonneveld"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: 54kasbjd4q
+  name: "I'm SErHo"
+  url: "http://serholiu.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 54c002r6a0
+  name: "fabiensanglard.net"
+  url: "http://fabiensanglard.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

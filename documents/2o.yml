@@ -1,0 +1,22 @@
+-
+  _id: 2o9xnjk2du
+  name: "Rob Fahrni"
+  url: "https://iam.fahrni.me/category/ios/"
+  desc:
+  feed: "https://iam.fahrni.me/category/ios/feed"
+  author: "By Rob Fahrni"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 2okifyptz8
+  name: "Doors Geek"
+  url: "https://doorsgeek.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

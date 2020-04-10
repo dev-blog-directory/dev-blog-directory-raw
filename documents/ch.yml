@@ -1,0 +1,55 @@
+-
+  _id: chygmn97qn
+  name: "Cloudflare"
+  url: "https://blog.cloudflare.com/"
+  desc: "Cloudflare blog."
+  feed:
+  author: "Cloudflare"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: chy50luc60
+  name: "Fynd"
+  url: "http://gofynd.io/blog"
+  desc:
+  feed:
+  author: "Fynd"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: chl5jz58no
+  name: "Programming Challenges | MathBlog"
+  url: "http://www.mathblog.dk/programming-challenges/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: chqcf0bygb
+  name: "Nikita Rodionov on Medium"
+  url: "https://medium.com/@proudofziggy"
+  desc:
+  feed: "https://medium.com/feed/@proudofziggy"
+  author: "By Nikita Rodionov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ch20z26y26
+  name: "Ben Nadel's Blog"
+  url: "https://www.bennadel.com/index.cfm"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]

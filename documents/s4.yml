@@ -1,0 +1,33 @@
+-
+  _id: s43qgsirfz
+  name: "Javier Soto's Blog"
+  url: "http://javisoto.tumblr.com/"
+  desc:
+  feed: "http://javisoto.tumblr.com/rss"
+  author: "By Javier Soto"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: s4nqzmkvpq
+  name: "The Commons Blog"
+  url: "https://commonsware.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: s4vtw9myxz
+  name: "Gocoding | Learn Golang"
+  url: "https://www.youtube.com/user/gocoding/videos"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["golang"]

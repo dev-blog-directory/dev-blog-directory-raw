@@ -1,0 +1,11 @@
+-
+  _id: aqdsr38edi
+  name: "Realm News"
+  url: "https://realm.io/blog/"
+  desc:
+  feed: "https://realm.io/feed.xml"
+  author: "By Realm Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

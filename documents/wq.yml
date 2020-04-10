@@ -1,0 +1,11 @@
+-
+  _id: wqqlh4hmn4
+  name: "Topolog's tech blog"
+  url: "https://dmtopolog.com/"
+  desc:
+  feed: "https://dmtopolog.com/feed/"
+  author: "By Dmitrii Ivanov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

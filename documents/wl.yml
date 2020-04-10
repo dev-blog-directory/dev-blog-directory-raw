@@ -1,0 +1,44 @@
+-
+  _id: wlmchtfzpu
+  name: "NodeXperts Blog"
+  url: "https://nodexperts.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: wlgwrpnk14
+  name: "oldj's blog"
+  url: "http://oldj.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wle8fihysb
+  name: "Fung's DBA World"
+  url: "http://www.oraclema.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wlf1505owc
+  name: "Tim Nash"
+  url: "https://timnash.co.uk/"
+  desc:
+  feed: "https://timnash.co.uk/feed/"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

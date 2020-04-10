@@ -1,0 +1,55 @@
+-
+  _id: fahlh2mn65
+  name: "Rightscale"
+  url: "http://eng.rightscale.com/"
+  desc: "Rightscale Engineering Blog."
+  feed:
+  author: "Rightscale"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: fabef18g1a
+  name: "Wemake.services"
+  url: "https://medium.com/wemake-services"
+  desc:
+  feed:
+  author: "Wemake.services"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: faxte9qdzu
+  name: "Karol S. Mazur's Blog"
+  url: "https://blog.mazur.me/"
+  desc:
+  feed: "https://blog.mazur.me/feed.xml"
+  author: "By Karol S. Mazur"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: fa96y5azak
+  name: "李小武"
+  url: "http://blog.lichengwu.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fa9zz118is
+  name: "千夜"
+  url: "http://70data.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

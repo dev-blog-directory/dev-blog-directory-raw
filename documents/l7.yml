@@ -1,0 +1,33 @@
+-
+  _id: l7m31ev4ww
+  name: "Hashnode"
+  url: "https://hashnode.com/"
+  desc: "Where programmers share ideas and help each other grow."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: l7mzi0nc49
+  name: "Figure Ink"
+  url: "http://www.figure.ink/"
+  desc:
+  feed: "http://www.figure.ink/blog?format=RSS"
+  author: "By Joshua Emmons"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: l7gg9e03hb
+  name: "mobidevtalk, Learning through case study"
+  url: "https://mobidevtalk.com/"
+  desc:
+  feed: "https://mobidevtalk.com/feed/"
+  author: "By Shad Rayhan Mazumder"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

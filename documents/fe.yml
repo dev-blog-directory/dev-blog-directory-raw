@@ -1,0 +1,33 @@
+-
+  _id: fe6mf0o7bh
+  name: "Mark Luetke"
+  url: "https://luetkemj.github.io/"
+  desc:
+  feed:
+  author: "Mark Luetke"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: fed4hkevs6
+  name: "Teclogiq"
+  url: "http://www.teclogiq.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]
+-
+  _id: feu7cm57ij
+  name: "膘叔"
+  url: "http://neatstudio.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

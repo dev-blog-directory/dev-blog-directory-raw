@@ -1,0 +1,22 @@
+-
+  _id: vretw34cs6
+  name: "Roger Molas's Blog"
+  url: "http://blog.rogermolas.com/"
+  desc:
+  feed: "http://blog.rogermolas.com/index.xml"
+  author: "By Roger Molas"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: vry80oj7mg
+  name: "找屎啊！"
+  url: "http://googlegis.github.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

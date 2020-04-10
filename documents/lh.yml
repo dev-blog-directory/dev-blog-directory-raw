@@ -1,0 +1,22 @@
+-
+  _id: lhd560i0st
+  name: "WebAppers"
+  url: "https://www.webappers.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: lhghg3nh8k
+  name: "cdevroe.com"
+  url: "https://cdevroe.com/"
+  desc:
+  feed: "https://cdevroe.com/feed"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

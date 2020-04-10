@@ -1,0 +1,22 @@
+-
+  _id: h6siynv2jx
+  name: "Brandon Rhodes"
+  url: "http://rhodesmill.org/brandon/"
+  desc:
+  feed:
+  author: "Brandon Rhodes"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: h6pidpz5uz
+  name: "chrisfenton.com"
+  url: "http://www.chrisfenton.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["hardware"]

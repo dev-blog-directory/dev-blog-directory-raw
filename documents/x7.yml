@@ -1,0 +1,33 @@
+-
+  _id: x7raw6vt0j
+  name: "嘟嘟独立博客"
+  url: "http://tengj.top/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["java"]
+-
+  _id: x7tshre72t
+  name: "Rocko’s blog"
+  url: "https://rocko.xyz/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: x7p6yeo36o
+  name: "bjango.com"
+  url: "https://bjango.com/articles/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

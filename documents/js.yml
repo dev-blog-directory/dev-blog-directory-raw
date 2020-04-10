@@ -1,0 +1,55 @@
+-
+  _id: jsn75fr3td
+  name: "Alexander Zeitler"
+  url: "https://alexanderzeitler.com/"
+  desc: "Alexander Zeitler's Blog. A passionated developer love to create outstanding solutions for the web and mobile platforms since 1994."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: js3yw1gekd
+  name: "Instagram"
+  url: "https://engineering.instagram.com/"
+  desc:
+  feed:
+  author: "Instagram"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: jsjm0sblb1
+  name: "魔帆博客"
+  url: "http://morfans.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: jslbt9ku8o
+  name: "SwiftGG"
+  url: "http://swiftggteam.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: js4caw19zk
+  name: "Tech Notes"
+  url: "http://tech.tjs.im/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

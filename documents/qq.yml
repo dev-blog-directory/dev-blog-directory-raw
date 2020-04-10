@@ -1,0 +1,33 @@
+-
+  _id: qqmi7m7eae
+  name: "Una Kravets"
+  url: "https://una.im/"
+  desc:
+  feed:
+  author: "Una Kravets"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: qq5qatdoov
+  name: "Morten Bek Ditlevsen on Medium"
+  url: "https://medium.com/@bek_29339/"
+  desc:
+  feed: "https://medium.com/feed/@bek_29339"
+  author: "By Morten Bek Ditlevsen"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: qqcnt8n548
+  name: "书写|记下人生痕迹"
+  url: "http://towriting.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

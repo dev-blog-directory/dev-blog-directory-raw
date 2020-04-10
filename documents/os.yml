@@ -1,0 +1,55 @@
+-
+  _id: ossopvoop5
+  name: "Accidentally in Code"
+  url: "https://cate.blog/tag/ios/"
+  desc:
+  feed: "https://cate.blog/feed/"
+  author: "By Cate Huston"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: oswlxqlh3p
+  name: "Max Howell on Medium"
+  url: "https://medium.com/@mxcl"
+  desc:
+  feed: "https://medium.com/feed/@mxcl"
+  author: "By Max Howell"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: osnqrl33lw
+  name: "w3technology"
+  url: "https://www.w3technology.info/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: os3k8yg9tm
+  name: "STX Next | Python, Software Development, UX and Product Design"
+  url: "https://stxnext.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: os1v0teaen
+  name: "Kotlin | Reddit"
+  url: "https://old.reddit.com/r/Kotlin/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["kotlin"]

@@ -1,0 +1,22 @@
+-
+  _id: hl9xh412ut
+  name: "Finxter | Learn Python in Your Coffee Break"
+  url: "https://blog.finxter.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: hlsg2ufeil
+  name: "This Week in Geek"
+  url: "http://thisweekingeek.net/category/blogs"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

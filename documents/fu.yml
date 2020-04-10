@@ -1,0 +1,33 @@
+-
+  _id: fum9vq3qq5
+  name: "平凡之路"
+  url: "http://blog.sinovale.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fun5cvmwq4
+  name: "尼古拉斯.赵四"
+  url: "http://www.wjdiankong.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fuzitox6n9
+  name: "Google黑板报"
+  url: "http://blog.sina.com.cn/u/2617744132"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

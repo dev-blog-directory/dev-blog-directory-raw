@@ -1,0 +1,22 @@
+-
+  _id: u3ebxesj92
+  name: "Speckyboy Design Magazine - Web Design News, Resources & Inspiration"
+  url: "https://speckyboy.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: u37f9ve9c9
+  name: "alexmorozov.github.io"
+  url: "https://alexmorozov.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

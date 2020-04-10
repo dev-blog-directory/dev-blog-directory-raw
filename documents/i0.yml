@@ -1,0 +1,33 @@
+-
+  _id: i0dbabyqv1
+  name: "阮一峰的网络日志"
+  url: "http://www.ruanyifeng.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: i0r63q1wal
+  name: "William Boles's Blog"
+  url: "https://williamboles.me/"
+  desc:
+  feed: "https://williamboles.me/rss/"
+  author: "By William Boles"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: i0lfbqqev9
+  name: "KnpCode"
+  url: "https://knpcode.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]

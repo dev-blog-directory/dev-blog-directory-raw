@@ -1,0 +1,66 @@
+-
+  _id: k5fio4dglf
+  name: "Elegant Chaos"
+  url: "http://elegantchaos.com/news/"
+  desc:
+  feed: "http://elegantchaos.com/rss.xml"
+  author: "By Sam Deane"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: k5dc3g32c5
+  name: "Hey There Buddo!"
+  url: "http://www.philipzucker.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: k567c0i3mj
+  name: "Java For Testers"
+  url: "http://blog.javafortesters.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: k5i0ucbicy
+  name: "Armin Ronacher"
+  url: "http://lucumr.pocoo.org/tags/python/"
+  desc:
+  feed:
+  author: "Armin Ronacher"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: k5mf5fdv5q
+  name: "运维派"
+  url: "http://www.yunweipai.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: k5e3nc0cdw
+  name: "F2E Skills"
+  url: "http://f2eskills.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

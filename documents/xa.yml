@@ -1,0 +1,44 @@
+-
+  _id: xaw9ueb4cv
+  name: "KrakenDev"
+  url: "https://krakendev.io/"
+  desc:
+  feed: "https://krakendev.io/?format=rss"
+  author: "By Hector Matos"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: xa40mxn8xc
+  name: "Parveen Kaler's Blog"
+  url: "https://parveenkaler.com/blog"
+  desc:
+  feed: "https://parveenkaler.com/feed"
+  author: "By Parveen Kaler"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: xa2m3he9lg
+  name: "VMware vCloud Blog"
+  url: "http://blogs.vmware.com/vcloud/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: xaqk6lbavy
+  name: "Youly"
+  url: "http://youly.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

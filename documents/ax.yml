@@ -1,0 +1,33 @@
+-
+  _id: ax4o6i8k2e
+  name: "Christian Fei"
+  url: "https://christianfei.com/"
+  desc:
+  feed:
+  author: "Christian Fei"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: axpsgqid9c
+  name: "Dropbox Tech Blog"
+  url: "https://blogs.dropbox.com/tech/"
+  desc:
+  feed:
+  author: "Dropbox Tech Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: axlh1qgpft
+  name: "AppDividend | React.js"
+  url: "https://appdividend.com/category/react-js/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["react"]

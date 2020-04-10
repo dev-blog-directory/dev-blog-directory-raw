@@ -1,0 +1,44 @@
+-
+  _id: lf2vmc1crx
+  name: "Nvidia"
+  url: "https://blogs.nvidia.com/"
+  desc:
+  feed:
+  author: "Nvidia"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: lfmy6lfkef
+  name: "郭霖的专栏"
+  url: "https://blog.csdn.net/guolin_blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: lf75ujqbj2
+  name: "Sarun Wongpatcharapakorn's Blog"
+  url: "https://sarunw.com/"
+  desc:
+  feed: "https://sarunw.com/feed.xml"
+  author: "By Sarun Wongpatcharapakorn"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: lf5h8d91vy
+  name: "大席的博客"
+  url: "http://www.daxiblog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

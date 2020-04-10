@@ -1,0 +1,88 @@
+-
+  _id: dalieda4d3
+  name: "Condé Nast"
+  url: "https://technology.condenast.com/"
+  desc:
+  feed:
+  author: "Condé Nast"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: daq49gg1np
+  name: "PicCollage"
+  url: "https://tech.pic-collage.com/"
+  desc:
+  feed:
+  author: "PicCollage"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: dabkqd8fti
+  name: "Juri Strumpflohner"
+  url: "https://juristr.com/blog/"
+  desc:
+  feed:
+  author: "Juri Strumpflohner"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: dartp79spa
+  name: "Javarevisited"
+  url: "http://javarevisited.blogspot.in/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: damwj182om
+  name: "@JoanZap"
+  url: "https://blog.joanzapata.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: da2toq7a9d
+  name: "The Finance Geek"
+  url: "https://denzelrodriguez.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: daneeooymw
+  name: "jin-yang"
+  url: "https://jin-yang.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: da26ikv0vf
+  name: "Relex"
+  url: "http://relex.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

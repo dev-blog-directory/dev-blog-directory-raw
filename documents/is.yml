@@ -1,0 +1,44 @@
+-
+  _id: is4r28trnp
+  name: "TechBriefers"
+  url: "https://techbriefers.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: isns13fdbg
+  name: "Official jQuery Blog"
+  url: "https://blog.jquery.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: isk0vod62u
+  name: "BlogsGeek"
+  url: "https://www.blogsgeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: isy2x3qhde
+  name: "小木同(Ben)"
+  url: "http://www.qinbin.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

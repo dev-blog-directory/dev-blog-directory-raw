@@ -1,0 +1,33 @@
+-
+  _id: 4u4ezg3t3o
+  name: "代码家"
+  url: "http://blog.daimajia.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 4uuhjqe71w
+  name: "Chris Eidhof's Blog"
+  url: "http://chris.eidhof.nl/"
+  desc:
+  feed: "http://chris.eidhof.nl/index.xml"
+  author: "By Chris Eidhof"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 4ugjqq50wt
+  name: "Captain Cool的BLOG"
+  url: "https://www.cnblogs.com/caowei/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: gz97hxg142
+  name: "OLX"
+  url: "https://tech.olx.com/"
+  desc:
+  feed:
+  author: "OLX"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: gzqx8uesr8
+  name: "Coding Horror"
+  url: "http://www.codinghorror.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: gz7f0vzg2j
+  name: "极冰网"
+  url: "http://ice.gs/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

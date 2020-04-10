@@ -1,0 +1,33 @@
+-
+  _id: 44aokmbejx
+  name: "Captricity"
+  url: "https://captricity.com/blog/"
+  desc: "Captricity Blog."
+  feed:
+  author: "Captricity"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 4413yq965f
+  name: "2BAB's Engineering Blog"
+  url: "http://2bab.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 44wb0ulox4
+  name: "飞行日志"
+  url: "http://blog.fir.im/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:

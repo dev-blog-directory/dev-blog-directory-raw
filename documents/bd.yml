@@ -1,0 +1,22 @@
+-
+  _id: bdwlymeq1a
+  name: "Zenefits"
+  url: "https://engineering.zenefits.com/posts/"
+  desc: "Zenefits Engineering Blog."
+  feed:
+  author: "Zenefits"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: bdkzxhbpoz
+  name: "Instabug Blog"
+  url: "https://blog.instabug.com/"
+  desc:
+  feed: "https://blog.instabug.com/feed/"
+  author: "By Instabug Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

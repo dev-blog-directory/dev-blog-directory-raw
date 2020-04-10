@@ -1,0 +1,22 @@
+-
+  _id: r6xqzl6vcy
+  name: "Deezer"
+  url: "https://deezer.io/"
+  desc:
+  feed:
+  author: "Deezer"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: r62d52b8t8
+  name: "Cocoacasts"
+  url: "https://cocoacasts.com/blog"
+  desc:
+  feed: "https://cocoacasts.com/feed"
+  author: "By Bart Jacobs"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

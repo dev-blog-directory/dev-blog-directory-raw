@@ -1,0 +1,11 @@
+-
+  _id: k2er2gdvmw
+  name: "99Designs"
+  url: "https://99designs.com/tech-blog/"
+  desc: "99Designs Tech Blog."
+  feed:
+  author: "99Designs"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

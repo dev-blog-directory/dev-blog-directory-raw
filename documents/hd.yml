@@ -1,0 +1,22 @@
+-
+  _id: hdvk753gnr
+  name: "Wattpad"
+  url: "http://engineering.wattpad.com/"
+  desc:
+  feed:
+  author: "Wattpad"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: hdbelgrvfj
+  name: "Spaceman Labs Blog"
+  url: "https://blog.spacemanlabs.com/"
+  desc:
+  feed: "https://blog.spacemanlabs.com/feed/"
+  author: "By Joel Kraut and Jerry Jones"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

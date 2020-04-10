@@ -1,0 +1,44 @@
+-
+  _id: y6se6nfqqb
+  name: "Jake Jarvis"
+  url: "https://jarv.is/notes/"
+  desc:
+  feed:
+  author: "Jake Jarvis"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: y6o87h1x7j
+  name: "Fooleap’s Blog"
+  url: "https://blog.fooleap.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: y69dvxo6e8
+  name: "戎码一生"
+  url: "http://rongmayisheng.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: y6r69zy0n8
+  name: "ar.al"
+  url: "https://ar.al/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

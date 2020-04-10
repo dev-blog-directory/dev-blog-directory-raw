@@ -1,0 +1,55 @@
+-
+  _id: c1ipo07tvc
+  name: "Andrey Akinshin"
+  url: "http://aakinshin.net/blog/"
+  desc:
+  feed:
+  author: "Andrey Akinshin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: c1dvpy8071
+  name: "Tim Ekl's Blog"
+  url: "https://www.timekl.com/"
+  desc:
+  feed: "https://www.timekl.com/atom.xml"
+  author: "By Tim Ekl"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: c12j88btok
+  name: "Channel [K]"
+  url: "http://www.dbform.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: c1582us6ft
+  name: "Lumi Wu"
+  url: "http://luminsense.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: c1qixyrp1m
+  name: "尘埃"
+  url: "http://wangying.sinaapp.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

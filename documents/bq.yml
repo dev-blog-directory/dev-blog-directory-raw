@@ -1,0 +1,33 @@
+-
+  _id: bqwix378zw
+  name: "Lyft Engineering"
+  url: "https://eng.lyft.com/"
+  desc:
+  feed:
+  author: "Lyft Engineering"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: bq8iocjswk
+  name: "JobTeaser"
+  url: "https://medium.com/jobteaser-dev-team/"
+  desc:
+  feed:
+  author: "JobTeaser"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: bq1ff56t9o
+  name: "Google News - JavaScript"
+  url: "https://news.google.com/news/section?q=javascript&tbm=nws*"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]

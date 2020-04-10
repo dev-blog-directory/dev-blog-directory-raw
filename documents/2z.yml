@@ -1,0 +1,22 @@
+-
+  _id: 2zb08dpw5u
+  name: "Raizlabs"
+  url: "https://www.raizlabs.com/dev/"
+  desc:
+  feed:
+  author: "Raizlabs"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2zlxg8qw4x
+  name: "可乐橙"
+  url: "http://colachan.com/feed"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

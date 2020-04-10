@@ -1,0 +1,33 @@
+-
+  _id: 5e9rjnnl02
+  name: "Simon Willison"
+  url: "https://simonwillison.net/"
+  desc:
+  feed:
+  author: "Simon Willison"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 5e3zqcsyxj
+  name: "Charlie Chapman's Blog"
+  url: "https://charliemchapman.com/"
+  desc:
+  feed: "https://charliemchapman.com/rss.xml"
+  author: "By Charlie Chapman"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 5e6sqa86bl
+  name: "jmouse"
+  url: "http://www.jmouse.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]

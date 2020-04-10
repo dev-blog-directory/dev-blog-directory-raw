@@ -1,0 +1,33 @@
+-
+  _id: 6fu42rg27d
+  name: "Max Desiatov's Blog"
+  url: "https://desiatov.com/"
+  desc:
+  feed: "https://desiatov.com/rss.xml"
+  author: "By Max Desiatov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 6f2wxa5eya
+  name: "Karumi Blog"
+  url: "https://blog.karumi.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["kotlin"]
+-
+  _id: 6fsp2ugrhk
+  name: "轩枫阁-前端开发"
+  url: "http://www.xuanfengge.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]

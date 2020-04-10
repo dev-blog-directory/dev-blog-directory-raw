@@ -1,0 +1,33 @@
+-
+  _id: ngr0o5y2gi
+  name: "Marco.org"
+  url: "https://marco.org/"
+  desc:
+  feed: "https://marco.org/rss"
+  author: "By Marco Arment"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ngkkuhgwmc
+  name: "C++博客-战魂小筑"
+  url: "http://www.cppblog.com/sunicdavy/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ng4gi9jf16
+  name: "C:\\XDemo\\一个分享demo的网站"
+  url: "http://www.xdemo.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

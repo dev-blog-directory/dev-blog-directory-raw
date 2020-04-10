@@ -1,0 +1,55 @@
+-
+  _id: crtvyme2oh
+  name: "J.C. Hiatt"
+  url: "https://jchiatt.com/"
+  desc:
+  feed:
+  author: "J.C. Hiatt"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: crvhosfdy2
+  name: "百度 FEX"
+  url: "http://fex.baidu.com/"
+  desc:
+  feed:
+  author: "百度 FEX"
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: crfjamvabd
+  name: "Chris Arriola"
+  url: "http://chrisarriola.me/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: crzfu5lluf
+  name: "Python自动化运维"
+  url: "http://opython.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: crh46f0fog
+  name: "七月的夏天"
+  url: "http://julyclyde.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

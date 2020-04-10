@@ -1,0 +1,22 @@
+-
+  _id: yutvzfjjkf
+  name: "Snyk"
+  url: "https://snyk.io/blog"
+  desc:
+  feed:
+  author: "Snyk"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: yu9y7817bt
+  name: "alexcarpenter.me"
+  url: "https://alexcarpenter.me/"
+  desc:
+  feed: "https://alexcarpenter.me/feed.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

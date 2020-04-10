@@ -1,0 +1,33 @@
+-
+  _id: i49abzoeb4
+  name: "Eleni Papanikolopoul on Medium"
+  url: "https://medium.com/@elenipapanikolo"
+  desc:
+  feed: "https://medium.com/feed/@elenipapanikolo"
+  author: "By Eleni Papanikolopoul"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: i4a2rrt8af
+  name: "麻凯倩's blog❤前端"
+  url: "http://makaiqian.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: i4rlefr278
+  name: "Justin Jackson"
+  url: "https://justinjackson.ca/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

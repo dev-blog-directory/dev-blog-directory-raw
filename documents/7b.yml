@@ -1,0 +1,77 @@
+-
+  _id: 7bfqxkb3qa
+  name: "Nate Amack"
+  url: "https://nateamack.com/"
+  desc:
+  feed:
+  author: "Nate Amack"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 7bczsuom13
+  name: "Coding Horror"
+  url: "https://blog.codinghorror.com/"
+  desc: "A blog by [Jeff Atwood](https://twitter.com/codinghorror)."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["web-development"]
+-
+  _id: 7b87oyi2ff
+  name: "Bohops"
+  url: "https://bohops.com/"
+  desc:
+  feed:
+  author: "Bohops"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 7b6esyr5tb
+  name: "Innost的专栏 - CSDN博客"
+  url: "https://blog.csdn.net/innost"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 7bnxa7xtg1
+  name: "XX到此一游"
+  url: "http://clz.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 7bje9s6kxv
+  name: "ENVI/IDL技术殿堂"
+  url: "http://blog.sina.com.cn/enviidl"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 7b3x48s9nf
+  name: "Qimu's Code and Life | 郑淇木的代码及日常"
+  url: "http://zhengqm.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

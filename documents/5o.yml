@@ -1,0 +1,11 @@
+-
+  _id: 5oa8mmphhl
+  name: "Kotlin Official Blog"
+  url: "https://blog.jetbrains.com/kotlin/"
+  desc:
+  feed:
+  author: "Kotlin"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["kotlin"]

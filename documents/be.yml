@@ -1,0 +1,88 @@
+-
+  _id: be883w5e3t
+  name: "Houssein Djirdeh"
+  url: "https://houssein.me/"
+  desc:
+  feed:
+  author: "Houssein Djirdeh"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: benoyf8doh
+  name: "Kyle Shevlin"
+  url: "https://kyleshevlin.com/"
+  desc:
+  feed:
+  author: "Kyle Shevlin"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: bem8ojg1s8
+  name: "TellApart"
+  url: "https://www.tellapart.com/engineering-blog/"
+  desc: "TellApart Blog."
+  feed:
+  author: "TellApart"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: bexrdv7bj7
+  name: "Emilio Peláez's Blog"
+  url: "https://medium.com/@Pelaez"
+  desc:
+  feed: "https://medium.com/feed/@Pelaez"
+  author: "By Emilio Peláez"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: beajl0w68g
+  name: "MartianCraft: The Syndicate"
+  url: "http://martiancraft.com/blog.html"
+  desc:
+  feed: "http://martiancraft.com/feed.xml"
+  author: "By MartianCraft Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: bekqh0bl6v
+  name: "优秀博客"
+  url: "http://www.youxiuboke.com/en/index.html"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: be4aw1f9v1
+  name: "Jason's Blog"
+  url: "http://jiajixin.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: bee7zhhcf1
+  name: "Brad Frost"
+  url: "http://bradfrost.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

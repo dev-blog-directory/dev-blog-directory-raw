@@ -1,0 +1,33 @@
+-
+  _id: mduvali3bv
+  name: "Rust"
+  url: "https://blog.rust-lang.org/"
+  desc:
+  feed:
+  author: "Rust"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: mdq31z55fe
+  name: "Guilherme Rambo's Blog"
+  url: "https://rambo.codes/"
+  desc:
+  feed: "https://rambo.codes/feed.xml"
+  author: "By Guilherme Rambo"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: md259sti42
+  name: "The Endeavour - Statistical consulting, expert applied math, data analysis"
+  url: "https://www.johndcook.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: ovyvk29d8t
+  name: "三石·道"
+  url: "http://www.molotang.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ov3yrvp4ng
+  name: "Steve Moser's Blog"
+  url: "https://www.stevemoser.org/category/apple-dev/index.html"
+  desc:
+  feed: "https://www.stevemoser.org/feed.apple-dev.xml"
+  author: "By Steve Moser"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ovxzp5h9s5
+  name: "Tyler Xing"
+  url: "http://cnborn.net/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: e66nrtu985
+  name: "Instacart"
+  url: "https://tech.instacart.com/"
+  desc: "Instacart Tech Blog."
+  feed:
+  author: "Instacart"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: e6m79u5j7t
+  name: "Daniel Schmidt"
+  url: "https://medium.com/@dschmidt1992"
+  desc:
+  feed:
+  author: "Daniel Schmidt"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: e6yrohbuny
+  name: "Appventure"
+  url: "https://appventure.me/"
+  desc:
+  feed: "https://appventure.me/feed.rss"
+  author: "By Benedikt Terhechte"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

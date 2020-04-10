@@ -1,0 +1,22 @@
+-
+  _id: h3van8aj1q
+  name: "Chef"
+  url: "https://blog.chef.io/"
+  desc:
+  feed:
+  author: "Chef"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: h3rj2p2l34
+  name: "远航"
+  url: "http://blog.cnwyhx.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

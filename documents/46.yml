@@ -1,0 +1,66 @@
+-
+  _id: 46zuqiclwy
+  name: "Five Stars"
+  url: "https://www.fivestars.blog/"
+  desc:
+  feed: "https://www.fivestars.blog/feed.xml"
+  author: "By Federico Zanetello"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 467bzbf4at
+  name: "JoomlaGeek's Blog"
+  url: "https://www.joomlageek.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: 466g1bjsok
+  name: "easycolor"
+  url: "http://www.easycolor.cc/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 4602e4ahzs
+  name: "一个故事@MySQL DBA"
+  url: "http://www.orczhou.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 462xe2rjw0
+  name: "DBA@Robin"
+  url: "http://dbarobin.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 46mufj87q5
+  name: "iwakoscott.com"
+  url: "https://www.iwakoscott.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

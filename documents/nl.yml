@@ -1,0 +1,44 @@
+-
+  _id: nlem86jf8v
+  name: "Roelof Jan Elsinga"
+  url: "https://roelofjanelsinga.com/articles"
+  desc:
+  feed:
+  author: "Roelof Jan Elsinga"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: nlcs3b20u0
+  name: "Rentzsch"
+  url: "http://rentzsch.tumblr.com/"
+  desc:
+  feed: "http://rentzsch.tumblr.com/rss"
+  author: "By Jonathan Rentzsch"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: nlc3lt1avq
+  name: "AndroidDeveloper.co.in"
+  url: "http://www.androiddeveloper.co.in/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: nlz7571bbz
+  name: "火丁笔记"
+  url: "http://huoding.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

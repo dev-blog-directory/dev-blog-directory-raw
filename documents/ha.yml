@@ -1,0 +1,22 @@
+-
+  _id: haijjbcfp6
+  name: "Objective-See's Blog"
+  url: "https://www.objective-see.com/blog.html"
+  desc:
+  feed: "https://objective-see.com/rss.xml"
+  author: "By Patrick Wardle"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: hayolof7ii
+  name: "Cloud Chou's Tech Blog"
+  url: "http://www.cloudchou.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

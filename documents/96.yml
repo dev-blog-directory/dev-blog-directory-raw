@@ -1,0 +1,33 @@
+-
+  _id: 96p55dudwg
+  name: "CodeFights"
+  url: "http://blog.codefights.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 96j5817zy6
+  name: "李勇2的博客"
+  url: "http://my.oschina.net/u/186074"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 96lam4lpgd
+  name: "alanhogan.com/blog"
+  url: "https://alanhogan.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

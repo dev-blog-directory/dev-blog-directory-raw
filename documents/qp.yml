@@ -1,0 +1,33 @@
+-
+  _id: qpufogyeg0
+  name: "Paul Hubbard"
+  url: "https://ultracrepidarian.phfactor.net/"
+  desc:
+  feed:
+  author: "Paul Hubbard"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: qpt4buowka
+  name: "Nelson Elhage"
+  url: "https://blog.nelhage.com/"
+  desc:
+  feed:
+  author: "Nelson Elhage"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: qp1et2sr3d
+  name: "CyannyLive"
+  url: "http://www.cyanny.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

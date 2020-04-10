@@ -1,0 +1,33 @@
+-
+  _id: quwn0tg7tf
+  name: "Dailymotion"
+  url: "http://engineering.dailymotion.com/"
+  desc: "Dailymotion Engineering Blog."
+  feed:
+  author: "Dailymotion"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: quc4co2u3m
+  name: "Commercetools"
+  url: "https://techblog.commercetools.com/"
+  desc:
+  feed:
+  author: "Commercetools"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: quxfb8ablq
+  name: "rachelnabors.com"
+  url: "http://rachelnabors.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

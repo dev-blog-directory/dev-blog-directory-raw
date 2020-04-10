@@ -1,0 +1,33 @@
+-
+  _id: jksprgq1iu
+  name: "Mike Bifulco"
+  url: "https://mike.biful.co/"
+  desc:
+  feed:
+  author: "Mike Bifulco"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: jkodf1fmwc
+  name: "liuxing's blog"
+  url: "http://liuxing.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: jkpasp0oge
+  name: "Wonderffee's Blog"
+  url: "http://wonderffee.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

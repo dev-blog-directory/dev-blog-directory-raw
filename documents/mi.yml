@@ -1,0 +1,22 @@
+-
+  _id: mio64obelh
+  name: "Ponyfoo"
+  url: "https://ponyfoo.com/"
+  desc: "JavaScript consulting, modularity, front-end architecture, performance, and more. Authored by Nicolás Bevacqua."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: mifna5k9mu
+  name: "Designveloper Software agency Meteor prime partner"
+  url: "https://blog.designveloper.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

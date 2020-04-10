@@ -1,0 +1,33 @@
+-
+  _id: ol2sm0x5cn
+  name: "Dragonfly BSD Digest"
+  url: "http://www.dragonflydigest.com/"
+  desc: "A running description of activity related to DragonFly BSD."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ol0o57pgmd
+  name: "Rosberry Blog"
+  url: "https://medium.com/rosberryapps/tagged/ios"
+  desc:
+  feed: "https://medium.com/feed/rosberryapps/tagged/ios"
+  author: "By Rosberry Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: olvyi2zk75
+  name: "树叶的BLOG"
+  url: "http://www.shuyz.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

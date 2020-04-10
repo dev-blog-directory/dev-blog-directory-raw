@@ -1,0 +1,33 @@
+-
+  _id: ge5clhbf4m
+  name: "Riley Testut's Blog"
+  url: "http://rileytestut.com/blog/"
+  desc:
+  feed: "http://rileytestut.com/feed.xml"
+  author: "By Riley Testut"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: gejwbuidlj
+  name: "typeof.net"
+  url: "http://typeof.net/index.html"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]
+-
+  _id: geebgkuzcl
+  name: "jokerliang.com(喜趣.良田)"
+  url: "http://jokerliang.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

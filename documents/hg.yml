@@ -1,0 +1,44 @@
+-
+  _id: hg2vzslmeg
+  name: "Alex Russell"
+  url: "https://infrequently.org/"
+  desc:
+  feed:
+  author: "Alex Russell"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["javascript"]
+-
+  _id: hgh62gj368
+  name: "Jlog"
+  url: "https://race604.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: hgsw623mzp
+  name: "Sam Dods's Blog"
+  url: "https://medium.com/@sdods"
+  desc:
+  feed: "https://medium.com/feed/@sdods"
+  author: "By Sam Dods"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: hgnvcb7bc0
+  name: "FIFI DESIGN"
+  url: "http://www.icefifi.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

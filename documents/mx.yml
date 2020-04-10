@@ -1,0 +1,22 @@
+-
+  _id: mxq2kmjpdw
+  name: "The ASOS Tech Blog"
+  url: "https://medium.com/asos-techblog/tagged/ios"
+  desc:
+  feed: "https://medium.com/feed/asos-techblog/tagged/ios"
+  author: "By ASOS"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: mxggsqi2yt
+  name: "Hessian's Blog"
+  url: "http://hessian.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

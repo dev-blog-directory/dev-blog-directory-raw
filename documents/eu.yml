@@ -1,0 +1,11 @@
+-
+  _id: eu06cbb7iu
+  name: "Swift Developments"
+  url: "https://andybargh.com/swiftdevelopments/"
+  desc:
+  feed: "https://andybargh.com/feed/"
+  author: "By Andy Bargh"
+  langs: ["en"]
+  github:
+  categories: ["Newsletter"]
+  tags: ["ios"]

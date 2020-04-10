@@ -1,0 +1,33 @@
+-
+  _id: gktjrwj6kt
+  name: "Lucida"
+  url: "http://zh.lucida.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: gkqn6x0ykd
+  name: "AVOA"
+  url: "https://avoa.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: gkfxvp4suz
+  name: "飞天奔月的java博客"
+  url: "http://feitianbenyue.iteye.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

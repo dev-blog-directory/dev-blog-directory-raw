@@ -1,0 +1,33 @@
+-
+  _id: n1l8p73poe
+  name: "Zendesk"
+  url: "https://medium.com/zendesk-engineering"
+  desc:
+  feed:
+  author: "Zendesk"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: n170c77hj4
+  name: "De Programmatica Ipsum"
+  url: "https://deprogrammaticaipsum.com/"
+  desc:
+  feed: "https://deprogrammaticaipsum.com/feed/"
+  author: "By Graham Lee and Adrian Kosmaczewski"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: n1nm1aigc3
+  name: "Vue.js - MVVM Made Simple | Reddit"
+  url: "https://old.reddit.com/r/vuejs/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]

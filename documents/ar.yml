@@ -1,0 +1,44 @@
+-
+  _id: ar11yt0fpo
+  name: "Wombat Security Technologies"
+  url: "http://development.wombatsecurity.com/"
+  desc:
+  feed:
+  author: "Wombat Security Technologies"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: arv9tdjq9s
+  name: "汐忆时空:CHIRS:蝶衣人生"
+  url: "http://zhoujin.com/index.php"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: arx42npo5n
+  name: "blog.plataformatec.com.br"
+  url: "http://blog.plataformatec.com.br/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["erlang"]
+-
+  _id: arp61bgmjl
+  name: "lvrbrtsn.com/blog"
+  url: "https://lvrbrtsn.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

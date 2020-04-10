@@ -1,0 +1,33 @@
+-
+  _id: msgrziu318
+  name: "The Morning Paper"
+  url: "https://blog.acolyer.org/"
+  desc: "an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["low-level"]
+-
+  _id: msrknhl9rd
+  name: "AIJogja"
+  url: "http://aijogja.pythonblogs.com/251_aijogja"
+  desc:
+  feed:
+  author: "AIJogja"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: ms090xnv01
+  name: "Mitchell Chu's Blog"
+  url: "http://blog.useasp.net/Default.aspx"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

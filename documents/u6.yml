@@ -1,0 +1,22 @@
+-
+  _id: u6573m05p2
+  name: "Lickability Blog"
+  url: "https://blog.lickability.com/"
+  desc:
+  feed: "https://blog.lickability.com/feed"
+  author: "By Lickability Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: u6r4bpqppj
+  name: "All Swift Developer | Youtube"
+  url: "https://www.youtube.com/channel/UC-TSTzj5hADDACFwolGgSxA/videos"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]

@@ -1,0 +1,33 @@
+-
+  _id: 1oh83ad6ie
+  name: "Crunchy Development"
+  url: "http://alisoftware.github.io/"
+  desc:
+  feed: "http://alisoftware.github.io/feed.xml"
+  author: "By Olivier Halligon"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 1ot23r78df
+  name: "虞双齐的博客"
+  url: "https://yushuangqi.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 1owa4hq03n
+  name: "郑泽鑫博客"
+  url: "http://zhengzexin.com/feed"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

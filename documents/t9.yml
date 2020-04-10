@@ -1,0 +1,33 @@
+-
+  _id: t94ynfmd53
+  name: "Internetdevels | Web Development in Drupal"
+  url: "https://internetdevels.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: t9m7bcye22
+  name: "万马奔腾"
+  url: "http://www.woniubi.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: t9l0o5knim
+  name: "steveedson.co.uk"
+  url: "https://steveedson.co.uk/"
+  desc:
+  feed: "https://steveedson.co.uk/feed.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

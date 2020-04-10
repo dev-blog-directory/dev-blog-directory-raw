@@ -1,0 +1,66 @@
+-
+  _id: uaj8rltru9
+  name: "Anton Medvedev"
+  url: "https://medv.io/"
+  desc:
+  feed:
+  author: "Anton Medvedev"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: uagrgy3h77
+  name: "Stitch Fix"
+  url: "http://multithreaded.stitchfix.com/blog/"
+  desc: "Stitch Fix Engineering Blog."
+  feed:
+  author: "Stitch Fix"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: uai508hvjg
+  name: "AHOM Technologies Private Limited"
+  url: "https://ahomtechnologies.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: uab4957tkv
+  name: "TimothyQiu's Blog"
+  url: "http://timothyqiu.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ua82wptsn0
+  name: "ijse blog"
+  url: "http://www.ijser.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: uac5yrj22t
+  name: "闲耘™.博客"
+  url: "http://blog.hotoo.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

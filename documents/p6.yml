@@ -1,0 +1,33 @@
+-
+  _id: p6j7i0vf4l
+  name: "Roy Marmelstein on Medium"
+  url: "https://medium.com/@marmelroy"
+  desc:
+  feed: "https://medium.com/feed/@marmelroy"
+  author: "By Roy Marmelstein"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: p66fv29gn0
+  name: "贝叶书"
+  url: "http://bayescafe.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: p6q4muyuho
+  name: "zyearn's blog"
+  url: "http://zyearn.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

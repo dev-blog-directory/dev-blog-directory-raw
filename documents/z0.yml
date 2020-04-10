@@ -1,0 +1,55 @@
+-
+  _id: z09lq6hu8x
+  name: "Data Artisans"
+  url: "https://data-artisans.com/blog/"
+  desc:
+  feed:
+  author: "Data Artisans"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: z0vqigwnk0
+  name: "Sebastian Osiński's Blog"
+  url: "https://osinski.dev/"
+  desc:
+  feed: "https://osinski.dev/index.xml"
+  author: "By Sebastian Osiński"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: z026qgezex
+  name: "Swift by Sundell"
+  url: "https://www.swiftbysundell.com/"
+  desc:
+  feed: "https://www.swiftbysundell.com/posts?format=RSS"
+  author: "By John Sundell"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: z0zwaqwjc4
+  name: "刘博平的部落格"
+  url: "https://www.liuboping.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: z03z86jh5c
+  name: "Sino Francisco"
+  url: "http://stephenwang.com/b"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

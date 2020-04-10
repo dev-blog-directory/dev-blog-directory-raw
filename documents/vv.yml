@@ -1,0 +1,33 @@
+-
+  _id: vvx9iw7eu6
+  name: "Kinvolk"
+  url: "https://kinvolk.io/blog/"
+  desc:
+  feed:
+  author: "Kinvolk"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: vvtt1wmrl7
+  name: "Anton Bobrov"
+  url: "http://bobrochel.blogspot.co.id/search/label/python"
+  desc:
+  feed:
+  author: "Anton Bobrov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: vv3xz9aap5
+  name: "360uxc"
+  url: "http://uxc.360.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:

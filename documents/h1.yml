@@ -1,0 +1,33 @@
+-
+  _id: h1afgmx032
+  name: "Will Bishop's Blog"
+  url: "https://blog.willbish.com/"
+  desc:
+  feed: "https://blog.willbish.com/feed/"
+  author: "By Will Bishop"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: h1loqc01cq
+  name: "SitePen | Angular"
+  url: "https://www.sitepen.com/blog/category/angular/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]
+-
+  _id: h1mnqiihy8
+  name: "卓忆科技"
+  url: "http://www.jointd.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

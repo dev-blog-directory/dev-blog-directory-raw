@@ -1,0 +1,22 @@
+-
+  _id: hzde9jk9vm
+  name: "Dave Atchley"
+  url: "http://www.datchley.name/"
+  desc:
+  feed:
+  author: "Dave Atchley"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: hzr2e00xzw
+  name: "Cloud on TechRepublic"
+  url: "https://www.techrepublic.com/topic/cloud/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]

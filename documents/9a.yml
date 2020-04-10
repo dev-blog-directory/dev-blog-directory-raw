@@ -1,0 +1,33 @@
+-
+  _id: 9a7uirf9m9
+  name: "Serverless"
+  url: "https://serverless.com/blog/"
+  desc:
+  feed:
+  author: "Serverless"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 9ahxc66aoc
+  name: "Zoë Smith's blog"
+  url: "https://zoesmith.io/"
+  desc:
+  feed: "https://www.zoesmith.io/index.xml"
+  author: "By Zoë Smith"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 9alg2mcych
+  name: "New Dimension Design | Ottawa Website Design & Graphic Designs"
+  url: "https://nddesign.ca/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

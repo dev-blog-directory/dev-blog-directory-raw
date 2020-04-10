@@ -1,0 +1,22 @@
+-
+  _id: omt9n6e5gx
+  name: "Jeff Knupp"
+  url: "https://www.jeffknupp.com/blog/"
+  desc:
+  feed:
+  author: "Jeff Knupp"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: om5gtqjee9
+  name: "岩松博客"
+  url: "http://www.sunyansong.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

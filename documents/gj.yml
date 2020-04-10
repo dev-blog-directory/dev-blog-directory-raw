@@ -1,0 +1,33 @@
+-
+  _id: gjnbp1lpmm
+  name: "Denis Poifol's Blog"
+  url: "https://denispoifol.github.io/"
+  desc:
+  feed: "https://denispoifol.github.io/feed.xml"
+  author: "By Denis Poifol"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: gjaq57ngla
+  name: "neo时刻准备着"
+  url: "http://neoremind.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: gj7m3sh7wj
+  name: "scottohara.me"
+  url: "https://www.scottohara.me/"
+  desc:
+  feed: "https://www.scottohara.me/feed.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

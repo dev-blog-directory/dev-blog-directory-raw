@@ -1,0 +1,66 @@
+-
+  _id: citwd31yep
+  name: "Scott Hanselman's Blog"
+  url: "https://www.hanselman.com/blog/"
+  desc:
+  feed:
+  author: "Scott Hanselman"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cicdsyzc9v
+  name: "Dave Beazley"
+  url: "http://www.dabeaz.com/blog.html"
+  desc:
+  feed:
+  author: "Dave Beazley"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: cih5yidzwj
+  name: "Quicktype Blog"
+  url: "https://blog.quicktype.io/"
+  desc:
+  feed: "https://blog.quicktype.io/rss/"
+  author: "By Quicktype Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: cijwgv26rr
+  name: "一北’s blog"
+  url: "http://blog.stormma.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ci1csox1j1
+  name: "AllanBian--阿宅"
+  url: "http://www.allanbian.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ci7soao0ym
+  name: "codeandunicorns.com"
+  url: "https://codeandunicorns.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

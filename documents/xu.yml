@@ -1,0 +1,44 @@
+-
+  _id: xup1cj3xk5
+  name: "Coding Dojo Blog"
+  url: "https://www.codingdojo.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: xu30f7ccf6
+  name: "Kazai Storyboard"
+  url: "https://kazaimazai.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios"]
+-
+  _id: xuki9156yr
+  name: "安度博客 » 安度博客"
+  url: "http://www.itbbu.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xu63r2x14s
+  name: "孤岛旭日的个人空间"
+  url: "http://my.oschina.net/gudaoxuri"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,44 @@
+-
+  _id: zsipe8s6mb
+  name: "Basem Emara's Blog"
+  url: "http://basememara.com/"
+  desc:
+  feed: "http://basememara.com/feed/"
+  author: "By Basem Emara"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: zs5ogwgjx3
+  name: "Datapipe » Cloud Computing"
+  url: "https://www.datapipe.com/blog/category/cloud-computing/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: zsjquf5dah
+  name: "heiyeluren的blog（黑夜路人的开源世界）"
+  url: "http://blog.csdn.net/heiyeshuwu"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: zs4o1wpll3
+  name: "Carpe Diem."
+  url: "http://joelhy.github.io//"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

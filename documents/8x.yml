@@ -1,0 +1,44 @@
+-
+  _id: 8xywna644e
+  name: "厘米天空"
+  url: "http://www.cmsky.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 8xgvs3oj6k
+  name: "李凡希的Blog"
+  url: "http://www.freemindworld.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 8xvktkav5x
+  name: "钇钛网 - 郭宇翔的博客"
+  url: "http://blog.yourtion.com/rss.xml"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 8xmw4lck4d
+  name: "Mathias Bynens"
+  url: "https://mathiasbynens.be/notes"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

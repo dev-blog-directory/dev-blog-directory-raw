@@ -1,0 +1,33 @@
+-
+  _id: 45gxlbhw4r
+  name: "Evan Tahler"
+  url: "https://blog.evantahler.com/"
+  desc:
+  feed:
+  author: "Evan Tahler"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 45r37gbb01
+  name: "阿毛的蛋疼地"
+  url: "http://xiangwangfeng.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 45tji99ml3
+  name: "awik.io"
+  url: "https://awik.io/"
+  desc:
+  feed: "https://awik.io/feed"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

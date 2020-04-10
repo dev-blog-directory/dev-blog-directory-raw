@@ -1,0 +1,33 @@
+-
+  _id: o81j4k2mrn
+  name: "Thoughtbot"
+  url: "https://robots.thoughtbot.com/"
+  desc:
+  feed:
+  author: "Thoughtbot"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: o8js4n1ufc
+  name: "Michael Tsai's Blog"
+  url: "https://mjtsai.com/blog"
+  desc:
+  feed: "https://mjtsai.com/blog/feed/"
+  author: "By Michael Tsai"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: o8jin8p7xb
+  name: "WatchDown Programming"
+  url: "https://watchdown.com/programming/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:

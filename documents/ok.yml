@@ -1,0 +1,66 @@
+-
+  _id: okcsbwot2x
+  name: "Stephen Colebourne"
+  url: "http://blog.joda.org/"
+  desc:
+  feed:
+  author: "Stephen Colebourne"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: okc9r26l4w
+  name: "Kyle Bashour's Blog"
+  url: "https://kylebashour.com/"
+  desc:
+  feed: "http://kylebashour.com/feed.xml"
+  author: "By Kyle Bashour"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ok08eb5ycm
+  name: "CSSReflex Blog"
+  url: "http://www.cssreflex.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["css"]
+-
+  _id: ok376j3dgj
+  name: "More PyPy"
+  url: "https://morepypy.blogspot.co.id/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: okd8yzz64m
+  name: "chai2010的个人页面"
+  url: "http://my.oschina.net/chai2010"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: oklz1j4n4t
+  name: "TaterLi's 个人博客"
+  url: "http://www.lijingquan.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

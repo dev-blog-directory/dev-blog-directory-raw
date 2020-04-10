@@ -1,0 +1,33 @@
+-
+  _id: 90agydekkx
+  name: "Maven Ecommerce"
+  url: "https://www.mavenecommerce.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: 90icdmia7w
+  name: "Cisco Cloud Computing Blog"
+  url: "https://blogs.cisco.com/tag/cloud-computing"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: 90hzr25r0y
+  name: "木木木木木"
+  url: "http://immmmm.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

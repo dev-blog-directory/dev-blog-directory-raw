@@ -1,0 +1,44 @@
+-
+  _id: qt2jlvms5g
+  name: "Engineering at Quora"
+  url: "https://engineering.quora.com/"
+  desc:
+  feed:
+  author: "Engineering at Quora"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: qtds86q1yi
+  name: "CloudTweaks"
+  url: "https://cloudtweaks.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: qtr4ccyi4n
+  name: "看天博客"
+  url: "http://hi.ktsee.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: qt3m7qxgsy
+  name: "Yonsm.NET"
+  url: "http://yonsm.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

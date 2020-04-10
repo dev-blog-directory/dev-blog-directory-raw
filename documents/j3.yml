@@ -1,0 +1,33 @@
+-
+  _id: j36gopbj7c
+  name: "Mixpanel"
+  url: "https://mixpanel.com/blog/"
+  desc: "Mixpanel Blog."
+  feed:
+  author: "Mixpanel"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: j38dufzgoy
+  name: "The API Company"
+  url: "https://theapicompany.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: j3fkjeml84
+  name: "始终"
+  url: "http://liam0205.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

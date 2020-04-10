@@ -1,0 +1,33 @@
+-
+  _id: wg5lntovxd
+  name: "coderyi"
+  url: "http://www.coderyi.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wg9algcf1t
+  name: "SwiftRocks - Bruno Rocha"
+  url: "https://swiftrocks.com/"
+  desc:
+  feed: "https://swiftrocks.com/rss.xml"
+  author: "By Bruno Rocha"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: wgl4ager6x
+  name: "莫名奇妙の钱小样"
+  url: "http://qianxiaoyang.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,66 @@
+-
+  _id: ptocnz3466
+  name: "Avinash"
+  url: "https://avinash.com.np/"
+  desc:
+  feed:
+  author: "Avinash"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ptqru7ymiz
+  name: "Eharmony"
+  url: "http://www.eharmony.com/engineering/"
+  desc:
+  feed:
+  author: "Eharmony"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: pt794k695z
+  name: "Applied Innovations"
+  url: "https://www.appliedi.net/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: ptv6bxipul
+  name: "IT不倒翁"
+  url: "http://blog.itbdw.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ptup4n1vvi
+  name: "卢松松在TechWeb"
+  url: "http://reed077.blog.techweb.com.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ptjg7fn89e
+  name: "44670[PG]"
+  url: "http://44670.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

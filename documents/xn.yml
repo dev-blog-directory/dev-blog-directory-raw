@@ -1,0 +1,22 @@
+-
+  _id: xnvm5xa1sv
+  name: "Shirley Wu"
+  url: "http://sxywu.com/"
+  desc:
+  feed:
+  author: "Shirley Wu"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: xnvxzlgd83
+  name: "Device Blogs"
+  url: "https://medium.com/@peterlivesey"
+  desc:
+  feed: "https://medium.com/feed/@peterlivesey"
+  author: "By Peter Livesey"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

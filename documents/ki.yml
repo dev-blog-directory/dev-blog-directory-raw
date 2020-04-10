@@ -1,0 +1,11 @@
+-
+  _id: kieo34bpwy
+  name: "deliciousreverie.co.uk"
+  url: "https://deliciousreverie.co.uk/"
+  desc:
+  feed: "https://deliciousreverie.co.uk/index.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

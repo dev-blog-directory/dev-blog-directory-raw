@@ -1,0 +1,33 @@
+-
+  _id: fqllcd5mcz
+  name: "四火的唠叨"
+  url: "http://www.raychase.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fqqbmj8uhs
+  name: "云在千峰"
+  url: "http://blog.chengyunfeng.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fq046s5pia
+  name: "EverET.org"
+  url: "http://everet.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

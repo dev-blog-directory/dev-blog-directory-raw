@@ -1,0 +1,66 @@
+-
+  _id: baf8vqti4x
+  name: "Zynga"
+  url: "https://www.zynga.com/blogs/engineering"
+  desc: "Zynga Engineering Blog."
+  feed:
+  author: "Zynga"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: baabthsh8g
+  name: "Coderwall"
+  url: "https://coderwall.com/"
+  desc: "The latest development and design tips, tools, and projects from the developer community."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: bamyfbleht
+  name: "C# Corner"
+  url: "http://www.c-sharpcorner.com/"
+  desc: "A Social Community of Developers and Programmers."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: bajmttldsw
+  name: "伤逝的安详"
+  url: "https://www.ssdax.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ba35kvrpdr
+  name: "jiacheo杂谈"
+  url: "http://www.jiacheo.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: bavuqckejl
+  name: "FooFish"
+  url: "https://foofish.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

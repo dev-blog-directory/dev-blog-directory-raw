@@ -1,0 +1,33 @@
+-
+  _id: mp03hc7pcg
+  name: "腾讯CDC"
+  url: "http://cdc.tencent.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: mpbasblfj6
+  name: "Node.js Blog"
+  url: "http://blog.nodejs.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: mplvi37fwk
+  name: "火光摇曳"
+  url: "http://www.flickering.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

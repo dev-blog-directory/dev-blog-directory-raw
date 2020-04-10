@@ -1,0 +1,33 @@
+-
+  _id: a3eeczbynt
+  name: "Graham King"
+  url: "https://www.darkcoding.net/"
+  desc:
+  feed:
+  author: "Graham King"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: a3xg7yqynh
+  name: "Monstermuffin"
+  url: "https://blog.monstermuffin.org/"
+  desc:
+  feed:
+  author: "Monstermuffin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: a366t4wvep
+  name: "孟坤博客"
+  url: "https://mkblog.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

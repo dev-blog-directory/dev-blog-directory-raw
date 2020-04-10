@@ -1,0 +1,55 @@
+-
+  _id: pcvdr07iae
+  name: "Ofer Zelig"
+  url: "https://fullstack.info/"
+  desc:
+  feed:
+  author: "Ofer Zelig"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: pc4hby1r3l
+  name: "Luke Smith's Blog"
+  url: "https://www.lukecsmith.co.uk/"
+  desc:
+  feed: "http://www.lukecsmith.co.uk/feed/"
+  author: "By Luke Smith"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: pcpr0jkaz6
+  name: "Mohsen's Blog"
+  url: "https://mohsen.dev/"
+  desc:
+  feed: "https://mohsen.dev/feed.xml"
+  author: "By Mohsen Alijanpour"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: pcaa3km9m0
+  name: "瀚海星空"
+  url: "http://abloz.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: pc0lqgpjbl
+  name: "jacquesmattheij.com"
+  url: "http://jacquesmattheij.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

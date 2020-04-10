@@ -1,0 +1,33 @@
+-
+  _id: ve5k21vnoa
+  name: "Envoy"
+  url: "https://envoy.engineering/"
+  desc:
+  feed:
+  author: "Envoy"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: veh9ngm5sy
+  name: "Lerner Consulting Blog"
+  url: "http://blog.lerner.co.il/"
+  desc:
+  feed:
+  author: "Lerner Consulting Blog"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: vefrwxvjzp
+  name: "Webdesigner Depot - Web Design Blog"
+  url: "https://www.webdesignerdepot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

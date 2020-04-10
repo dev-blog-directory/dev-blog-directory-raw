@@ -1,0 +1,11 @@
+-
+  _id: vteexgp42k
+  name: "Codeship"
+  url: "https://blog.codeship.com/"
+  desc:
+  feed:
+  author: "Codeship"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

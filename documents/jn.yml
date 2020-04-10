@@ -1,0 +1,33 @@
+-
+  _id: jndwwtp7ap
+  name: "NSBogan"
+  url: "https://mgrebenets.github.io/"
+  desc:
+  feed: "https://mgrebenets.github.io/rss.xml"
+  author: "By Maksym Grebenets"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: jnxe84apw7
+  name: "Roadfire Software"
+  url: "https://roadfiresoftware.com/blog/"
+  desc:
+  feed: "https://roadfiresoftware.com/feed/"
+  author: "By Josh Brown"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: jnp8lircw9
+  name: "Stackoverflow"
+  url: "http://stackoverflow.com/questions/tagged/python"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

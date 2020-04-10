@@ -1,0 +1,11 @@
+-
+  _id: wjdotmaiuu
+  name: "Gett Engineering Blog"
+  url: "https://medium.com/gett-engineering"
+  desc:
+  feed: "https://medium.com/feed/gett-engineering"
+  author: "By Shai Mishali"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

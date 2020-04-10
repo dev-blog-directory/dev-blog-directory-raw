@@ -1,0 +1,33 @@
+-
+  _id: d2u294r560
+  name: "Matt Podwysocki"
+  url: "https://mattpodwysocki.github.io/"
+  desc:
+  feed:
+  author: "Matt Podwysocki"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: d2vt1w0yah
+  name: "Barry Warsaw"
+  url: "https://www.wefearchange.org/"
+  desc:
+  feed:
+  author: "Barry Warsaw"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: d2g8xofr10
+  name: "Peter Steinberger"
+  url: "http://petersteinberger.com/"
+  desc:
+  feed:
+  author: "Peter Steinberger"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

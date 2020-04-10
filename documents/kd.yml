@@ -1,0 +1,33 @@
+-
+  _id: kd5tqaya8k
+  name: "Semaphore CI Community"
+  url: "https://semaphoreci.com/community"
+  desc:
+  feed:
+  author: "Semaphore CI Community"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: kdjhgy2r3e
+  name: "ruiper.es"
+  url: "https://ruiper.es/"
+  desc:
+  feed: "https://ruiper.es/rss/"
+  author: "By Rui Peres"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: kdc4lxvstk
+  name: "关注电脑知识与技术应用_穆童博客"
+  url: "http://mtoou.info/index.html"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

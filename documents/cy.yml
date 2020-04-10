@@ -1,0 +1,33 @@
+-
+  _id: cyw06iqp1k
+  name: "BenefitFocus"
+  url: "https://www.benefitfocus.com/blogs/design-engineering"
+  desc: "Benefitfocus Engineering Blog."
+  feed:
+  author: "BenefitFocus"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: cycvbi5hni
+  name: "内存溢出"
+  url: "http://outofmemory.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cyafaavwlv
+  name: "让我靠近你，我的宝贝"
+  url: "http://blog.sina.com.cn/gsh85"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

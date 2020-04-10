@@ -1,0 +1,22 @@
+-
+  _id: 575tbihc4e
+  name: "Heroku Engineering Blog"
+  url: "https://blog.heroku.com/engineering"
+  desc:
+  feed:
+  author: "Heroku Engineering Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 57fc19x8wr
+  name: "Zapier"
+  url: "https://zapier.com/engineering/"
+  desc: "Zapier Engineering Blog."
+  feed:
+  author: "Zapier"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

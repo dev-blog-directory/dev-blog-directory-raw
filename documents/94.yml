@@ -1,0 +1,22 @@
+-
+  _id: 942zlxbbkh
+  name: "cookpad"
+  url: "https://sourcediving.com/"
+  desc: "cookpad Blog."
+  feed:
+  author: "cookpad"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 94vi7xqdbd
+  name: "ThinkGem"
+  url: "http://thinkgem.iteye.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

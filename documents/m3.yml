@@ -1,0 +1,66 @@
+-
+  _id: m3p5iujsgd
+  name: "Crystal"
+  url: "https://crystal-lang.org/"
+  desc:
+  feed:
+  author: "Crystal"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: m302buw5yp
+  name: "Noah Gilmore's Blog"
+  url: "https://noahgilmore.com/blog/tags/ios/"
+  desc:
+  feed: "https://noahgilmore.com/blog/ios.xml"
+  author: "By Noah Gilmore"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: m39qmx0pdm
+  name: "iOS on Stack Overflow | Featured questions tagged ios"
+  url: "https://stackoverflow.com/questions/tagged/ios"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios"]
+-
+  _id: m32z10fe61
+  name: "Gistia Labs"
+  url: "https://www.gistia.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]
+-
+  _id: m36uof4f5p
+  name: "静水潜流"
+  url: "https://www.myvoipapp.com/blogs/yxh/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: m3f4nlnzhe
+  name: "Java堂"
+  url: "http://www.javatang.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

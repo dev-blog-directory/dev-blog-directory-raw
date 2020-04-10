@@ -1,0 +1,55 @@
+-
+  _id: lve40tzusw
+  name: "Medallia"
+  url: "http://engineering.medallia.com/blog/"
+  desc:
+  feed:
+  author: "Medallia"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: lv4sg4ilt0
+  name: "Redbubble"
+  url: "http://artplustech.com/"
+  desc:
+  feed:
+  author: "Redbubble"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: lvgmr4j4eo
+  name: "Mark Seaborn"
+  url: "http://lackingrhoticity.blogspot.de/"
+  desc:
+  feed:
+  author: "Mark Seaborn"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: lv4rkq4jf0
+  name: "Jean Mainguy on Medium"
+  url: "https://medium.com/@jhandguy"
+  desc:
+  feed: "https://medium.com/feed/@jhandguy"
+  author: "By Jean Mainguy"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: lvp2qvn6k8
+  name: "Big Nerd Ranch"
+  url: "https://www.bignerdranch.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios"]

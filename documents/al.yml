@@ -1,0 +1,77 @@
+-
+  _id: ale0nm0vbz
+  name: "FreeCodeCamp"
+  url: "https://medium.freecodecamp.com/"
+  desc: "Publishes stories worth reading on development, design, and data science."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: al8msuis35
+  name: "Filippo Valsorda"
+  url: "https://blog.filippo.io/"
+  desc:
+  feed:
+  author: "Filippo Valsorda"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["golang"]
+-
+  _id: albvrqnzcc
+  name: "Crunchy Bagel"
+  url: "https://crunchybagel.com/"
+  desc:
+  feed: "https://crunchybagel.com/rss/"
+  author: "By Quentin Zervaas"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: al6xwiljxq
+  name: "Good coders code, great reuse"
+  url: "https://catonmat.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ali28npcoy
+  name: "CIO Dive » Cloud Computing"
+  url: "http://www.ciodive.com/topic/cloud-computing/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: aliphe5xzt
+  name: "MobileUI莫贝网"
+  url: "http://www.mobileui.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: alnrw8v26u
+  name: "chinadtrace.org"
+  url: "http://chinadtrace.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

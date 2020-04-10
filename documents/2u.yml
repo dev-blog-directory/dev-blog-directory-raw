@@ -1,0 +1,55 @@
+-
+  _id: 2um3s5rcfb
+  name: "Fresh Swift - Recent content on Fresh Swift"
+  url: "http://freshswift.net/"
+  desc:
+  feed: "http://freshswift.net/index.xml"
+  author: "By Pete Smith"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: 2ufwdx1prq
+  name: "Apptamin Blog"
+  url: "https://www.apptamin.com/blog/"
+  desc:
+  feed: "https://www.apptamin.com/feed/"
+  author: "By Sylvain Gauchet"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: 2uw4694mr2
+  name: "Voidspace"
+  url: "http://www.voidspace.org.uk/python/weblog/index.shtml"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: 2uomjqd7oj
+  name: "Yannis Xu Blog"
+  url: "http://yannisxu.farbox.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 2uhml013re
+  name: "Kahlil Lechelt"
+  url: "https://www.kahlillechelt.com/"
+  desc:
+  feed: "https://www.kahlillechelt.com/index.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

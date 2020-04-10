@@ -1,0 +1,22 @@
+-
+  _id: k0qfz81aom
+  name: "Domain Driven Design Weekly"
+  url: "http://dddweekly.com/"
+  desc: "A blog on Domain Driven Design."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: k0too50oqb
+  name: "Chu's BLoG"
+  url: "http://sh3ll.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

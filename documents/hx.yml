@@ -1,0 +1,33 @@
+-
+  _id: hxagfpx0re
+  name: "dealloc"
+  url: "https://belkadan.com/blog/"
+  desc:
+  feed: "https://belkadan.com/blog/atom"
+  author: "By Jordan Rose"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: hxihph1xw8
+  name: "Technology Makes A Wonderful World"
+  url: "http://ashishkakkad.com/"
+  desc:
+  feed: "http://ashishkakkad.com/feed/"
+  author: "By Ashish Kakkad"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: hxaf0wd5wq
+  name: "WiFiDog - A Captive Portal Suit - 无线热点认证解决方案"
+  url: "http://www.wifidog.pro/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

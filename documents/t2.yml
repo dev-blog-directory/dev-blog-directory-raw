@@ -1,0 +1,22 @@
+-
+  _id: t24nkh6yik
+  name: "凌云的博客"
+  url: "http://cs-cjl.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: t24zq9p025
+  name: "bram.us"
+  url: "https://bram.us/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

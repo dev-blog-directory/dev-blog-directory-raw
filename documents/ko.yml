@@ -1,0 +1,66 @@
+-
+  _id: koh4ctudvz
+  name: "Localytics"
+  url: "http://eng.localytics.com/"
+  desc:
+  feed:
+  author: "Localytics"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: kov8c0heib
+  name: "LeoNerd's programming thoughts"
+  url: "http://leonerds-code.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]
+-
+  _id: koyclqq898
+  name: "minghe"
+  url: "https://minghe.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ko5htrk292
+  name: "我的BLOG"
+  url: "http://blog.sina.com.cn/liuguiyou"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: kotbkmixga
+  name: "clock"
+  url: "http://cattail.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ko1snbl4bp
+  name: "lukew.com"
+  url: "https://www.lukew.com/ff/"
+  desc:
+  feed: "http://feeds.feedburner.com/FunctioningForm"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: ir4ke0gg5f
+  name: "AusiOS"
+  url: "http://ausios.com/"
+  desc:
+  feed: "http://ausios.com/feed/"
+  author: "By Moe Burney"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ir3uot2h11
+  name: "Fullstack Python"
+  url: "https://www.fullstackpython.com/blog.html"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: ir7h4vm2ia
+  name: "Fatman13"
+  url: "http://fatman13.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

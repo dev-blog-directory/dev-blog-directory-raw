@@ -1,0 +1,44 @@
+-
+  _id: dcu2j85l62
+  name: "The Swift Teacher"
+  url: "https://www.swiftteacher.org/"
+  desc:
+  feed: "https://www.swiftteacher.org/swift-teacher/?format=rss"
+  author: "By Brian Foutty"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: dcna0p0exd
+  name: "The Lovely Geek"
+  url: "https://thelovelygeek.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: dc8ouzzxs0
+  name: "七牛云存储"
+  url: "http://blog.qiniu.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: dcvxjyeao6
+  name: "钿畑的博客"
+  url: "http://54im.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

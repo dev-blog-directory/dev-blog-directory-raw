@@ -1,0 +1,33 @@
+-
+  _id: 49157afe55
+  name: "OpenDNS"
+  url: "https://engineering.opendns.com/"
+  desc:
+  feed:
+  author: "OpenDNS"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 499gjf952v
+  name: "Topology Engineering Blog"
+  url: "https://topologyeyewear.github.io/engineering-blog"
+  desc:
+  feed: "https://topologyeyewear.github.io/engineering-blog/atom"
+  author: "By Alexis Gallagher, Greg Heo and Agnes Vasarhelyi"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: 49mwq3ot9z
+  name: "Love Python"
+  url: "http://love-python.blogspot.co.id/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

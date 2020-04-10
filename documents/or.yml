@@ -1,0 +1,33 @@
+-
+  _id: orgzdzi2ec
+  name: "geek-is-stupid"
+  url: "https://geek-is-stupid.github.io/"
+  desc:
+  feed: "https://geek-is-stupid.github.io/feed.xml"
+  author: "By Tai Le"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: or4eix1hvn
+  name: "Hwee-Boon Yar's Blog"
+  url: "http://hboon.com/"
+  desc:
+  feed: "http://hboon.com/feed/"
+  author: "By Hwee-Boon Yar"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: orkv2l0oir
+  name: "猴子007"
+  url: "https://monkeysayhi.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["java"]

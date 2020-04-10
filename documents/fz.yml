@@ -1,0 +1,44 @@
+-
+  _id: fzvkj2h646
+  name: "Paul Graham"
+  url: "http://www.paulgraham.com/articles.html"
+  desc:
+  feed:
+  author: "Paul Graham"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fzsbgy0to0
+  name: "山炮不二"
+  url: "http://xsinger.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fz8t8aib43
+  name: "猫躺在键盘上"
+  url: "http://cheng.guru/atom.xml"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fzqt22e4yz
+  name: "易水博客"
+  url: "http://easwy.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

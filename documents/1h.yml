@@ -1,0 +1,33 @@
+-
+  _id: 1hawpngjcu
+  name: "Eventbrite"
+  url: "https://www.eventbrite.com/engineering/"
+  desc: "Eventbrite Engineering Blog."
+  feed:
+  author: "Eventbrite"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 1hz0om8omx
+  name: "THE RIGHT-BRAIN GEEK"
+  url: "https://www.therightbraingeek.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: 1hvfmtdh7q
+  name: "有道技术沙龙博客"
+  url: "http://techblog.youdao.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:

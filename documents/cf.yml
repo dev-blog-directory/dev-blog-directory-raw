@@ -1,0 +1,22 @@
+-
+  _id: cfebanlva9
+  name: "Freeletics"
+  url: "https://freeletics.engineering/"
+  desc:
+  feed:
+  author: "Freeletics"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: cfy4147zyo
+  name: "leeon | 分享未来"
+  url: "http://www.leeon.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

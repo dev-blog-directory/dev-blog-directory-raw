@@ -1,0 +1,22 @@
+-
+  _id: 1iu2clgovx
+  name: "ObjectBox database blog"
+  url: "https://objectbox.io/blog"
+  desc:
+  feed: "https://objectbox.io/feed/"
+  author: "By ObjectBox Limited"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: 1i9xjbjo7s
+  name: "Import Python Weekly Blog"
+  url: "https://importpython.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]

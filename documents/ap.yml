@@ -1,0 +1,33 @@
+-
+  _id: apf74rmndm
+  name: "Amiantos.net"
+  url: "https://amiantos.net/tags/swift/"
+  desc:
+  feed: "https://amiantos.net/rss.xml"
+  author: "By Brad Root"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: apodykkjgd
+  name: "系统技术非业余研究"
+  url: "http://blog.yufeng.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ap4wzq32db
+  name: "大W的站外引流博客"
+  url: "http://www.dianshangtalk.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

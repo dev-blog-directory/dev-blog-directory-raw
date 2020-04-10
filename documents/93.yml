@@ -1,0 +1,44 @@
+-
+  _id: 93tmimw4mj
+  name: "Prolific Interactive Ideas"
+  url: "https://www.prolificinteractive.com/ideas/"
+  desc:
+  feed: "https://www.prolificinteractive.com/feed/"
+  author: "By Prolific Interactive Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: 934pgbaaoc
+  name: "Swift Journal"
+  url: "https://swiftjournal.wordpress.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: 93q6vkf832
+  name: "Phoenix's island"
+  url: "http://blog.phoenixlzx.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 93z57oku30
+  name: "voxpelli.com"
+  url: "https://voxpelli.com/"
+  desc:
+  feed: "https://voxpelli.com/english.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

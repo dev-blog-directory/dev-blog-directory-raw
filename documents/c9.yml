@@ -1,0 +1,22 @@
+-
+  _id: c91pagvaaz
+  name: "thoughtbot: Swift posts"
+  url: "https://robots.thoughtbot.com/tags/swift"
+  desc:
+  feed: "https://robots.thoughtbot.com/swift/feed"
+  author: "By thoughtbot Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: c9xvgd3lkt
+  name: "Python Weekly"
+  url: "http://www.pythonweekly.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

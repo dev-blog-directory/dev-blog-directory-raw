@@ -1,0 +1,33 @@
+-
+  _id: lru2vg2d3v
+  name: "Alloc-Init"
+  url: "https://www.alloc-init.com/"
+  desc:
+  feed: "https://www.alloc-init.com/feed"
+  author: "By Weston Hanners"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: lrkplos62c
+  name: "codingXiaxw’s blog"
+  url: "http://codingxiaxw.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: lroalivrfe
+  name: "Jake Baker"
+  url: "https://jakebaker.co.uk/"
+  desc:
+  feed: "https://jakebaker.co.uk/index.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

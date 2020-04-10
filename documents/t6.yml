@@ -1,0 +1,33 @@
+-
+  _id: t6tathqcdo
+  name: "Sam Saffron"
+  url: "https://samsaffron.com/"
+  desc:
+  feed:
+  author: "Sam Saffron"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: t6chkr81vv
+  name: "App Launch Map"
+  url: "https://applaunchmap.com/blog/"
+  desc:
+  feed: "https://applaunchmap.com/feed/"
+  author: "By Aleen Simms"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: t64tvlxk51
+  name: "cold's world"
+  url: "http://www.linuxzen.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: 5hfqkwbrum
+  name: "Oona Räisänen"
+  url: "http://www.windytan.com/"
+  desc:
+  feed:
+  author: "Oona Räisänen"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["low-level"]
+-
+  _id: 5hvo7d6r1b
+  name: "Terabit Web Development Blog"
+  url: "https://terabit.ca/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

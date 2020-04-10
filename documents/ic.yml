@@ -1,0 +1,33 @@
+-
+  _id: iczknwch9d
+  name: "Chiamaka Ikeanyi"
+  url: "https://chiamakaikeanyi.dev/"
+  desc:
+  feed:
+  author: "Chiamaka Ikeanyi"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: icdesu2zlu
+  name: "Marc Palmer's Blog"
+  url: "https://marcpalmer.net/category/ios/"
+  desc:
+  feed: "https://marcpalmer.net/category/ios/feed/"
+  author: "By Marc Palmer"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ic8rm6pplo
+  name: "Jake Archibald"
+  url: "https://jakearchibald.com/"
+  desc:
+  feed:
+  author: "Jake Archibald"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

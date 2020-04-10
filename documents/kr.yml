@@ -1,0 +1,55 @@
+-
+  _id: krou35kgou
+  name: "ReactJS News"
+  url: "https://reactjsnews.com/"
+  desc:
+  feed:
+  author: "ReactJS News"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: krmuhkj6zj
+  name: "Vanilla Java"
+  url: "http://vanillajava.blogspot.com/"
+  desc:
+  feed:
+  author: "Vanilla Java"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: krx6luknif
+  name: "CSS Weekly"
+  url: "https://css-weekly.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: krr1wsh2jv
+  name: "博学无忧"
+  url: "http://www.bo56.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: krarv2s4rh
+  name: "王爵的技术博客"
+  url: "https://biezhi.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

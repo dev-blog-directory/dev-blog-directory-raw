@@ -1,0 +1,22 @@
+-
+  _id: gmz9jgj9io
+  name: "Scott Berrevoets' Blog"
+  url: "https://scottberrevoets.com/"
+  desc:
+  feed: "https://scottberrevoets.com/feeds/all.rss.xml"
+  author: "By Scott Berrevoets"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: gmkxbrrjwh
+  name: "王子亭的博客"
+  url: "https://jysperm.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

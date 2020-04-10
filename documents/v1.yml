@@ -1,0 +1,33 @@
+-
+  _id: v1kpdfl1jf
+  name: "Mallow Tech"
+  url: "http://blog.mallow-tech.com/"
+  desc:
+  feed:
+  author: "Mallow Tech"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: v1a7ltncrt
+  name: "Application Not Responding"
+  url: "https://applicationnotresponding.wordpress.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: v1wlsur7aw
+  name: "creativedeletion.com"
+  url: "http://www.creativedeletion.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["erlang"]

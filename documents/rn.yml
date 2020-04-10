@@ -1,0 +1,55 @@
+-
+  _id: rnzrrxwfpq
+  name: "Jesus Castello"
+  url: "http://www.blackbytes.info/"
+  desc:
+  feed:
+  author: "Jesus Castello"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: rn9d06hvrk
+  name: "Bas' Blog"
+  url: "https://basthomas.github.io/"
+  desc:
+  feed: "https://basthomas.github.io/feed.xml"
+  author: "By Bas Broek"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: rnvmu5kw5d
+  name: "Stavros Korokithakis"
+  url: "https://www.stavros.io/tutorials/python/"
+  desc:
+  feed:
+  author: "Stavros Korokithakis"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: rni03boebd
+  name: "I code it"
+  url: "http://abruzzi.github.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: rnh5e0vv9l
+  name: "isaced"
+  url: "http://www.isaced.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

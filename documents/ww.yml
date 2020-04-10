@@ -1,0 +1,44 @@
+-
+  _id: wwqz015q1p
+  name: "Berkhan Berkdemir"
+  url: "https://berkhanberkdemir.com/"
+  desc:
+  feed:
+  author: "Berkhan Berkdemir"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: wwqrqz6j7y
+  name: "Khaled Garbaya"
+  url: "https://khaledgarbaya.net/"
+  desc:
+  feed:
+  author: "Khaled Garbaya"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: wwqi01baec
+  name: "UI中国"
+  url: "http://www.ui.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wwzxbam69u
+  name: "DHTMLX Blog"
+  url: "https://dhtmlx.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]

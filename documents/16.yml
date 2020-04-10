@@ -1,0 +1,33 @@
+-
+  _id: 164aiht4h1
+  name: "Floating little leaves of code"
+  url: "https://silverhammermba.github.io/blog/"
+  desc:
+  feed: "https://silverhammermba.github.io/blog/feed.xml"
+  author: "By Maxwell Anselm"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 16fahurk10
+  name: "rx_marin"
+  url: "http://rx-marin.com/"
+  desc:
+  feed: "http://rx-marin.com/index.xml"
+  author: "By Marin Todorov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 16cfsjgfjz
+  name: "boffosocko.com"
+  url: "https://boffosocko.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

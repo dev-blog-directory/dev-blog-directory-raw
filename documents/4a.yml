@@ -1,0 +1,22 @@
+-
+  _id: 4afkshj9un
+  name: "Ian Sommerville"
+  url: "http://iansommerville.com/systems-software-and-technology/"
+  desc:
+  feed:
+  author: "Ian Sommerville"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 4ah3rpoljn
+  name: "Afred's Blog"
+  url: "http://afredlyj.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

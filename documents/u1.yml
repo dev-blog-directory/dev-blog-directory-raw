@@ -1,0 +1,22 @@
+-
+  _id: u1np7ybqrc
+  name: "Datafloq"
+  url: "https://datafloq.com/read/"
+  desc: "Datafloq Blog."
+  feed:
+  author: "Datafloq"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: u1yq2qifiq
+  name: "Learn Python Break Python"
+  url: "http://learnpythonbreakpython.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

@@ -1,0 +1,55 @@
+-
+  _id: gx6sos6hjx
+  name: "Latacora"
+  url: "https://latacora.singles/"
+  desc:
+  feed:
+  author: "Latacora"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: gxcrietj9w
+  name: "Adam Bard"
+  url: "https://adambard.com/blog/"
+  desc:
+  feed:
+  author: "Adam Bard"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: gxzop76wom
+  name: "Federico Cargnelutti"
+  url: "https://blog.fedecarg.com/"
+  desc:
+  feed:
+  author: "Federico Cargnelutti"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: gxiwyd5doh
+  name: "virusdefender"
+  url: "https://virusdefender.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: gxafqqeepf
+  name: "TGideas"
+  url: "https://tgideas.qq.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:

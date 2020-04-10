@@ -1,0 +1,22 @@
+-
+  _id: ctgif71q7p
+  name: "Morning SwiftUI"
+  url: "https://www.morningswiftui.com/"
+  desc:
+  feed: "https://www.morningswiftui.com/blog?format=RSS"
+  author: "By Thomas Sivilay"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ctdmec3n82
+  name: "贤心博客"
+  url: "http://sentsin.com/old.html"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]

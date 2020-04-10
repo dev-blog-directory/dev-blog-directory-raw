@@ -1,0 +1,11 @@
+-
+  _id: gungp0yjti
+  name: "Khawer Khaliq Blog"
+  url: "https://khawerkhaliq.com/"
+  desc:
+  feed: "https://khawerkhaliq.com/feed/"
+  author: "By Khawer Khaliq"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]

@@ -1,0 +1,33 @@
+-
+  _id: escxc2vfk8
+  name: "Hands-on Python Tutorial"
+  url: "http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: estl0xgosd
+  name: "橘子书"
+  url: "https://loomob.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: esfjv2nif4
+  name: "yogthos.net"
+  url: "http://yogthos.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["clojure"]

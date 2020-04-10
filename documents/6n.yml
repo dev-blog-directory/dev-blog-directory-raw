@@ -1,0 +1,22 @@
+-
+  _id: 6nszymelod
+  name: "Kyle Hall"
+  url: "https://kylehall.io/"
+  desc:
+  feed:
+  author: "Kyle Hall"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 6nq5xhc9x5
+  name: "Loic Land"
+  url: "https://loic.land/"
+  desc:
+  feed: "https://loic.land/feed.xml"
+  author: "By Loïc Lecrenier"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

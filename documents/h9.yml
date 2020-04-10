@@ -1,0 +1,55 @@
+-
+  _id: h9a962hrk4
+  name: "Hadoop Weekly"
+  url: "https://hadoopweekly.com/"
+  desc: "A summary of the week's top news in the Apache Hadoop™ ecosystem."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: h95l7p8fyr
+  name: "Research Geek"
+  url: "https://researchgeek.co.uk/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: h9s2laznv0
+  name: "iKoo's Dirty Life"
+  url: "http://gythialy.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: h9hvmynybi
+  name: "冷轩信"
+  url: "http://lengxx.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: h99xz3fskr
+  name: "Poison"
+  url: "https://tianshuang.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

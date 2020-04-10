@@ -1,0 +1,22 @@
+-
+  _id: u542x9zb2i
+  name: "CloudExpo Journal"
+  url: "http://cloudcomputing.sys-con.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: u59gpscsnh
+  name: "Diggzhang 掘客张"
+  url: "http://yangcongchufang.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

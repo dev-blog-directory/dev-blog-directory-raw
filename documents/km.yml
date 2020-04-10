@@ -1,0 +1,44 @@
+-
+  _id: kmzoq91827
+  name: "Arjun Nayini's Blog"
+  url: "http://arjunnayini.com/"
+  desc:
+  feed: "http://arjunnayini.com/feed.xml"
+  author: "By Arjun Nayini"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: kmqnyqsj1a
+  name: "Stuart Hall's Blog"
+  url: "http://stuartkhall.com/"
+  desc:
+  feed: "http://feeds.feedburner.com/stuartkhall"
+  author: "By Stuart Hall"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: km4q9ylu39
+  name: "The Official Vue News"
+  url: "https://vuenews.fireside.fm/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]
+-
+  _id: kmfb3ow707
+  name: "糊涂虫"
+  url: "http://tomner.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

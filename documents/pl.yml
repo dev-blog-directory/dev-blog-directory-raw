@@ -1,0 +1,33 @@
+-
+  _id: pl51ptrqg0
+  name: "upbeat.it"
+  url: "https://www.upbeat.it/"
+  desc:
+  feed: "https://www.upbeat.it/atom.xml"
+  author: "By Cesare Rocchi"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: plj8ef17ns
+  name: "Cocoa Controls - Custom Controls for iOS, macOS, tvOS, and watchOS"
+  url: "https://www.cocoacontrols.com/posts"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios"]
+-
+  _id: plmqjdsumb
+  name: "Corey's Blog(FCX)"
+  url: "http://corey600.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

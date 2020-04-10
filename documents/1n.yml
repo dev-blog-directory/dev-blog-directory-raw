@@ -1,0 +1,22 @@
+-
+  _id: 1nwd14e93b
+  name: "Life Plus Linux"
+  url: "http://lifepluslinux.blogspot.in/"
+  desc:
+  feed:
+  author: "Life Plus Linux"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 1n8fvooyfn
+  name: "南靖男的时代"
+  url: "https://larryli.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

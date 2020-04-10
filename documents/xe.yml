@@ -1,0 +1,77 @@
+-
+  _id: xetesqy8p8
+  name: "Hootsuite"
+  url: "http://code.hootsuite.com/"
+  desc:
+  feed:
+  author: "Hootsuite"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xeulq2tmk7
+  name: "Soshace"
+  url: "https://blog.soshace.com/en/"
+  desc:
+  feed:
+  author: "Soshace"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xereyfa4zs
+  name: "Sarin Swift on Medium"
+  url: "https://medium.com/@sarinyaswift"
+  desc:
+  feed: "https://medium.com/feed/@sarinyaswift"
+  author: "By Sarin Swift"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: xetf6ecccn
+  name: "Sealed Abstract"
+  url: "http://sealedabstract.com/"
+  desc:
+  feed: "http://sealedabstract.com/feed/"
+  author: "By Drew Crawford"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: xe1tq3op26
+  name: "GeekEstate Blog"
+  url: "https://geekestateblog.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: xena5k780q
+  name: "All Things Distributed"
+  url: "https://www.allthingsdistributed.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: xea5cdsj5g
+  name: "themaninblue.com"
+  url: "https://themaninblue.com/"
+  desc:
+  feed: "https://themaninblue.com/feed/"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

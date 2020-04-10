@@ -1,0 +1,55 @@
+-
+  _id: zao6o8et4t
+  name: "Steve Bellovin"
+  url: "https://www.cs.columbia.edu/~smb/blog/control/"
+  desc:
+  feed:
+  author: "Steve Bellovin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: zaw3uiv5rc
+  name: "iOS Developer News"
+  url: "https://iosdevelopernews.com/"
+  desc:
+  feed: "https://iosdevelopernews.com/feed"
+  author: "By Carlos A. King"
+  langs: ["en"]
+  github:
+  categories: ["Newsletter"]
+  tags: ["ios"]
+-
+  _id: zazh7hy56h
+  name: "Adam Bien"
+  url: "http://www.adam-bien.com/roller/abien/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: zan00kbiua
+  name: "licstar的博客"
+  url: "http://licstar.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: zaoiws08nv
+  name: "Sushi and Robots by Jina Anne"
+  url: "https://www.sushiandrobots.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

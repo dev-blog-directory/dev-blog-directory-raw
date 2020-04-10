@@ -1,0 +1,22 @@
+-
+  _id: dhx0zich9y
+  name: "Ebay"
+  url: "https://www.ebayinc.com/stories/blogs/tech/"
+  desc:
+  feed:
+  author: "Ebay"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: dhqddd1ztz
+  name: "Sound of Silence"
+  url: "http://sound-of-silence.com/"
+  desc:
+  feed: "http://sound-of-silence.com/rss.xml"
+  author: "By Matt Reagan"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

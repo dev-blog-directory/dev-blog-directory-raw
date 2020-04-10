@@ -1,0 +1,33 @@
+-
+  _id: jgz5hig2bc
+  name: "Andrej Karpathy blog"
+  url: "http://karpathy.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: jgcc0mqgsb
+  name: "Cloud-Computing Magazine"
+  url: "http://www.cloudcomputingintelligence.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: jg9nbv8np5
+  name: "黑 * 白"
+  url: "http://youngsterxyf.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

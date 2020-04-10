@@ -1,0 +1,33 @@
+-
+  _id: xq7xkdanhp
+  name: "StormPath"
+  url: "https://stormpath.com/blog/"
+  desc: "StormPath Blog."
+  feed:
+  author: "StormPath"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xq57bnunxs
+  name: "Chris Wellons"
+  url: "http://nullprogram.com/"
+  desc:
+  feed:
+  author: "Chris Wellons"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xqhkgafvui
+  name: "小赖子的英国生活和资讯"
+  url: "https://justyy.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

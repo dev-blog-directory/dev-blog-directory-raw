@@ -1,0 +1,33 @@
+-
+  _id: uhf1sgt1bh
+  name: "Heroku"
+  url: "https://engineering.heroku.com/"
+  desc: "Heroku Engineering Blog."
+  feed:
+  author: "Heroku"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: uhys9kpnci
+  name: "Splinter Software"
+  url: "http://www.splinter.com.au/"
+  desc:
+  feed: "http://www.splinter.com.au/atom.xml"
+  author: "By Chris Hulbert"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: uhw782jbwh
+  name: " Jens Oliver Meiert Blog"
+  url: "https://meiert.com/en/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

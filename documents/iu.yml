@@ -1,0 +1,66 @@
+-
+  _id: iuvd33x6w4
+  name: "Penbook Dev Log"
+  url: "https://penbook.substack.com/"
+  desc:
+  feed: "https://penbook.substack.com/feed/"
+  author: "By User Camp"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: iue51lya22
+  name: "Blog de Vincent Tourraine"
+  url: "https://www.vtourraine.net/blog/tags/dev"
+  desc:
+  feed: "https://www.vtourraine.net/blog/feed.xml"
+  author: "By Vincent Tourraine"
+  langs: ["fr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: iuaaoxkxjh
+  name: "The No Title Tech Blog"
+  url: "https://no-title.victordomingos.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: iuvo49uzwa
+  name: "The Money Geek"
+  url: "https://www.themoneygeek.info/the-geek-blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: iu985o9n1j
+  name: "SEO每天一贴"
+  url: "http://www.seozac.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: iujm608b6v
+  name: "IO-meter"
+  url: "http://io-meter.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

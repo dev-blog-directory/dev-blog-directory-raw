@@ -1,0 +1,22 @@
+-
+  _id: iwnn3oou3k
+  name: "Settled"
+  url: "https://engineroom.settled.co.uk/"
+  desc:
+  feed:
+  author: "Settled"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: iw3tmomo33
+  name: "GraphQL | Reddit"
+  url: "https://old.reddit.com/r/graphql/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["graphql"]

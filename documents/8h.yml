@@ -1,0 +1,33 @@
+-
+  _id: 8h134ioqzy
+  name: "Pinterest Engineering"
+  url: "https://engineering.pinterest.com/"
+  desc:
+  feed:
+  author: "Pinterest Engineering"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 8hev7er7ze
+  name: "犊犊的小棚棚"
+  url: "http://www.jlao.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 8hz1zczljt
+  name: "汪星人陈达的小窝|关注互联网|关注前端|科技改变生活"
+  url: "http://www.tony77.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

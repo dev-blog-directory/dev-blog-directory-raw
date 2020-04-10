@@ -1,0 +1,77 @@
+-
+  _id: sq3ta6swq3
+  name: "Tony Xu"
+  url: "https://tonyxu.io/"
+  desc:
+  feed:
+  author: "Tony Xu"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: squ6odg76c
+  name: "Facebook AI Research"
+  url: "https://research.facebook.com/blog/ai/"
+  desc:
+  feed:
+  author: "Facebook AI Research"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: sqdekimc0e
+  name: "Jobandtalent"
+  url: "https://jobandtalent.engineering/"
+  desc:
+  feed:
+  author: "Jobandtalent"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: sqtg34gomr
+  name: "Skyscanner"
+  url: "http://codevoyagers.com/"
+  desc:
+  feed:
+  author: "Skyscanner"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: sqwyrfa6r6
+  name: "Grokking Android - Getting Down to the Nitty Gritty of Android Development"
+  url: "https://www.grokkingandroid.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: sqhm5dmtnc
+  name: "High Caffeine Content"
+  url: "https://www.highcaffeinecontent.com/"
+  desc:
+  feed: "https://www.highcaffeinecontent.com/rss.xml"
+  author: "By Steve Troughton-Smith"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: sqxpa32soz
+  name: "Ian Bicking"
+  url: "http://www.ianbicking.org/blog/"
+  desc:
+  feed:
+  author: "Ian Bicking"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

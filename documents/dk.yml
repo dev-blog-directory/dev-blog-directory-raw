@@ -1,0 +1,33 @@
+-
+  _id: dk72bcdj1m
+  name: "Square"
+  url: "https://corner.squareup.com/"
+  desc:
+  feed:
+  author: "Square"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: dkpn05b7bk
+  name: "Marc Plano-Lesay"
+  url: "https://enoent.fr/"
+  desc:
+  feed:
+  author: "Marc Plano-Lesay"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: dk49s1ej65
+  name: "拥有自己的梦想，跟随心的召唤"
+  url: "http://rongjih.blog.163.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

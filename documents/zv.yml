@@ -1,0 +1,22 @@
+-
+  _id: zvn3bqpar8
+  name: "Julia Evans"
+  url: "https://jvns.ca/"
+  desc:
+  feed:
+  author: "Julia Evans"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: zvz5wep3wa
+  name: "Johnson Zhou"
+  url: "https://radishblog.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

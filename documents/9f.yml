@@ -1,0 +1,44 @@
+-
+  _id: 9feyn7ym4h
+  name: "AppCoda - Learn Swift & iOS Programming by Doing"
+  url: "https://www.appcoda.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: 9fm30ns9gq
+  name: "牧风"
+  url: "http://mufeng.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]
+-
+  _id: 9fq6yax529
+  name: "Seaborn Lee"
+  url: "http://www.seabornlee.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9f2r4pm1y9
+  name: "陈兴"
+  url: "http://kaifei.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

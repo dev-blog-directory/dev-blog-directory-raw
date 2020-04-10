@@ -1,0 +1,33 @@
+-
+  _id: zucuz29h1n
+  name: "Instagram"
+  url: "http://instagram-engineering.tumblr.com/"
+  desc: "Instagram Engineering."
+  feed:
+  author: "Instagram"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: zut2hzwl43
+  name: "AngularJS 4U Blog - Demos, News, Directives & Coding Tips"
+  url: "https://www.angularjs4u.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]
+-
+  _id: zu17qkuu5w
+  name: "IT宅.com"
+  url: "http://www.itzhai.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

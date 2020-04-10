@@ -1,0 +1,33 @@
+-
+  _id: z7qr1l2hg3
+  name: "Undocumented Matlab"
+  url: "http://undocumentedmatlab.com/"
+  desc:
+  feed:
+  author: "Undocumented Matlab"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: z7sgcl4fln
+  name: "CSS Wizardry"
+  url: "https://csswizardry.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development","css"]
+-
+  _id: z7c3um1tz0
+  name: "四十学艺"
+  url: "http://www.sishixy.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

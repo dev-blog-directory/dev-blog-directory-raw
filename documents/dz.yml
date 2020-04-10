@@ -1,0 +1,55 @@
+-
+  _id: dzbeu8r0mg
+  name: "Collective Idea"
+  url: "https://collectiveidea.com/blog"
+  desc:
+  feed:
+  author: "Collective Idea"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: dzkrr9j3y7
+  name: "DigitalOcean"
+  url: "https://www.digitalocean.com/community/tutorials"
+  desc:
+  feed:
+  author: "DigitalOcean"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: dzi7wd6jxf
+  name: "Novoda"
+  url: "https://www.novoda.com/blog/"
+  desc:
+  feed:
+  author: "Novoda"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: dzqbo4ds12
+  name: "wiwoo.com"
+  url: "http://wiwoo.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: dzxs0n2a79
+  name: "爱推吧"
+  url: "http://ituibar.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

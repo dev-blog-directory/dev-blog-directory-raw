@@ -1,0 +1,55 @@
+-
+  _id: l5ipnp1qri
+  name: "Twilio"
+  url: "https://www.twilio.com/engineering/"
+  desc: "Twilio Engineering."
+  feed:
+  author: "Twilio"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: l5p81q4t0f
+  name: "Semiconductor Engineering"
+  url: "http://semiengineering.com/"
+  desc: "Deep insights into the increasingly complex task of designing, testing, verifying, integrating and manufacturing semiconductors."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: l5idm4qpwl
+  name: "Speedledger"
+  url: "http://engineering.speedledger.com/"
+  desc:
+  feed:
+  author: "Speedledger"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: l56g141e95
+  name: "Radek Pazdera"
+  url: "http://radek.io/"
+  desc:
+  feed:
+  author: "Radek Pazdera"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: l5eghep08f
+  name: "Yegor Bugayenko"
+  url: "http://www.yegor256.com/"
+  desc:
+  feed:
+  author: "Yegor Bugayenko"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

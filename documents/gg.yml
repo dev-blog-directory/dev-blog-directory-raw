@@ -1,0 +1,33 @@
+-
+  _id: gg2jyzv06r
+  name: "SwiftBook"
+  url: "https://swiftbook.ru/"
+  desc:
+  feed: "https://swiftbook.ru/feed/"
+  author: "By Иван Акулов"
+  langs: ["ru"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ggtf4wiv2x
+  name: "CoderZh"
+  url: "http://blog.coderzh.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ggb0sl4270
+  name: "夜惊心的博客"
+  url: "http://yejinxin.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

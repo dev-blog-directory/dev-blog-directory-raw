@@ -1,0 +1,33 @@
+-
+  _id: xzdx0zhq6c
+  name: "Pagico"
+  url: "https://www.pagico.com/blog/"
+  desc: "Pagico Blog."
+  feed:
+  author: "Pagico"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xz6nfdf7ks
+  name: "Hi, I'm Sam"
+  url: "https://soffes.blog/"
+  desc:
+  feed: "https://soffes.blog/rss/"
+  author: "By Sam Soffes"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: xznfql50te
+  name: "appssemble"
+  url: "https://medium.com/appssemble"
+  desc:
+  feed: "https://medium.com/feed/appssemble"
+  author: "By Dragos Dobrean"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

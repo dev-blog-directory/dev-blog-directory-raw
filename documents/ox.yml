@@ -1,0 +1,22 @@
+-
+  _id: oxs9d0sr7a
+  name: "Hayden James"
+  url: "https://haydenjames.io/"
+  desc:
+  feed:
+  author: "Hayden James"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: oxnd8qbdo8
+  name: "于江水博客"
+  url: "http://yujiangshui.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]

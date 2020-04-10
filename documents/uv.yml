@@ -1,0 +1,66 @@
+-
+  _id: uvcwyvl2pe
+  name: "Red Hat"
+  url: "https://developers.redhat.com/blog/"
+  desc:
+  feed:
+  author: "Red Hat"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: uvti3mp5ru
+  name: "Alexander Grebenyuk's Blog"
+  url: "http://kean.github.io/"
+  desc:
+  feed: "http://kean.github.io/feed.xml"
+  author: "By Alexander Grebenyuk"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: uvivoktlk5
+  name: "Cocoanetics"
+  url: "https://www.cocoanetics.com/blog/"
+  desc:
+  feed: "https://www.cocoanetics.com/feed/"
+  author: "By Oliver Drobnik"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: uvmychnu9c
+  name: "The geeky bobbin"
+  url: "https://geekybobbin.com/category/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: uvphgwesn5
+  name: "孤独狂饮"
+  url: "http://gdky005.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: uvqn3sc37v
+  name: "zhangge's stupid and messy life"
+  url: "http://zhgeaits.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,55 @@
+-
+  _id: efp587azt9
+  name: "Baidu Research"
+  url: "http://research.baidu.com/Blog"
+  desc: "Baidu Research Blog."
+  feed:
+  author: "Baidu Research"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ef3t7jydk7
+  name: "Haus"
+  url: "https://engineering.haus.com/"
+  desc:
+  feed:
+  author: "Haus"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: efhznbg17j
+  name: "Python Insider | python.org"
+  url: "https://blog.python.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: efr7jsysxe
+  name: "The Geek Insider"
+  url: "http://thegeekinsider.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: ef6w6ndyq4
+  name: "minaandrawos.com"
+  url: "http://www.minaandrawos.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["golang"]

@@ -1,0 +1,33 @@
+-
+  _id: dboiuaa5w5
+  name: "Instagram Engineering"
+  url: "https://engineering.instagram.com/@InstagramEng"
+  desc:
+  feed:
+  author: "Instagram Engineering"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: dbg2rg4se1
+  name: "Ben McCormick"
+  url: "https://benmccormick.org/"
+  desc:
+  feed:
+  author: "Ben McCormick"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: dbcm25kc12
+  name: "李德涛博客"
+  url: "http://www.lidetao.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

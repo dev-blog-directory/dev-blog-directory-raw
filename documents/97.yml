@@ -1,0 +1,33 @@
+-
+  _id: 97etgsep4n
+  name: "Walmart Labs"
+  url: "https://medium.com/walmartlabs"
+  desc: "Walmart Labs Engineering Blog."
+  feed:
+  author: "Walmart Labs"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 97v3qu3ihj
+  name: "Hashnode"
+  url: "https://hashnode.blog/"
+  desc:
+  feed:
+  author: "Hashnode"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 97lgfcj7b9
+  name: "PostgreSQL DBA"
+  url: "http://francs3.blog.163.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

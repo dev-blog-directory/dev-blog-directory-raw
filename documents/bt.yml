@@ -1,0 +1,33 @@
+-
+  _id: btg0h29vx5
+  name: "Strava"
+  url: "http://labs.strava.com/"
+  desc: "Strava Labs."
+  feed:
+  author: "Strava"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: bt64f68ho3
+  name: "DataFox"
+  url: "http://eng.datafox.co/"
+  desc:
+  feed:
+  author: "DataFox"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: btyv0svfeg
+  name: "晴耕雨讀"
+  url: "http://0x3f.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

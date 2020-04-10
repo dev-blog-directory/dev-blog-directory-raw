@@ -1,0 +1,22 @@
+-
+  _id: wbasl4eo8p
+  name: "CodePen"
+  url: "https://blog.codepen.io/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: wbrncwtas6
+  name: "itcodai"
+  url: "http://www.itcodai.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,55 @@
+-
+  _id: vyisnuj8rd
+  name: "Toma Nistor"
+  url: "https://tomanistor.com/blog"
+  desc:
+  feed:
+  author: "Toma Nistor"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: vy72admve8
+  name: "Sky Betting & Gaming"
+  url: "http://engineering.skybettingandgaming.com/"
+  desc:
+  feed:
+  author: "Sky Betting & Gaming"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: vyyvia9kuk
+  name: "Igor Kulman's Blog"
+  url: "https://blog.kulman.sk/"
+  desc:
+  feed: "https://blog.kulman.sk/index.xml"
+  author: "By Igor Kulman"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: vymfstacit
+  name: "笨方法学写作"
+  url: "http://www.cnfeat.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: vyt11xfvu6
+  name: "简单之美"
+  url: "http://shiyanjun.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

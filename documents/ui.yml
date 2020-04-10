@@ -1,0 +1,22 @@
+-
+  _id: uihg9m7834
+  name: "Warp your mobile development"
+  url: "http://blog.warpfactor.io/"
+  desc:
+  feed: "http://blog.warpfactor.io/feed.xml"
+  author: "By Thibault Wittemberg"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: uimkaq7rn6
+  name: "Sartorial Geek"
+  url: "http://sartorialgeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

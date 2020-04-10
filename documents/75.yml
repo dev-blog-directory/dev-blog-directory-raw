@@ -1,0 +1,33 @@
+-
+  _id: 75u49i29o8
+  name: "Zafar Khodjaev"
+  url: "https://zaff.netlify.com/"
+  desc:
+  feed:
+  author: "Zafar Khodjaev"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 7519kducvt
+  name: "破船之家"
+  url: "http://beyondvincent.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 75x6xo2ogz
+  name: "Algorithms | Reddit"
+  url: "https://old.reddit.com/r/algorithms/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["algorithm"]

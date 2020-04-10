@@ -1,0 +1,43 @@
+sudo: false
+language: node_js
+node_js: "12"
+before_cache:
+  - rm -rf node_modules/dev-blog-directory*
+branches:
+  only:
+    - master
+
+script:
+  - git clone https://github.com/dev-blog-directory/dev-blog-directory-feed-db.git
+  - cp -a dev-blog-directory-feed-db/feed-db.json ./
+  - npm run readme-gen
+
+deploy:
+  - provider: pages
+    project_name: dev-blog-directory-raw
+    skip_cleanup: true
+    local_dir: dist
+    repo: dev-blog-directory/dev-blog-directory
+    target_branch: master
+    github_token: $GITHUB_TOKEN
+    keep_history: false
+    committer_from_gh: true
+    name: dailyrandomphoto
+    email: dailyrandomphoto@gmail.com
+    commit_message: "Site updated at `date +'%Y-%m-%d %T'`"
+    on:
+      branch: master
+  - provider: pages
+    project_name: dev-blog-directory-raw
+    skip_cleanup: true
+    local_dir: dist
+    repo: dailyrandomphoto/dev-blog-directory
+    target_branch: master
+    github_token: $GITHUB_TOKEN
+    keep_history: false
+    committer_from_gh: true
+    name: dailyrandomphoto
+    email: dailyrandomphoto@gmail.com
+    commit_message: "Site updated at `date +'%Y-%m-%d %T'`"
+    on:
+      branch: master

@@ -1,0 +1,33 @@
+-
+  _id: ey8077lp2f
+  name: "Daily Tech Video"
+  url: "http://dailytechvideo.com/"
+  desc:
+  feed:
+  author: "Daily Tech Video"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: eywgfhb3lu
+  name: "Java Red Hat Developer Blog"
+  url: "https://developers.redhat.com/blog/tag/java/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: eyy7vko45a
+  name: "meyerweb.com"
+  url: "https://meyerweb.com/eric/thoughts/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

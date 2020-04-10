@@ -1,0 +1,44 @@
+-
+  _id: p18wtihd4f
+  name: "Chris Hager"
+  url: "https://www.metachris.com/blog/"
+  desc:
+  feed:
+  author: "Chris Hager"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: p11o235q13
+  name: "CFE Apps"
+  url: "https://cfeapps.com/"
+  desc:
+  feed: "https://cfeapps.com/feed/"
+  author: "By Sergio Becerril"
+  langs: ["es"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: p1eause8ja
+  name: "Google Cloud Platform Blog"
+  url: "https://cloudplatform.googleblog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: p1xnfrh262
+  name: "timkadlec.com"
+  url: "https://timkadlec.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

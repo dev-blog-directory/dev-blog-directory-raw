@@ -1,0 +1,44 @@
+-
+  _id: 3f0zqo7ew2
+  name: "Webdev: reddit for web developers"
+  url: "https://www.reddit.com/r/webdev/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: 3f8m3xrabq
+  name: "520ued前端开发"
+  url: "http://www.520ued.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]
+-
+  _id: 3f54kpmt1d
+  name: "吴小龙同學"
+  url: "http://wuxiaolong.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3fs8zsbsqu
+  name: "bits & serif"
+  url: "http://copri.me/feed"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

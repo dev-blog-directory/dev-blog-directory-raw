@@ -1,0 +1,33 @@
+-
+  _id: smm47zfadd
+  name: "BitTorrent"
+  url: "http://engineering.bittorrent.com/"
+  desc: "BitTorrent Engineering Blog."
+  feed:
+  author: "BitTorrent"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: smqrpijudk
+  name: "Daniele Margutti's Blog"
+  url: "http://danielemargutti.com/"
+  desc:
+  feed: "http://danielemargutti.com/feed/"
+  author: "By Daniele Margutti"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: sm18j2q5bv
+  name: "無標題文檔"
+  url: "http://www.gracecode.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

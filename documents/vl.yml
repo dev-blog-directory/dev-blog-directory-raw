@@ -1,0 +1,44 @@
+-
+  _id: vl4v0ur5h2
+  name: "Idontgetoutmuch's Weblog"
+  url: "https://idontgetoutmuch.wordpress.com/"
+  desc:
+  feed:
+  author: "Idontgetoutmuch's Weblog"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: vl6um8bcnm
+  name: "Marcin Jackowski on Medium"
+  url: "https://medium.com/@marcinjackowski"
+  desc:
+  feed: "https://medium.com/feed/@marcinjackowski"
+  author: "By Marcin Jackowski"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: vllapiig62
+  name: "CatsWhoCode"
+  url: "https://catswhocode.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: vlyfs0p9p3
+  name: "Learning Algorithms with Rachit Jain"
+  url: "https://rachitiitr.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["algorithm"]

@@ -1,0 +1,44 @@
+-
+  _id: eemzlqvwrt
+  name: "Dennis Yurichev"
+  url: "https://yurichev.com/blog/"
+  desc:
+  feed:
+  author: "Dennis Yurichev"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: eef0byxrgc
+  name: "天缘博客"
+  url: "http://www.metsky.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: eepqe1f3w2
+  name: "web前端,杭州小白的个人博客,小白的个人博客"
+  url: "http://www.xiaobai8.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ee3qg20mrs
+  name: "charity.wtf"
+  url: "https://charity.wtf/"
+  desc:
+  feed: "https://charity.wtf/feed"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

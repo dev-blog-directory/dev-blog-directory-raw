@@ -1,0 +1,33 @@
+-
+  _id: 01m35n4o1t
+  name: "Google Online Security"
+  url: "https://security.googleblog.com/"
+  desc:
+  feed:
+  author: "Google Online Security"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 01g71t0i3s
+  name: "Secrets of the Dark"
+  url: "https://secretsofthedark.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["dark-web"]
+-
+  _id: 01rqjhnju2
+  name: "WIRED Magazine"
+  url: "https://www.wired.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

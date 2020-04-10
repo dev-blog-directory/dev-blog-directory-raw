@@ -1,0 +1,22 @@
+-
+  _id: llbuj3a82e
+  name: "Swift Dev Journal"
+  url: "https://swiftdevjournal.com/"
+  desc:
+  feed: "https://swiftdevjournal.com/feed"
+  author: "By Mark Szymczyk"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ll4s7ybqud
+  name: "蛋糕仙人"
+  url: "http://gejiawen.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

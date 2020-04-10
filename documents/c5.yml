@@ -1,0 +1,88 @@
+-
+  _id: c5x8i39d31
+  name: "Jeremy Shaw"
+  url: "https://blog.jeremyshaw.co.nz/"
+  desc:
+  feed:
+  author: "Jeremy Shaw"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: c54gemcaqc
+  name: "Arkency"
+  url: "http://blog.arkency.com/"
+  desc:
+  feed:
+  author: "Arkency"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: c5wuv452u8
+  name: "Tinder"
+  url: "https://tech.gotinder.com/"
+  desc:
+  feed:
+  author: "Tinder"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: c54hlc0hb0
+  name: "WDP Technologies Pvt. Ltd."
+  url: "https://www.webdevelopmentpark.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: c5ob4zmrld
+  name: "G4 Design House"
+  url: "https://www.g4designhouse.com/our-blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: c5acqb1u4u
+  name: "Luke Plant"
+  url: "http://lukeplant.me.uk/blog/categories/python/"
+  desc:
+  feed:
+  author: "Luke Plant"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: c5omagwier
+  name: "farbox"
+  url: "https://blog.farbox.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: c5ks2y2ukf
+  name: "SilverLining’s Blog"
+  url: "https://zhum.in/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

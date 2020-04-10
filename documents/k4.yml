@@ -1,0 +1,11 @@
+-
+  _id: k44dw2lhoi
+  name: "Jared Sinclair's Blog"
+  url: "http://blog.jaredsinclair.com/"
+  desc:
+  feed: "http://blog.jaredsinclair.com/rss"
+  author: "By Jared Sinclair"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

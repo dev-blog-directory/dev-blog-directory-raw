@@ -1,0 +1,33 @@
+-
+  _id: m7c2y666r9
+  name: "RapidAPI"
+  url: "http://blog.rapidapi.com/"
+  desc:
+  feed:
+  author: "RapidAPI"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: m7co3fvp1d
+  name: "Geeky Lifestyle"
+  url: "https://geekylifestyle.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: m75tz6qztw
+  name: "IMXYLZ"
+  url: "http://imxylz.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

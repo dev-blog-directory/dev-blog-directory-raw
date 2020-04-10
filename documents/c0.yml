@@ -1,0 +1,33 @@
+-
+  _id: c05m714302
+  name: "Java67"
+  url: "https://www.java67.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: c0900ed8gm
+  name: "JSManifest | JavaScript Language and Technologies."
+  url: "https://jsmanifest.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: c0j7w6fsxl
+  name: "Perlbuzz - Andy Lester "
+  url: "https://perlbuzz.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]

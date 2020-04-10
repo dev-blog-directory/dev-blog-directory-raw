@@ -1,0 +1,33 @@
+-
+  _id: 18eeq6mg3u
+  name: "Foursquare Engineering Blog"
+  url: "https://engineering.foursquare.com/"
+  desc:
+  feed:
+  author: "Foursquare Engineering Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 18t1mtgc2f
+  name: "RoseHosting"
+  url: "https://www.rosehosting.com/blog/"
+  desc:
+  feed:
+  author: "RoseHosting"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 18zlx24a64
+  name: "wklken's blog"
+  url: "http://www.wklken.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

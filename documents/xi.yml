@@ -1,0 +1,55 @@
+-
+  _id: xilszjh94o
+  name: "Yelp Engineering Blog"
+  url: "https://engineeringblog.yelp.com/"
+  desc:
+  feed:
+  author: "Yelp Engineering Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xi47bmx823
+  name: "Trello"
+  url: "https://tech.trello.com/"
+  desc:
+  feed:
+  author: "Trello"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xi1i5aa42b
+  name: "Techyadda"
+  url: "https://techyadda.in/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: xival5fp4o
+  name: "Anto Online"
+  url: "https://anto.online/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: xiust025li
+  name: "梅花信息公司官网 - MeiHua Information"
+  url: "http://www.meihuainfo.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

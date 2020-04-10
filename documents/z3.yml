@@ -1,0 +1,22 @@
+-
+  _id: z3prpys2hv
+  name: "Vlad Mihalcea's Blog | Teaching is my way of learning"
+  url: "https://vladmihalcea.com/"
+  desc:
+  feed:
+  author: "Vlad Mihalcea"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["java"]
+-
+  _id: z36r2slg3w
+  name: "刘未鹏 | Mind Hacks | 思维改变生活"
+  url: "http://mindhacks.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

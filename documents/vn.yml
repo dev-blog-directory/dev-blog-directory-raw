@@ -1,0 +1,55 @@
+-
+  _id: vn5dly9dr0
+  name: "Learn iOS Dev Blog"
+  url: "https://learniosdevblog.com/"
+  desc:
+  feed: "https://learniosdevblog.com/feed/"
+  author: "By Peter Molnar"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: vn6x6fw1r2
+  name: "Security Intelligence » Dark Web "
+  url: "https://securityintelligence.com/tag/dark-web/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["dark-web"]
+-
+  _id: vne7y0xkap
+  name: "David Beazly"
+  url: "http://www.dabeaz.com/"
+  desc:
+  feed:
+  author: "David Beazly"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: vn2dt6shbv
+  name: "不死鸟"
+  url: "https://lai.yuweining.cn/about.html"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: vnx4d3p3m2
+  name: "TBlog"
+  url: "http://yangyingchao.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

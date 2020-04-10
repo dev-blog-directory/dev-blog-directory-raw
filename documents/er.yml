@@ -1,0 +1,33 @@
+-
+  _id: eruv3yc5lp
+  name: "Aaron Patterson"
+  url: "http://tenderlovemaking.com/"
+  desc:
+  feed:
+  author: "Aaron Patterson"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ruby"]
+-
+  _id: ervzu06fea
+  name: "大鹏志"
+  url: "http://dapengde.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: erefuatjvp
+  name: "第七星尘的博客"
+  url: "http://blog.star7th.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

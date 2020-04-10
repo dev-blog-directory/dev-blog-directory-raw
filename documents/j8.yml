@@ -1,0 +1,22 @@
+-
+  _id: j8p6k8zu0p
+  name: "Zalando"
+  url: "https://tech.zalando.com/blog/"
+  desc: "Zalando Tech Blog."
+  feed:
+  author: "Zalando"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: j8taiieiy0
+  name: "Junan博客"
+  url: "http://junan.name/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

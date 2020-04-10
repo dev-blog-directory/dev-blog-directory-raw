@@ -1,0 +1,22 @@
+-
+  _id: 2cjssgg23x
+  name: "Hashrocket"
+  url: "https://hashrocket.com/blog"
+  desc:
+  feed:
+  author: "Hashrocket"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2ckhu8vi5y
+  name: "Cloud Computing Magazine"
+  url: "http://cloud-computing.tmcnet.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]

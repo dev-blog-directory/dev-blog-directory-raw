@@ -1,0 +1,22 @@
+-
+  _id: ag9i10fc7g
+  name: "Sara Soueidan"
+  url: "https://www.sarasoueidan.com/"
+  desc:
+  feed:
+  author: "Sara Soueidan"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: agkb8hgny7
+  name: "Montana Floss Co. Blog"
+  url: "https://www.montanafloss.co/blog/?category=Technical"
+  desc:
+  feed: "https://www.montanafloss.co/blog/?format=RSS&category=Technical"
+  author: "By Montana Floss Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

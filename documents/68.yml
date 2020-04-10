@@ -1,0 +1,22 @@
+-
+  _id: 68z0mf54ng
+  name: "Petr Mitrichev's blog - Algorithm problems for dummies"
+  url: "https://petr-mitrichev.blogspot.com/"
+  desc:
+  feed:
+  author: "Petr Mitrichev"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["algorithm"]
+-
+  _id: 68ul1aknjf
+  name: "Kubi Code'Blog"
+  url: "http://kubicode.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

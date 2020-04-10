@@ -1,0 +1,22 @@
+-
+  _id: f7iko1dse8
+  name: "Jason Zurita's Blog"
+  url: "https://www.jasonzurita.com/blog/"
+  desc:
+  feed: "https://www.jasonzurita.com/feed.xml"
+  author: "By Jason Zurita"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: f7kh9dt0rt
+  name: "Batuhan Saka on Medium"
+  url: "https://medium.com/@strawb3rryx7"
+  desc:
+  feed: "https://medium.com/feed/@strawb3rryx7"
+  author: "By Batuhan Saka"
+  langs: ["tr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

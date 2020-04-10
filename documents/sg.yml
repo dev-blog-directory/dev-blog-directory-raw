@@ -1,0 +1,11 @@
+-
+  _id: sgofognw2h
+  name: "claytonsalem.com"
+  url: "https://claytonsalem.com/"
+  desc:
+  feed: "https://claytonsalem.com/feed.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

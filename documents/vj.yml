@@ -1,0 +1,33 @@
+-
+  _id: vjy0f449qh
+  name: "Mike Fogus"
+  url: "http://blog.fogus.me/"
+  desc:
+  feed:
+  author: "Mike Fogus"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: vjb632kvrh
+  name: "ColorWhistle"
+  url: "https://colorwhistle.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: vjjwwje6s8
+  name: "鸡啄米"
+  url: "http://www.jizhuomi.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

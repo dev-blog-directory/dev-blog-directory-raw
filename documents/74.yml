@@ -1,0 +1,44 @@
+-
+  _id: 742ng2vemp
+  name: "Cocoa, Coffee and Life"
+  url: "https://cocoacaffeine.wordpress.com/"
+  desc:
+  feed: "https://cocoacaffeine.wordpress.com/feed/"
+  author: "By Anindya Sengupta"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 74whdb3pdu
+  name: "Jille van der Weerd on Medium"
+  url: "https://medium.com/@JillevdWeerd"
+  desc:
+  feed: "https://medium.com/feed/@JillevdWeerd"
+  author: "By Jille van der Weerd"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 74c1bdxlz2
+  name: "DBA的罗浮宫"
+  url: "http://mdba.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 74ozqgj5by
+  name: "blog.petrzemek.net"
+  url: "http://blog.petrzemek.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["c/c++"]

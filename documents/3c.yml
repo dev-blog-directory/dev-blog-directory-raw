@@ -1,0 +1,44 @@
+-
+  _id: 3co40n83rs
+  name: "Ilya Puchka's Blog"
+  url: "http://ilya.puchka.me/"
+  desc:
+  feed: "http://ilya.puchka.me/rss/"
+  author: "By Ilya Puchka"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 3c4w40mqes
+  name: "Vitosh Academy"
+  url: "https://www.vitoshacademy.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 3c3rf8e898
+  name: "Offering Solutions | Articles about Angular and ASP.NET Core"
+  url: "https://offering.solutions/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]
+-
+  _id: 3c2hu20lg0
+  name: "温暖色调"
+  url: "http://blog.warmcolor.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

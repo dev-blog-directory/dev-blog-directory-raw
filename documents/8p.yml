@@ -1,0 +1,22 @@
+-
+  _id: 8pbqoqown3
+  name: "The Techies House™"
+  url: "https://www.thetechieshouse.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]
+-
+  _id: 8pd159j4dw
+  name: "C++博客-首页原创精华区"
+  url: "http://www.cppblog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

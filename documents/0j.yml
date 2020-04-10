@@ -1,0 +1,22 @@
+-
+  _id: 0jeemw63ko
+  name: "Mykhailo Kozik"
+  url: "http://mishadoff.com/"
+  desc:
+  feed:
+  author: "Mykhailo Kozik"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 0jk0w84qo5
+  name: "/var/log/journal"
+  url: "https://gaelfoppolo.com/"
+  desc:
+  feed: "https://gaelfoppolo.com/feed.xml"
+  author: "By Gaël Foppolo"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

@@ -1,0 +1,22 @@
+-
+  _id: y1gtg1wozj
+  name: "JSdiaries - JavaScript Diaries "
+  url: "https://www.jsdiaries.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: y11gwg0ksp
+  name: "P_Chou Tech Space"
+  url: "http://www.pchou.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

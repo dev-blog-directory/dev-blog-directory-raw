@@ -1,0 +1,66 @@
+-
+  _id: zehr8ql2pw
+  name: "Colin Cummings"
+  url: "https://colinrcummings.github.io/blog/"
+  desc:
+  feed:
+  author: "Colin Cummings"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: zet7riv89c
+  name: "We ❤ Swift"
+  url: "https://www.weheartswift.com/"
+  desc:
+  feed: "https://www.weheartswift.com/feed/"
+  author: "By Andrei Puni, Catalin Perticas and Cazoni Robert"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ze1l5chnoh
+  name: "CloudPundit"
+  url: "https://cloudpundit.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: zezw10jb1t
+  name: "Accesser"
+  url: "https://urenko.github.io/Accesser/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: zeru5dr0e7
+  name: "YouSharp"
+  url: "http://nkcoder.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: zexq5waw9p
+  name: "blog.gregbrockman.com"
+  url: "https://blog.gregbrockman.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ai"]

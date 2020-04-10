@@ -1,0 +1,11 @@
+-
+  _id: j6mow1bzug
+  name: "Peter Bengtsson"
+  url: "https://www.peterbe.com/"
+  desc:
+  feed:
+  author: "Peter Bengtsson"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

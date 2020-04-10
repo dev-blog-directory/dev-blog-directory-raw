@@ -1,0 +1,22 @@
+-
+  _id: i3857ut10l
+  name: "Codecondo"
+  url: "https://codecondo.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: i3m4t4pdai
+  name: "小毛的胡思乱想"
+  url: "http://mccxj.github.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

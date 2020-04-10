@@ -1,0 +1,33 @@
+-
+  _id: 5xj0la0tge
+  name: "Pierre Felgines's Blog"
+  url: "https://felginep.github.io/"
+  desc:
+  feed: "https://felginep.github.io/feed.xml"
+  author: "By Pierre Felgines"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 5xu11l2jjb
+  name: "Oracle Blogs | The Java Source"
+  url: "https://blogs.oracle.com/java/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: 5xgo1bkely
+  name: "evanjones.ca"
+  url: "http://www.evanjones.ca/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

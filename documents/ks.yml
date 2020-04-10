@@ -1,0 +1,22 @@
+-
+  _id: kskjvrv3co
+  name: "Codeminer42"
+  url: "https://blog.codeminer42.com/"
+  desc: "The Miners, Codeminer42 Engineering Blog."
+  feed:
+  author: "Codeminer42"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ks0xkxpufk
+  name: "Semantics3"
+  url: "https://engineering.semantics3.com/"
+  desc:
+  feed:
+  author: "Semantics3"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

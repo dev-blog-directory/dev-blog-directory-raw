@@ -1,0 +1,55 @@
+-
+  _id: ws9oedoqn0
+  name: "Paul Samuels' Blog"
+  url: "http://paul-samuels.com/"
+  desc:
+  feed: "http://paul-samuels.com/atom.xml"
+  author: "By Paul Samuels"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: wsyoex16pi
+  name: "Zach Knox's Blog"
+  url: "https://zachknox.com/"
+  desc:
+  feed: "https://zachknox.com/feed.xml"
+  author: "By Zach Knox"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: wsv0d818tc
+  name: "Fabric Blog"
+  url: "https://fabric.io/blog"
+  desc:
+  feed: "https://fabric.io/blog?format=RSS"
+  author: "By Fabric Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: wsgj4g073k
+  name: "PyCharm Blog"
+  url: "https://blog.jetbrains.com/pycharm/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: wszb6wrspw
+  name: "Skydark's blog"
+  url: "http://blog.skydark.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

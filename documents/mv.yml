@@ -1,0 +1,22 @@
+-
+  _id: mv93ehghst
+  name: "Natan Rolnik's Blog"
+  url: "https://blog.natanrolnik.me/"
+  desc:
+  feed: "https://blog.natanrolnik.me/feed.xml"
+  author: "By Natan Rolnik"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: mv5orvongb
+  name: "The Learnbatta Blog"
+  url: "https://learnbatta.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:

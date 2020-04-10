@@ -1,0 +1,66 @@
+-
+  _id: 66fd1plzbb
+  name: "Olavi Haapala"
+  url: "https://olavihaapala.fi/"
+  desc:
+  feed:
+  author: "Olavi Haapala"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 66fd8rg9wl
+  name: "Andrey Volodin on Medium"
+  url: "https://medium.com/@s1ddok/"
+  desc:
+  feed: "https://medium.com/feed/@s1ddok/"
+  author: "By Andrey Volodin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 66y69e0suu
+  name: "angular.js"
+  url: "https://www.reddit.com/r/angularjs/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]
+-
+  _id: 66uv7c22fs
+  name: "庞海礁的个人空间"
+  url: "http://www.olinone.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 663dfxwsi3
+  name: "云计算技术分享交流"
+  url: "http://www.51gocloud.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 66evlout2z
+  name: "aphyr.com/posts"
+  url: "https://aphyr.com/posts"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["clojure"]

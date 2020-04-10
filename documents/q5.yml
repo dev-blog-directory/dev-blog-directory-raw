@@ -1,0 +1,11 @@
+-
+  _id: q5knxnharm
+  name: "SwiftyJimmy Blog - Jussi Suojanen"
+  url: "http://swiftyjimmy.com/"
+  desc:
+  feed: "http://swiftyjimmy.com/feed/"
+  author: "By Jussi Suojanen"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]

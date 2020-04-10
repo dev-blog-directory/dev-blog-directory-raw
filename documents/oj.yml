@@ -1,0 +1,33 @@
+-
+  _id: ojfyjsqnfa
+  name: "Russ Cox"
+  url: "https://research.swtch.com/"
+  desc:
+  feed:
+  author: "Russ Cox"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ojyu25h2za
+  name: "Jake Yesbeck"
+  url: "http://jakeyesbeck.com/"
+  desc:
+  feed:
+  author: "Jake Yesbeck"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: oj7xibwhi3
+  name: "Programming | Reddit"
+  url: "https://www.reddit.com/r/programming/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:

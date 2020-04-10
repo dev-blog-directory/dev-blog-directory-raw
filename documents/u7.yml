@@ -1,0 +1,22 @@
+-
+  _id: u7zy6lc71u
+  name: "Dasdom Dev Blog"
+  url: "https://dasdom.github.io/"
+  desc:
+  feed: "https://dasdom.github.io/feed.xml"
+  author: "By Dominik Hauser"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: u71f7gmwc1
+  name: "Quirksmode"
+  url: "https://www.quirksmode.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,11 @@
+-
+  _id: 596blc7044
+  name: "til.hashrocket.com"
+  url: "https://til.hashrocket.com/"
+  desc:
+  feed: "https://til.hashrocket.com/rss"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: 2x564hv7um
+  name: "Kaggle"
+  url: "http://blog.kaggle.com/"
+  desc: "Kaggle Blog."
+  feed:
+  author: "Kaggle"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2xndpujw6k
+  name: "DroidCrunch"
+  url: "https://droidcrunch.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]

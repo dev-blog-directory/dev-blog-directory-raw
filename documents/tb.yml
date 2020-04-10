@@ -1,0 +1,33 @@
+-
+  _id: tb4z36ifzj
+  name: "Andreas Schuster"
+  url: "https://computer.forensikblog.de/en/"
+  desc:
+  feed:
+  author: "Andreas Schuster"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: tb3url0o2a
+  name: "Cocoaphony"
+  url: "http://robnapier.net/"
+  desc:
+  feed: "http://robnapier.net/atom.xml"
+  author: "By Rob Napier"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: tbng3wqpq9
+  name: "Hobbyist Software"
+  url: "https://blog.hobbyistsoftware.com/category/coding/apple"
+  desc:
+  feed: "https://blog.hobbyistsoftware.com/category/coding/apple/feed"
+  author: "By Rob Jonson"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

@@ -1,0 +1,55 @@
+-
+  _id: oncsjr3tfv
+  name: "Semaphore CI Engineering"
+  url: "http://semaphoreci.com/blog/tags/engineering.html"
+  desc:
+  feed:
+  author: "Semaphore CI Engineering"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: onqiug44nh
+  name: "SoleilNeon's Blog"
+  url: "http://www.soleilneon.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: onek8pw8q8
+  name: "Jqlblue's Blog"
+  url: "http://jqlblue.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: onrlyxfze4
+  name: "Just_do_挨踢"
+  url: "http://my.oschina.net/goldenshaw"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: onm3a3ofgg
+  name: "medium.com/swift-programming"
+  url: "https://medium.com/swift-programming"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["swift","ios"]

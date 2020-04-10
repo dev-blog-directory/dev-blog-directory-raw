@@ -1,0 +1,44 @@
+-
+  _id: 6u2t525qk6
+  name: "iOS Dev Weekly"
+  url: "https://iosdevweekly.com/"
+  desc:
+  feed: "https://iosdevweekly.com/issues.rss"
+  author: "By Dave Verwer"
+  langs: ["en"]
+  github:
+  categories: ["Newsletter"]
+  tags: ["ios"]
+-
+  _id: 6utiapxqvj
+  name: "tomxin"
+  url: "http://tomxin.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 6um3xtm6dq
+  name: "网站分析在中国——从基础到前沿"
+  url: "http://www.chinawebanalytics.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 6utukjunfv
+  name: "Cloga的互联网笔记"
+  url: "http://cloga.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

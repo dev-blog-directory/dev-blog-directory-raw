@@ -1,0 +1,22 @@
+-
+  _id: rz4spu9vt9
+  name: "Appnexus"
+  url: "https://techblog.appnexus.com/"
+  desc:
+  feed:
+  author: "Appnexus"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: rz9ey03tf7
+  name: "First Class JS | Modern Javascript from A to Z"
+  url: "https://firstclassjs.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]

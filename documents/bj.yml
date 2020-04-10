@@ -1,0 +1,55 @@
+-
+  _id: bj8zo9te2u
+  name: "PullReview"
+  url: "http://blog.8thcolor.com/"
+  desc:
+  feed:
+  author: "PullReview"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: bja7l90kv9
+  name: "CSS-Tricks"
+  url: "https://css-tricks.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development","css"]
+-
+  _id: bjpupfh00r
+  name: "Erik Bernhardsson"
+  url: "https://erikbern.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: bjqew4olnb
+  name: "谢权'blog"
+  url: "http://xiequan.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: bjkjplrfb5
+  name: "靛青K"
+  url: "https://blog.dianqk.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

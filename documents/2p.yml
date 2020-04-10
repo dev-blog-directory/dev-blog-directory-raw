@@ -1,0 +1,77 @@
+-
+  _id: 2pxvsf4vjt
+  name: "Leo Van"
+  url: "http://leovan.me/"
+  desc:
+  feed:
+  author: "Leo Van"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 2pwzrsju1o
+  name: "IBM developerWorks"
+  url: "https://developer.ibm.com/dwblog/"
+  desc:
+  feed:
+  author: "IBM developerWorks"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2p7d2rbna0
+  name: "TaskRabbit"
+  url: "http://tech.taskrabbit.com/"
+  desc:
+  feed:
+  author: "TaskRabbit"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2pe2b1horv
+  name: "Jonathan Snook"
+  url: "https://snook.ca/"
+  desc:
+  feed:
+  author: "Jonathan Snook"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 2pndutb7ic
+  name: "Becky Hansmeyer's Blog"
+  url: "http://beckyhansmeyer.com/"
+  desc:
+  feed: "http://beckyhansmeyer.com/category/general/feed/"
+  author: "By Becky Hansmeyer"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 2pammpzkl4
+  name: "Netguru iOS Codestories"
+  url: "https://www.netguru.co/codestories/topic/ios"
+  desc:
+  feed: "https://www.netguru.co/codestories/topic/ios/rss.xml"
+  author: "By Netguru Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: 2pp0gk82a9
+  name: "Splunk"
+  url: "http://blogs.splunk.com/tag/python/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

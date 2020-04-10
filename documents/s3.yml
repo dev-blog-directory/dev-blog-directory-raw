@@ -1,0 +1,22 @@
+-
+  _id: s3wsz7hlaw
+  name: "The Next Web"
+  url: "https://thenextweb.com/"
+  desc: "The Next Web — colloquially named TNW — has been sharing, inventing and advancing tech developments since 2006. "
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: s3eibfjeeq
+  name: "notlaura.com"
+  url: "https://notlaura.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

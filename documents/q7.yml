@@ -1,0 +1,33 @@
+-
+  _id: q7nyf00eue
+  name: "Ata Sanchez"
+  url: "https://atasanchez.com/"
+  desc:
+  feed:
+  author: "Ata Sanchez"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: q7ngxr9ihh
+  name: "DeeperTech"
+  url: "https://www.reddit.com/r/DeeperTech/"
+  desc: "A place for in-depth articles about how future technologies may be, digging deep into the technical and non-technical details."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: q710g658z5
+  name: "The Red Queen Coder"
+  url: "http://redqueencoder.com/"
+  desc:
+  feed: "http://redqueencoder.com/feed/"
+  author: "By Janie Clayton"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

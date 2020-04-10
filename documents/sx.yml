@@ -1,0 +1,22 @@
+-
+  _id: sxl9f29nun
+  name: "Geoff Hackworth on Medium"
+  url: "https://medium.com/@hacknicity"
+  desc:
+  feed: "https://medium.com/feed/@hacknicity"
+  author: "By Geoff Hackworth"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: sx0hc5brra
+  name: "lenglingx的个人页面"
+  url: "http://my.oschina.net/lenglingx"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: 17ts5hy1xb
+  name: "Tikhon Jelvis"
+  url: "http://jelv.is/blog/"
+  desc:
+  feed:
+  author: "Tikhon Jelvis"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 17k7c0zyls
+  name: "Kyle Seth Gray's Blog"
+  url: "https://kylesethgray.com/"
+  desc:
+  feed: "https://kylesethgray.com/rss/"
+  author: "By Kyle Seth Gray"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 17ro52w73o
+  name: "Den of Geek"
+  url: "https://www.denofgeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

@@ -1,0 +1,11 @@
+-
+  _id: f9onk9nbma
+  name: "Hackday"
+  url: "http://hackaday.com/"
+  desc: "Hackaday serves up Fresh Hacks Every Day from around the Internet."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:

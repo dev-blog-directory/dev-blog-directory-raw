@@ -1,0 +1,33 @@
+-
+  _id: abxez6qlyp
+  name: "Making App Pie - Adventures in Swift and iOS App Development"
+  url: "https://makeapppie.com/"
+  desc:
+  feed: "https://makeapppie.com/feed/"
+  author: "By Steve Lipton"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: abq07j443g
+  name: "python Red Hat Developer Blog"
+  url: "https://developers.redhat.com/blog/tag/python/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: abr68ve4ql
+  name: "loop in codes"
+  url: "http://codemacro.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

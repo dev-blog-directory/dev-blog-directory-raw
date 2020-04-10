@@ -1,0 +1,55 @@
+-
+  _id: yrcil9smcn
+  name: "Max Stoiber"
+  url: "https://mxstbr.com/thoughts/"
+  desc:
+  feed:
+  author: "Max Stoiber"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: yrvxhwfkso
+  name: "NSIstanbul Blog"
+  url: "https://medium.com/nsistanbul"
+  desc:
+  feed: "https://medium.com/feed/nsistanbul"
+  author: "By NSIstanbul Community"
+  langs: ["tr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: yr4gl70cph
+  name: "PrePAN - Social Reviewing for Perl Modules "
+  url: "http://prepan.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]
+-
+  _id: yrp370mb5x
+  name: "何关培谈BIM"
+  url: "http://blog.sina.com.cn/heguanpei"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: yrpyvnntw4
+  name: "mattnortham.com/blog"
+  url: "https://mattnortham.com/blog/"
+  desc:
+  feed: "https://mattnortham.com/blog/feed/"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

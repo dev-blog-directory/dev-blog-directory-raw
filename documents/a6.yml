@@ -1,0 +1,44 @@
+-
+  _id: a6zdneiu14
+  name: "Yahoo!"
+  url: "https://yahooeng.tumblr.com/"
+  desc: "Yahoo! Engineering Blog."
+  feed:
+  author: "Yahoo!"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: a6zr66g6v3
+  name: "Discover Meteor"
+  url: "https://www.discovermeteor.com/blog"
+  desc:
+  feed:
+  author: "Discover Meteor"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: a6os5zh0s0
+  name: "Filipe Saravia"
+  url: "http://blog.filipesaraiva.info/"
+  desc:
+  feed:
+  author: "Filipe Saravia"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: a6mof0tbg8
+  name: "叠搭宝箱"
+  url: "http://stackbox.org//"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

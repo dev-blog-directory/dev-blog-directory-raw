@@ -1,0 +1,33 @@
+-
+  _id: y5l28tj5rd
+  name: "Upday"
+  url: "https://upday.github.io/"
+  desc:
+  feed:
+  author: "Upday"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: y5yrnr34dx
+  name: "Low Level"
+  url: "http://ryanipete.com/blog/"
+  desc:
+  feed: "http://ryanipete.com/blog/feed.xml"
+  author: "By Ryan Peterson"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: y53i5jfe1g
+  name: "Dan Lew Codes"
+  url: "https://blog.danlew.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]

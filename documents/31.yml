@@ -1,0 +1,22 @@
+-
+  _id: 31a95qw2d3
+  name: "Spotify's Engineering and Technology Blog"
+  url: "https://labs.spotify.com/"
+  desc:
+  feed:
+  author: "Spotify's Engineering and Technology Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 31ll37cee7
+  name: "小米笔记"
+  url: "https://notemi.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

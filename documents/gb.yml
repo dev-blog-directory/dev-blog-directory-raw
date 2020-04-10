@@ -1,0 +1,22 @@
+-
+  _id: gbivxcs4gf
+  name: "Finn.no"
+  url: "http://tech.finn.no/"
+  desc:
+  feed:
+  author: "Finn.no"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: gb6bh5xkf6
+  name: "Remind"
+  url: "http://engineering.remind.com/"
+  desc:
+  feed:
+  author: "Remind"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

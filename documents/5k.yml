@@ -1,0 +1,55 @@
+-
+  _id: 5km58uhczj
+  name: "SurveyMonkey"
+  url: "https://engineering.surveymonkey.com/"
+  desc:
+  feed:
+  author: "SurveyMonkey"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 5k8ijmaf9l
+  name: "Matt Aimonetti"
+  url: "https://matt.aimonetti.net/"
+  desc:
+  feed:
+  author: "Matt Aimonetti"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5kkd5ek44x
+  name: "Cloud Pro "
+  url: "https://www.cloudpro.co.uk/news"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: 5k3elgpy9a
+  name: "Lugir"
+  url: "http://lugir.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5kfq4jleds
+  name: "Samson's Weblog"
+  url: "http://blog.samsonis.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

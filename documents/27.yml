@@ -1,0 +1,55 @@
+-
+  _id: 2785mz8wnm
+  name: "Paperless Post"
+  url: "https://www.paperlesspost.com/blog/teams/tech/"
+  desc:
+  feed:
+  author: "Paperless Post"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 27n57xjgkg
+  name: "Red"
+  url: "http://www.red-lang.org/"
+  desc:
+  feed:
+  author: "Red"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 27elwlhocv
+  name: "The Swiftness"
+  url: "https://theswiftness.com/"
+  desc:
+  feed: "https://theswiftness.com/rss/"
+  author: "By CypherPoet"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 27dhu9nf2w
+  name: "Import Python"
+  url: "http://importpython.com/newsletter/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: 27drtz1raf
+  name: "journal.dedasys.com"
+  url: "https://journal.dedasys.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

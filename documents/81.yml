@@ -1,0 +1,22 @@
+-
+  _id: 818lfd5oby
+  name: "I Am Simme"
+  url: "https://www.iamsim.me/"
+  desc:
+  feed: "https://www.iamsim.me/index.xml"
+  author: "By Simon Ljungberg"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 81yn8tfcwg
+  name: "Dave Cheney | Go"
+  url: "https://dave.cheney.net/category/golang"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["golang"]

@@ -1,0 +1,33 @@
+-
+  _id: r0kt4y9x9a
+  name: "Sergio Xalambrí"
+  url: "https://sergiodxa.com/"
+  desc:
+  feed:
+  author: "Sergio Xalambrí"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: r0xnpoiy7r
+  name: "小蝴蝶"
+  url: "http://xiaohudie.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]
+-
+  _id: r0b1uqx4h2
+  name: "扑来树袋熊"
+  url: "http://blog.sina.com.cn/auroratony"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

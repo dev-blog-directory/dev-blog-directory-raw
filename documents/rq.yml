@@ -1,0 +1,22 @@
+-
+  _id: rq6fvdf3nr
+  name: "MemSQL"
+  url: "http://blog.memsql.com/content/engineering/"
+  desc:
+  feed:
+  author: "MemSQL"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: rqspfhtp9h
+  name: "Monica Dinculescu"
+  url: "https://meowni.ca/"
+  desc:
+  feed:
+  author: "Monica Dinculescu"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

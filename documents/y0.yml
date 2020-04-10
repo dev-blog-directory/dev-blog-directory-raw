@@ -1,0 +1,22 @@
+-
+  _id: y0b268i2b8
+  name: "High Scalability"
+  url: "http://highscalability.com/"
+  desc: "Building bigger, faster, more reliable websites."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: y0z9feyv5t
+  name: "读书、思考、生活"
+  url: "http://www.zhuangbiaowei.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

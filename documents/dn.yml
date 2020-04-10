@@ -1,0 +1,33 @@
+-
+  _id: dn3ccl7mt4
+  name: "finestructure"
+  url: "https://finestructure.co/"
+  desc:
+  feed: "https://finestructure.co/blog?format=RSS"
+  author: "By Sven A. Schmidt"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: dn88dlp1o3
+  name: "Keep Writing Codes"
+  url: "http://liujiacai.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: dnzp407b9i
+  name: "herman.asia"
+  url: "http://herman.asia/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["golang"]

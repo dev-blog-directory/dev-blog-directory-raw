@@ -1,0 +1,11 @@
+-
+  _id: 3zal8d0rv0
+  name: "Ariel Elkin's Blog"
+  url: "https://arielelkin.github.io/"
+  desc:
+  feed: "https://arielelkin.github.io/feed.xml"
+  author: "By Ariel Elkin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

@@ -1,0 +1,33 @@
+-
+  _id: fyip6pt4pj
+  name: "Coolblue"
+  url: "http://devblog.coolblue.nl/"
+  desc:
+  feed:
+  author: "Coolblue"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: fy7bt7osfx
+  name: "dev cases | Java development tutorials"
+  url: "https://devcases.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: fy2rz6z410
+  name: "某学姐"
+  url: "http://wangxinghe.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

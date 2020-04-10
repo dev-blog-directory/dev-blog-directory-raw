@@ -1,0 +1,33 @@
+-
+  _id: 9ogezqfgqv
+  name: "Vienna Center for Logic and Algorithms"
+  url: "http://www.vcla.at/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["algorithm"]
+-
+  _id: 9oiuv30no2
+  name: "Coder who say Py"
+  url: "http://sayspy.blogspot.co.id/"
+  desc:
+  feed:
+  author: "Coder who say Py"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 9o3k4nwpe1
+  name: "Jason's Blog"
+  url: "http://www.jasongj.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

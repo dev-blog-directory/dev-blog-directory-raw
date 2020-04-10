@@ -1,0 +1,55 @@
+-
+  _id: sp7q7bi7mq
+  name: "Swift with Shani | Youtube"
+  url: "https://www.youtube.com/user/shan1j/videos"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: sp0uvlxlkg
+  name: "Perl Weekly Newsletter"
+  url: "http://perlweekly.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]
+-
+  _id: spbf517e9u
+  name: "Perl | Reddit"
+  url: "https://old.reddit.com/r/perl/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]
+-
+  _id: spehkgymg9
+  name: "东东’s Blog"
+  url: "https://blog.yasking.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: sp0qmqjpwi
+  name: "CHU的自留地"
+  url: "http://www.bakachu.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

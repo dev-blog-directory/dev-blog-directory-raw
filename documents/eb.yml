@@ -1,0 +1,44 @@
+-
+  _id: ebc8hpaucs
+  name: "All The Flow"
+  url: "https://blog.alltheflow.com/"
+  desc:
+  feed: "https://blog.alltheflow.com/rss/"
+  author: "By Agnes Vasarhelyi"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ebw9re4fed
+  name: "Jesse Squires' Blog"
+  url: "https://www.jessesquires.com/"
+  desc:
+  feed: "https://www.jessesquires.com/feed.xml"
+  author: "By Jesse Squires"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: eb3gixqquw
+  name: "The Java Programmer"
+  url: "https://www.thejavaprogrammer.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: ebfxj5bupo
+  name: "The Vue Point "
+  url: "https://medium.com/the-vue-point"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]

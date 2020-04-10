@@ -1,0 +1,77 @@
+-
+  _id: 85mbd95krs
+  name: "500px"
+  url: "https://developers.500px.com/"
+  desc: "500px Engineering Blog."
+  feed:
+  author: "500px"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 85gq79su27
+  name: "NSBlog - Mac OS X and Cocoa programming"
+  url: "https://www.mikeash.com/pyblog/"
+  desc:
+  feed: "https://www.mikeash.com/pyblog/rss.py"
+  author: "Mike Ash"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 853lpfokus
+  name: "Apoorva Tyagi's Blog"
+  url: "https://apoorvatyagi.com/"
+  desc:
+  feed: "https://apoorvatyagi.com/feed/"
+  author: "By Apoorva Tyagi"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 85vpc2x4s2
+  name: "Golang Programs | Golang Tutorial"
+  url: "https://www.golangprograms.com/golang"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["golang"]
+-
+  _id: 85qexvzvf0
+  name: "人人都是产品经理"
+  url: "http://www.woshipm.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 85kt59i3hz
+  name: "NingG.github.com"
+  url: "http://ningg.github.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 85lyvqosob
+  name: "techKeep"
+  url: "http://techkeep.tk/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: nx2zh31tjn
+  name: "Lucy Bain"
+  url: "https://lucybain.com/blog/"
+  desc:
+  feed:
+  author: "Lucy Bain"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: nx73e40g7h
+  name: "CleverTap"
+  url: "https://clevertap.com/blog/tag/engineering/"
+  desc:
+  feed:
+  author: "CleverTap"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: nxgjj5thzb
+  name: "TruePush"
+  url: "https://www.truepush.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

@@ -1,0 +1,22 @@
+-
+  _id: rto01ngiua
+  name: "Matthieu Cneude"
+  url: "https://web-techno.net/"
+  desc:
+  feed:
+  author: "Matthieu Cneude"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: rt3gzj6kcl
+  name: "(ChangeLog of KDr2.com)"
+  url: "http://kdr2.com/misc/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,55 @@
+-
+  _id: mfc9yb9f4w
+  name: "Engineering Blog | Facebook Code"
+  url: "https://code.facebook.com/posts"
+  desc:
+  feed:
+  author: "Engineering Blog | Facebook Code"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: mfcf751857
+  name: "New York Times"
+  url: "https://open.blogs.nytimes.com/"
+  desc:
+  feed:
+  author: "New York Times"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: mft9em84ib
+  name: "Late Night Swift"
+  url: "https://www.latenightswift.com/"
+  desc:
+  feed: "https://www.latenightswift.com/feed.xml"
+  author: "By Michael Waterfall"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: mf8bfvy8fd
+  name: "Makin’ that Instapaper"
+  url: "http://bthdonohue.com/"
+  desc:
+  feed: "http://bthdonohue.com/feed.xml"
+  author: "By Brian Donohue"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: mfpp9m73qc
+  name: "realworldtech.com"
+  url: "http://www.realworldtech.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["low-level"]

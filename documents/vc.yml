@@ -1,0 +1,33 @@
+-
+  _id: vclwygs8xi
+  name: "Hulu"
+  url: "https://tech.hulu.com/"
+  desc: "Hulu Tech Blog."
+  feed:
+  author: "Hulu"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: vceakf8s0x
+  name: "CSS探索之旅"
+  url: "http://blog.doyoe.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]
+-
+  _id: vc5ky6o0d4
+  name: "阿元"
+  url: "http://blog.sina.com.cn/xywatersky"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: rxsoselz76
+  name: "Position Absolute"
+  url: "http://www.position-absolute.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: rxhzmmui7x
+  name: "梦想天空（山边小溪）"
+  url: "http://www.cnblogs.com/lhb25/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]
+-
+  _id: rxo5z4j5eu
+  name: "Sugr | Wi-Fi speaker for streaming and sharing online music"
+  url: "http://www.sugrsugr.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

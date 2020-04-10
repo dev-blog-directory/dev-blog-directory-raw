@@ -1,0 +1,33 @@
+-
+  _id: 9zm4ikvn0n
+  name: "Realm.io"
+  url: "https://realm.io/news/"
+  desc:
+  feed:
+  author: "Realm.io"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 9zupd9b8em
+  name: "Swift with air 雨燕飞翔"
+  url: "http://airflypan.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9zv2l3yjrv
+  name: "Jason Santa Maria"
+  url: "http://jasonsantamaria.com/"
+  desc:
+  feed: "http://feeds.feedburner.com/jsm-rss"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

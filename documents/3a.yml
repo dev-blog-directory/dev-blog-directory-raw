@@ -1,0 +1,11 @@
+-
+  _id: 3af0s0rgvz
+  name: "TrozWare"
+  url: "https://troz.net/"
+  desc:
+  feed: "https://troz.net/index.xml"
+  author: "By Sarah Reichelt"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

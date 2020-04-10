@@ -1,0 +1,33 @@
+-
+  _id: hti1yov815
+  name: "Antonin Januska"
+  url: "https://antjanus.com/"
+  desc:
+  feed:
+  author: "Antonin Januska"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: htl1zcbqp7
+  name: "Daniel Lo Nigro"
+  url: "https://d.sb/blog"
+  desc:
+  feed:
+  author: "Daniel Lo Nigro"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: hthywyp7l2
+  name: "Long Luo's Develop Notes"
+  url: "http://longluo.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

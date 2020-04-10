@@ -1,0 +1,44 @@
+-
+  _id: 03kvpmoh9k
+  name: "Omar Bahareth"
+  url: "https://omar.engineer/"
+  desc:
+  feed:
+  author: "Omar Bahareth"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 03ncsdb4tj
+  name: "Walker Frederick"
+  url: "https://walkerfrederick.com/"
+  desc:
+  feed:
+  author: "Walker Frederick"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 03idfi2rxr
+  name: "zejian的博客"
+  url: "https://blog.csdn.net/javazejian"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 03ktxorvun
+  name: "duartes.org/gustavo/blog"
+  url: "http://duartes.org/gustavo/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["low-level"]

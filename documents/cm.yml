@@ -1,0 +1,44 @@
+-
+  _id: cmkc8n167a
+  name: "Limboy.me"
+  url: "http://limboy.me/"
+  desc:
+  feed: "http://feeds.feedburner.com/lzyy"
+  author: "By Limboy无网不剩"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: cm1ou1m26m
+  name: "Let's talk about Java"
+  url: "http://letstalkaboutjava.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["java"]
+-
+  _id: cmyha4lz6y
+  name: "精确编程"
+  url: "http://yi-programmer.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: cmzi8j9kdu
+  name: "Hackhp Blog"
+  url: "http://www.hackhp.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

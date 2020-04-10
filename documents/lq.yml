@@ -1,0 +1,33 @@
+-
+  _id: lqt3944p2z
+  name: "As Thick As Two Short Planks - Mark Fowler's Perl Blog"
+  url: "http://blog.twoshortplanks.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]
+-
+  _id: lq4p3ddxvj
+  name: "IG GURU » Dark Web"
+  url: "https://igguru.net/category/dark-web/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["dark-web"]
+-
+  _id: lqnsbob3au
+  name: "优设-UISDC"
+  url: "http://www.uisdc.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

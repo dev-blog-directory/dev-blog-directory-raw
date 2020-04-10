@@ -1,0 +1,33 @@
+-
+  _id: xdhgezygos
+  name: "BlackRock Engineering"
+  url: "http://rockthecode.io/"
+  desc: "BlackRock Engineering Blog."
+  feed:
+  author: "BlackRock Engineering"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: xd6ql9ues6
+  name: "Alex Rogozhnikov"
+  url: "https://arogozhnikov.github.io/"
+  desc:
+  feed:
+  author: "Alex Rogozhnikov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xd07gvwf5j
+  name: "Bit Stampede"
+  url: "https://www.bitstampede.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

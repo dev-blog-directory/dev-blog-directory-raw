@@ -1,0 +1,33 @@
+-
+  _id: nwchu1un0e
+  name: "Super Easy Apps"
+  url: "http://blog.supereasyapps.com/"
+  desc:
+  feed: "http://blog.supereasyapps.com/rss"
+  author: "By Paul Solt"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: nwmaf2snrk
+  name: "Vasudev Ram"
+  url: "https://jugad2.blogspot.co.id/search/label/python"
+  desc:
+  feed:
+  author: "Vasudev Ram"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: nwtjqdezvd
+  name: "互联网技术实践"
+  url: "http://www.minyifei.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

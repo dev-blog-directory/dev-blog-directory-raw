@@ -1,0 +1,22 @@
+-
+  _id: i1wy6l4pff
+  name: "Guardian"
+  url: "https://www.theguardian.com/info/developer-blog"
+  desc:
+  feed:
+  author: "Guardian"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: i12pvucz6d
+  name: "Ahmet Yalcinkaya on Medium"
+  url: "https://medium.com/@theswiftist"
+  desc:
+  feed: "https://medium.com/feed/@theswiftist"
+  author: "By Ahmet Yalcinkaya"
+  langs: ["tr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

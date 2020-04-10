@@ -1,0 +1,33 @@
+-
+  _id: cudwhiehpj
+  name: "Prolific Interactive"
+  url: "http://blog.prolificinteractive.com/category/development/"
+  desc:
+  feed:
+  author: "Prolific Interactive"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: cuq12j6kko
+  name: "Happy Programming Guide"
+  url: "https://www.happyprogrammingguide.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: cu9jy8vexg
+  name: "赵荣涛"
+  url: "http://www.oicto.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

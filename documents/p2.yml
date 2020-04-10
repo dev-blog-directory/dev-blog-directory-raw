@@ -1,0 +1,11 @@
+-
+  _id: p28yrcachw
+  name: "Swift Journal by Tommi Kivimäki"
+  url: "https://tommikivimaki.com/notes/"
+  desc:
+  feed: "https://tommikivimaki.com/feed.xml"
+  author: "By Tommi Kivimäki"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

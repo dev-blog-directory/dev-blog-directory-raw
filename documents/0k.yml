@@ -1,0 +1,55 @@
+-
+  _id: 0kuvgmnd0n
+  name: "Mozilla"
+  url: "https://blog.mozilla.org/"
+  desc: "The Mozilla Blog."
+  feed:
+  author: "Mozilla"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 0k1eqwvjkj
+  name: "Coletiv Studio Blog"
+  url: "https://coletiv.com/blog/"
+  desc:
+  feed: "https://coletiv.com/rss.xml"
+  author: "By Coletiv Studio"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: 0kki0mafc6
+  name: "Geek Universal"
+  url: "https://www.geekuniversal.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: 0k7byrzcea
+  name: "Think in The Machine"
+  url: "http://yaojingguo.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 0kd2fs04ci
+  name: "Scott Helme"
+  url: "https://scotthelme.co.uk/"
+  desc:
+  feed:
+  author: "Scott Helme"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

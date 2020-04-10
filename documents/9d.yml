@@ -1,0 +1,33 @@
+-
+  _id: 9d3brqm0vh
+  name: "Lee-Jane的个人页面"
+  url: "http://my.oschina.net/swuly302"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9dgffcwuim
+  name: "Edward Desire"
+  url: "http://www.edwardesire.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9dz25pnqgt
+  name: "davidad.github.io"
+  url: "http://davidad.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["low-level"]

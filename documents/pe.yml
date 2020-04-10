@@ -1,0 +1,44 @@
+-
+  _id: pevw91aykh
+  name: "Martin Fowler"
+  url: "https://martinfowler.com/"
+  desc:
+  feed:
+  author: "Martin Fowler"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: pek1iz60c3
+  name: "Cloudscaling"
+  url: "https://cloudscaling.com/blog/"
+  desc: "Cloudscaling Blog."
+  feed:
+  author: "Cloudscaling"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: pe8r8x53xb
+  name: "Blog · Tanky Woo"
+  url: "http://blog.tankywoo.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: pehfwux3os
+  name: "xiaofancn"
+  url: "http://xiaofancn.iteye.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

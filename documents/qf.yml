@@ -1,0 +1,33 @@
+-
+  _id: qfgpua60pb
+  name: "EngineYard"
+  url: "https://blog.engineyard.com/"
+  desc: "Engine Yard Blog."
+  feed:
+  author: "EngineYard"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: qfoac40nj5
+  name: "Evan Jones"
+  url: "http://www.evanjones.ca/chronological.html"
+  desc:
+  feed:
+  author: "Evan Jones"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: qfyi4pqd40
+  name: "The Big Fat Geek"
+  url: "https://kidakaka.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

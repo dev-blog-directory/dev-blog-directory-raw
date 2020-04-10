@@ -1,0 +1,33 @@
+-
+  _id: bum4qvmf2m
+  name: "Nate Berkopec"
+  url: "http://www.nateberkopec.com/"
+  desc:
+  feed:
+  author: "Nate Berkopec"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: bu1fg0ahjg
+  name: "时鹏亮的blog"
+  url: "https://pugs.blogs.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: buk11h6ep5
+  name: "麦芒实验室"
+  url: "http://www.awnlab.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

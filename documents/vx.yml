@@ -1,0 +1,44 @@
+-
+  _id: vxy1rgkolh
+  name: "James Long"
+  url: "http://jlongster.com/archive"
+  desc:
+  feed:
+  author: "James Long"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: vx3aedlrlk
+  name: "Mike Swanson's Blog"
+  url: "http://blog.mikeswanson.com/"
+  desc:
+  feed: "http://blog.mikeswanson.com/rss"
+  author: "By Mike Swanson"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: vxml9ua48m
+  name: "The Diversity Blog"
+  url: "http://www.diversity.net.nz/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: vxm5k762tp
+  name: "Alex Grönholm"
+  url: "http://alextechrants.blogspot.co.id/search/label/python"
+  desc:
+  feed:
+  author: "Alex Grönholm"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

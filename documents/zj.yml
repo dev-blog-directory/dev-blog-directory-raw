@@ -1,0 +1,22 @@
+-
+  _id: zj01mo9pf9
+  name: "O'Reilly Ideas"
+  url: "https://www.oreilly.com/ideas"
+  desc: "Ideas : What's on our radar."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: zjwstkb0z8
+  name: "Math ∩ Programming"
+  url: "https://jeremykun.com/"
+  desc:
+  feed:
+  author: "Jeremy Kun"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

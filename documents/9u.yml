@@ -1,0 +1,11 @@
+-
+  _id: 9u36nrujos
+  name: "BrightDigit"
+  url: "https://brightdigit.com/blog/"
+  desc:
+  feed: "https://brightdigit.com/blog/feed/"
+  author: "By BrightDigit Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

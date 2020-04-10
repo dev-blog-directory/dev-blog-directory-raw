@@ -1,0 +1,22 @@
+-
+  _id: jfeol95jgd
+  name: "Songkick"
+  url: "https://devblog.songkick.com/"
+  desc: "Songkick Technology Blog."
+  feed:
+  author: "Songkick"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: jfcd63qq5b
+  name: "A Pius Geek"
+  url: "http://www.declanfinn.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

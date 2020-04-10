@@ -1,0 +1,22 @@
+-
+  _id: qnfxtm9xwj
+  name: "OpenTable UK"
+  url: "http://tech.opentable.co.uk/"
+  desc:
+  feed:
+  author: "OpenTable UK"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: qnr4yxe0j9
+  name: "Finally"
+  url: "https://pjax.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

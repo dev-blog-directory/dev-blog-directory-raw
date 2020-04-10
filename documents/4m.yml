@@ -1,0 +1,33 @@
+-
+  _id: 4mzdffshmn
+  name: "iJoshSmith"
+  url: "https://ijoshsmith.com/"
+  desc:
+  feed: "https://ijoshsmith.com/feed/"
+  author: "By Josh Smith"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 4m25p7wk39
+  name: "Marc-André Lemburg"
+  url: "http://www.malemburg.com/"
+  desc:
+  feed:
+  author: "Marc-André Lemburg"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 4mmtrrijr4
+  name: "VAG"
+  url: "http://www.cad.zju.edu.cn/home/vagblog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

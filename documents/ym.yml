@@ -1,0 +1,55 @@
+-
+  _id: ymauln87ka
+  name: "The Geek"
+  url: "http://thegeekorthant.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: ymxv9iy64p
+  name: "Baby is coming......"
+  url: "http://www.liukaka.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ym9v3zq1kk
+  name: "赵刚博士的BLOG"
+  url: "http://blog.sina.com.cn/blogbot"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ymws1j34wf
+  name: "Hegel2011的博客"
+  url: "http://octopresszhangyu.herokuapp.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ymkvrjv8v9
+  name: "小径分岔的花园"
+  url: "http://khotyn.github.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

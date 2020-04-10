@@ -1,0 +1,11 @@
+-
+  _id: yf98ug06ek
+  name: "FullyTyped"
+  url: "http://fullytyped.com/"
+  desc:
+  feed: "http://fullytyped.com/index.xml"
+  author: "By Colin Reisterer"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

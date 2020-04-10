@@ -1,0 +1,22 @@
+-
+  _id: yswz1cscdz
+  name: "Zendesk(old)"
+  url: "https://developer.zendesk.com/blog"
+  desc:
+  feed:
+  author: "Zendesk(old)"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ys6ra7thq0
+  name: "carpeaqua"
+  url: "https://carpeaqua.com/"
+  desc:
+  feed: "https://carpeaqua.com/rss/"
+  author: "By Justin Williams"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

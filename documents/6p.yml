@@ -1,0 +1,22 @@
+-
+  _id: 6pqooxkcx6
+  name: "Alex Gurin's Blog"
+  url: "https://medium.com/@dn070287gav"
+  desc:
+  feed: "https://medium.com/feed/@dn070287gav"
+  author: "By Alex Gurin"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 6p74s6r73n
+  name: "依云's Blog"
+  url: "http://lilydjwg.is-programmer.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

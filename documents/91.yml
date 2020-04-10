@@ -1,0 +1,55 @@
+-
+  _id: 91hri8f0c0
+  name: "Pluralsight"
+  url: "https://www.pluralsight.com/guides"
+  desc:
+  feed:
+  author: "Pluralsight"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 91zdl2t5u4
+  name: "Dan Thorpe's Blog"
+  url: "http://danthorpe.me/"
+  desc:
+  feed: "http://danthorpe.me/rss.xml"
+  author: "By Daniel Thorpe"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 91i6rrtc9s
+  name: "The NodeSource Blog"
+  url: "https://nodesource.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["javascript"]
+-
+  _id: 91ckdrtshm
+  name: "Talkin' Cloud"
+  url: "http://talkincloud.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: 91019f5cgu
+  name: "iamdeveloper.com"
+  url: "https://iamdeveloper.com/"
+  desc:
+  feed: "https://www.iamdeveloper.com/rss.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

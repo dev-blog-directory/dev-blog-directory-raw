@@ -1,0 +1,22 @@
+-
+  _id: ra6xyhrner
+  name: "ZeeMee"
+  url: "https://zeemee.engineering/"
+  desc:
+  feed:
+  author: "ZeeMee"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: raemmrfq1i
+  name: "Swizec Teller - A geek with a hat"
+  url: "https://swizec.com/blog/"
+  desc:
+  feed:
+  author: "Swizec Teller"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["web-development"]

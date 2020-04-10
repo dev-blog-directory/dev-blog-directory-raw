@@ -1,0 +1,22 @@
+-
+  _id: tmj4puyq5f
+  name: "Binary Studio"
+  url: "https://binary-studio.com/blog/"
+  desc:
+  feed:
+  author: "Binary Studio"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: tmmqhhmepn
+  name: "KayleZhuang"
+  url: "http://kayle.win/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

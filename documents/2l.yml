@@ -1,0 +1,22 @@
+-
+  _id: 2l1mxdivm9
+  name: "Imaginea"
+  url: "https://blog.imaginea.com/"
+  desc:
+  feed:
+  author: "Imaginea"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 2l13ss2e1r
+  name: "Race Condition"
+  url: "http://racecondition.software/"
+  desc:
+  feed: "http://racecondition.software/feed.xml"
+  author: "By Josh Adams"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

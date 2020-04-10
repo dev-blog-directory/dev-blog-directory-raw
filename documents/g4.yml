@@ -1,0 +1,11 @@
+-
+  _id: g4viiocg4l
+  name: "Ole Begemann's Blog"
+  url: "https://oleb.net/blog/"
+  desc:
+  feed: "http://oleb.net/blog/atom.xml"
+  author: "By Ole Begemann"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]

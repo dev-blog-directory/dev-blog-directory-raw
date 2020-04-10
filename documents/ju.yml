@@ -1,0 +1,33 @@
+-
+  _id: juq1bshtl0
+  name: "Eduards Sizovs"
+  url: "https://sizovs.net/"
+  desc:
+  feed:
+  author: "Eduards Sizovs"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ju3brljwhu
+  name: "Affinity"
+  url: "https://build.affinity.co/"
+  desc: "Affinity Engineering Blog."
+  feed:
+  author: "Affinity"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ju9f5owkzn
+  name: "极光推送博客"
+  url: "http://blog.jpush.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

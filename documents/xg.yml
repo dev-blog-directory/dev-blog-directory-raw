@@ -1,0 +1,33 @@
+-
+  _id: xghajs2b9s
+  name: "ignore the code"
+  url: "http://ignorethecode.net/"
+  desc:
+  feed: "http://ignorethecode.net/blog/rss/"
+  author: "By Lukas Mathis"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: xg04fzegay
+  name: "ForeverGeek"
+  url: "https://www.forevergeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: xg8uhek9wu
+  name: "thebaldgeek"
+  url: "http://thebaldgeek.net/index.php/home/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

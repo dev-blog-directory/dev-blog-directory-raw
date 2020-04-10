@@ -1,0 +1,22 @@
+-
+  _id: ktj9g9h1xn
+  name: "Insisive Cloud Insights"
+  url: "http://www.blog.insisiv.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: ktqmjjd3qx
+  name: "M0rk’s Bolg"
+  url: "https://kevien.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

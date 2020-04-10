@@ -1,0 +1,55 @@
+-
+  _id: 50jcuz7q8w
+  name: "Codementor"
+  url: "https://www.codementor.io/tutorial"
+  desc:
+  feed:
+  author: "Codementor"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 50mnvx78ag
+  name: "Dave DeLong's Blog"
+  url: "https://davedelong.com/"
+  desc:
+  feed: "https://davedelong.com/feed.xml"
+  author: "By Dave DeLong"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 5005tlzn3s
+  name: "Orange Juice Liberation Front"
+  url: "https://orangejuiceliberationfront.com/"
+  desc:
+  feed: "https://orangejuiceliberationfront.com/feed.xml"
+  author: "By Uli Kusterer"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 50o4w6728r
+  name: "Chengwei’s Words"
+  url: "http://www.chengweiyang.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 50bgp21r3w
+  name: "三叔带你看世界"
+  url: "https://www.ccava.cc/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

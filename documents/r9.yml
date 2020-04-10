@@ -1,0 +1,22 @@
+-
+  _id: r91h99uh0g
+  name: "Codrops | Useful resources and inspiration for creative minds"
+  url: "https://tympanus.net/codrops/"
+  desc:
+  feed:
+  author: "Codrops"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["web-development"]
+-
+  _id: r97mmol49k
+  name: "codingwithempathy.com"
+  url: "http://codingwithempathy.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

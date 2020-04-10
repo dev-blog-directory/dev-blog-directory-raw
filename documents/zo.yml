@@ -1,0 +1,88 @@
+-
+  _id: zokimhyj8b
+  name: "Thomas Kekeisen"
+  url: "https://thomaskekeisen.de/en/blog/archive/"
+  desc:
+  feed:
+  author: "Thomas Kekeisen"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: zov9acljrg
+  name: "Blogfoster"
+  url: "http://engineering.blogfoster.com/"
+  desc:
+  feed:
+  author: "Blogfoster"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: zo344trkmp
+  name: "AndroidDevTools"
+  url: "http://www.androiddevtools.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: zobn1u1too
+  name: "AppMakers.Dev"
+  url: "https://appmakers.dev/category/ios/"
+  desc:
+  feed: "https://appmakers.dev/category/ios/feed/"
+  author: "By Alexander Adelmaer"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: zoqu2m6qde
+  name: "Inessential"
+  url: "http://inessential.com/"
+  desc:
+  feed: "http://inessential.com/xml/rss.xml"
+  author: "By Brent Simmons"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: zo7jy3h4ob
+  name: "CatsWhoCode"
+  url: "https://catswhocode.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: zofxp76h1a
+  name: "ANBOB"
+  url: "http://www.anbob.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: zofiumaq7s
+  name: "I'm LCQ"
+  url: "http://www.longchaoqun.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

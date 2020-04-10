@@ -1,0 +1,55 @@
+-
+  _id: e90u80pfe0
+  name: "Lorna Jane"
+  url: "https://lornajane.net/"
+  desc:
+  feed:
+  author: "Lorna Jane"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: e9fvaayvli
+  name: "Pedro Piñera's Blog"
+  url: "http://ppinera.es/"
+  desc:
+  feed: "http://ppinera.es/feed.xml"
+  author: "By Pedro Piñera"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: e9k7oeadpu
+  name: "Planet Python"
+  url: "https://planetpython.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: e99lt227tj
+  name: "快乐编程"
+  url: "http://www.01happy.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: e91rtjswqb
+  name: "统计之都"
+  url: "http://cos.name/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

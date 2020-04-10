@@ -1,0 +1,33 @@
+-
+  _id: 1dkxq60y7j
+  name: "OpenTable"
+  url: "http://tech.opentable.com/"
+  desc:
+  feed:
+  author: "OpenTable"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 1dbv6lzznl
+  name: "Css Author » Web / UI Design Resource"
+  url: "https://cssauthor.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: 1d7d9yrinw
+  name: "疯狂的蚂蚁"
+  url: "http://www.crazyant.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

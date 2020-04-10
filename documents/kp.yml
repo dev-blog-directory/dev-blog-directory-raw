@@ -1,0 +1,33 @@
+-
+  _id: kpdvraiuaf
+  name: "MultiColourPixel"
+  url: "https://multicolourpixel.com/"
+  desc:
+  feed: "https://multicolourpixel.com/index.xml"
+  author: "By Eddy Gammon"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: kpd5z6tiur
+  name: "程序猿DD | 博客"
+  url: "http://blog.didispace.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: kpsmkur20o
+  name: "brucelawson.co.uk"
+  url: "https://www.brucelawson.co.uk/"
+  desc:
+  feed: "https://www.brucelawson.co.uk/feed/"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

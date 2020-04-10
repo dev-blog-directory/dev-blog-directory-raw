@@ -1,0 +1,22 @@
+-
+  _id: x44ul6wjtw
+  name: "Mark Erikson"
+  url: "https://blog.isquaredsoftware.com/"
+  desc:
+  feed:
+  author: "Mark Erikson"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: x4m7q3svp9
+  name: "Paweł Chudzik"
+  url: "https://blog.pchudzik.com/"
+  desc:
+  feed:
+  author: "Paweł Chudzik"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

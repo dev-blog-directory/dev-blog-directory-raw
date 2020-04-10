@@ -1,0 +1,33 @@
+-
+  _id: jmpff9qpbp
+  name: "Postman"
+  url: "https://medium.com/better-practices"
+  desc:
+  feed:
+  author: "Postman"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: jmyvg5yp9n
+  name: "Motiv Engineering Blog"
+  url: "https://medium.com/motiv-engineering-blog"
+  desc:
+  feed: "https://medium.com/feed/motiv-engineering-blog"
+  author: "By Motiv Engineering Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: jmibya7ien
+  name: "Wiliam Blog"
+  url: "https://www.wiliam.com.au/wiliam-blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

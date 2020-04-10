@@ -25,6 +25,7 @@ Blogs Information comes from [Issues](https://github.com/dailyrandomphoto/dev-bl
 ## Related
 
 - [dev-blog-directory](https://github.com/dev-blog-directory/dev-blog-directory) - A Developer Blog Directory. Auto generated documents from [raw data](https://github.com/dailyrandomphoto/dev-blog-directory-raw).
+- [dev-blog-directory-readme-generator](https://github.com/dev-blog-directory/dev-blog-directory-readme-generator) - A Generator to generate README of [Developer Blog Directory](https://github.com/dev-blog-directory/dev-blog-directory).
 - [dev-blog-directory-save-yaml-cli](https://github.com/dailyrandomphoto/dev-blog-directory-save-yaml-cli) - A CLI for saves the YAML format blog list to `documents/*.yml`.
 - [dev-blog-directory-save-json-cli](https://github.com/dailyrandomphoto/dev-blog-directory-save-json-cli) - A CLI for saves the JSON format blog list to `documents/*.yml`.
 

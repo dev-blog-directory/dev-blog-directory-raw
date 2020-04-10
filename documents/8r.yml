@@ -1,0 +1,33 @@
+-
+  _id: 8rhb70tma6
+  name: "Patrick Balestra's Blog"
+  url: "http://patrickbalestra.com/blog/"
+  desc:
+  feed: "http://patrickbalestra.com/feed.xml"
+  author: "By Patrick Balestra"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 8r2vl230t6
+  name: "惜分飞"
+  url: "http://www.xifenfei.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 8rnvd0h2xf
+  name: "MonkeyTest的博客"
+  url: "http://blog.sina.com.cn/u/1881320895"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

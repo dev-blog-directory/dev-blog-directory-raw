@@ -1,0 +1,44 @@
+-
+  _id: c68mqe0v5w
+  name: "DataGeek.blog"
+  url: "https://datageek.blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: c6ukkf744o
+  name: "木木博客，网络营销实践者"
+  url: "http://blog.sina.com.cn/mumuhouzi"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: c6kzire7z5
+  name: "老鱼的博客"
+  url: "http://hgoldfish.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: c6o97sbz5b
+  name: "程序人生"
+  url: "http://www.programlife.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

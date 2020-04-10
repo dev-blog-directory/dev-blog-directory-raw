@@ -1,0 +1,33 @@
+-
+  _id: se6llq3gk8
+  name: "CodeWithMike"
+  url: "https://www.codewithmike.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: se2ex2kfou
+  name: "Learn Python"
+  url: "https://tushargahora.blogspot.com/?m=1"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: sem3dtff71
+  name: "Secret Weblog"
+  url: "https://blog.startifact.com/categories/python.html"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

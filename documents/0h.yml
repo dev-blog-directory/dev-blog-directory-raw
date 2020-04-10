@@ -1,0 +1,22 @@
+-
+  _id: 0hz9tjd336
+  name: "Marisi Brothers"
+  url: "http://www.marisibrothers.com/"
+  desc:
+  feed: "http://www.marisibrothers.com/feeds/posts/default"
+  author: "By Luciano Marisi and Nahuel Marisi"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 0hn012hv19
+  name: "Coder资源网"
+  url: "http://info.9iphp.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

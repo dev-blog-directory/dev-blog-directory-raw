@@ -1,0 +1,22 @@
+-
+  _id: ouiz4k9al0
+  name: "Dan Abramov"
+  url: "https://overreacted.io/"
+  desc:
+  feed:
+  author: "Dan Abramov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ou4t1wsub7
+  name: "iOS Developer Tips"
+  url: "http://iosdevelopertips.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios"]

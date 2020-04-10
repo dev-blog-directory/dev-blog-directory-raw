@@ -1,0 +1,22 @@
+-
+  _id: 62b8ttq5en
+  name: "Jonathan Tarud - Tech. Business. Design."
+  url: "https://www.jonathant.com/"
+  desc:
+  feed: "http://feed.jonathant.com/"
+  author: "By Jonathan Tarud"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 62sz0z2lj5
+  name: "nonozone.net"
+  url: "http://www.nonozone.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

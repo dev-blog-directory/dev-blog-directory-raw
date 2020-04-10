@@ -1,0 +1,33 @@
+-
+  _id: 61icpa6u91
+  name: "Vena Solutions"
+  url: "https://engineering.vena.io/"
+  desc:
+  feed:
+  author: "Vena Solutions"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 619ibae31o
+  name: "ImportNew"
+  url: "http://www.importnew.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 61pf2wysf0
+  name: "hailongqiu的个人技术博客"
+  url: "http://my.oschina.net/hailongqiu"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

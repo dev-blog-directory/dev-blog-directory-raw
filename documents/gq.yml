@@ -1,0 +1,55 @@
+-
+  _id: gqgnf8u46k
+  name: "IMVU"
+  url: "https://engineering.imvu.com/"
+  desc:
+  feed:
+  author: "IMVU"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: gqpb45x0ru
+  name: "Fang"
+  url: "https://fqk.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: gq0lvvco60
+  name: "大爱"
+  url: "http://lovesoo.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: gqqt0aq8jy
+  name: "linux菜园子"
+  url: "http://lisux.me/lishuai"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: gqgjodk34l
+  name: "Sezina"
+  url: "http://sezina.github.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

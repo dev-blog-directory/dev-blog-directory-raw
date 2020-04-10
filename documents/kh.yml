@@ -1,0 +1,33 @@
+-
+  _id: khds8zlam3
+  name: "Writing on Tablets"
+  url: "https://www.writingontablets.com/"
+  desc:
+  feed: "https://writingontablets.com/atom.xml"
+  author: "By John Pollard"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: khp7e4x1n8
+  name: "Midnight Programmer"
+  url: "https://midnightprogrammer.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: kh0qpssz8w
+  name: "Uncle Chen"
+  url: "http://unclechen.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

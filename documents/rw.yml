@@ -1,0 +1,22 @@
+-
+  _id: rwb7p0u0vf
+  name: "ZhgChgLi on Medium"
+  url: "https://medium.com/@zhgchgli"
+  desc:
+  feed: "https://medium.com/feed/@zhgchgli"
+  author: "By ZhongCheng Li"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: rwshdamjhb
+  name: "Python Developer Guide"
+  url: "http://cpython-devguide.readthedocs.io/en/github/index.html"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

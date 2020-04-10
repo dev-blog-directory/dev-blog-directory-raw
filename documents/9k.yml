@@ -1,0 +1,22 @@
+-
+  _id: 9ka43nrj5t
+  name: "Wonga Technology"
+  url: "http://tech.wonga.com/"
+  desc:
+  feed:
+  author: "Wonga Technology"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 9k7lkbiifu
+  name: "Lonely Nights"
+  url: "http://haoxiang.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

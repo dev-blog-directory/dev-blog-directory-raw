@@ -1,0 +1,22 @@
+-
+  _id: w84gacv217
+  name: "玉令天下的Blog"
+  url: "http://yulingtianxia.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: w8fzjc384i
+  name: "Tech Otaku"
+  url: "http://www.techotaku.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

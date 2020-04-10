@@ -1,0 +1,22 @@
+-
+  _id: fkp6n11aqp
+  name: "Chen Hui Jing"
+  url: "https://www.chenhuijing.com/blog/"
+  desc:
+  feed:
+  author: "Chen Hui Jing"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fk6qzxs7c8
+  name: "Jameson Quave's Blog"
+  url: "http://jamesonquave.com/blog/"
+  desc:
+  feed: "http://jamesonquave.com/blog/feed/"
+  author: "By Jameson Quave"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

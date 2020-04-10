@@ -1,0 +1,44 @@
+-
+  _id: c7hkqqxu5c
+  name: "9GAG"
+  url: "https://engineering.9gag.com/"
+  desc: "9GAG Engineering Blog."
+  feed:
+  author: "9GAG"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: c7fl4aos6n
+  name: "Elegant Code"
+  url: "http://elegantcode.com/"
+  desc:
+  feed:
+  author: "Elegant Code"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: c7inlk9m2i
+  name: "码农周刊"
+  url: "http://weekly.manong.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: c77jqwvjb2
+  name: "Geeks on Tour Blog"
+  url: "https://geeksontour.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

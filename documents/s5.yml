@@ -1,0 +1,33 @@
+-
+  _id: s5thnr5ep6
+  name: "Philipp Spiess"
+  url: "https://philippspiess.com/"
+  desc:
+  feed:
+  author: "Philipp Spiess"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: s5g6w5y0in
+  name: "Syntax Definition"
+  url: "http://www.syntaxdefinition.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: s5pay0o2x4
+  name: "Android-er"
+  url: "http://android-er.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]

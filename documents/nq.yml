@@ -1,0 +1,44 @@
+-
+  _id: nqopr8w4t1
+  name: "MicroPyramid"
+  url: "https://micropyramid.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]
+-
+  _id: nqwl5jxm0f
+  name: "Linux.中国 - 开源中文社区"
+  url: "https://linux.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: nq4nbos751
+  name: "LeoXu的个人页面"
+  url: "http://my.oschina.net/xuleo"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: nq5l9oblke
+  name: "聂同学"
+  url: "http://nielinjie.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

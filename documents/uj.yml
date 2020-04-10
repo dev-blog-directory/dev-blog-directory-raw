@@ -1,0 +1,66 @@
+-
+  _id: ujbbi91ode
+  name: "Simon Gilbert"
+  url: "https://www.simongilbert.net/"
+  desc:
+  feed:
+  author: "Simon Gilbert"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ujs5eyfqpz
+  name: "Trivago"
+  url: "http://tech.trivago.com/"
+  desc:
+  feed:
+  author: "Trivago"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ujbdzfjn5w
+  name: "Russ Bishop's Blog"
+  url: "http://www.russbishop.net/"
+  desc:
+  feed: "http://www.russbishop.net/feed"
+  author: "By Russ Bishop"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: ujz4ajwlm2
+  name: "objc.io"
+  url: "https://www.objc.io/blog/"
+  desc:
+  feed: "https://www.objc.io/feed.xml"
+  author: "By objc.io"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: uj9hwpq9xp
+  name: "SHAPE Code Blog"
+  url: "http://codeblog.shape.dk/"
+  desc:
+  feed: "http://codeblog.shape.dk/atom.xml"
+  author: "By SHAPE Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: ujjwvaih98
+  name: "amlun"
+  url: "http://blog.amlun.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

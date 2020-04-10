@@ -1,0 +1,33 @@
+-
+  _id: ur04z2a2z9
+  name: "bbsmax"
+  url: "https://www.bbsmax.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ur73iwpha2
+  name: "何苦呢"
+  url: "http://nowayhere.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ure7sd8wi6
+  name: "赵阳武的技术博客"
+  url: "http://blog.sina.com.cn/u/2088275181"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

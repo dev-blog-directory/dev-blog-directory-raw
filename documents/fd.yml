@@ -1,0 +1,33 @@
+-
+  _id: fdx381sy41
+  name: "Rob Allen"
+  url: "https://akrabat.com/"
+  desc:
+  feed:
+  author: "Rob Allen"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fd6tu3xpii
+  name: "ProgrammableWeb"
+  url: "https://www.programmableweb.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: fdrok6cvdo
+  name: "卉莜阁&俊"
+  url: "http://blog.sina.com.cn/liujunhomepage"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

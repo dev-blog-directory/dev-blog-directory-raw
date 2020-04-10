@@ -1,0 +1,33 @@
+-
+  _id: 21sfjsjrls
+  name: "Tutsplus Code"
+  url: "https://code.tutsplus.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: 21pdh8d88n
+  name: "萱苏小筑"
+  url: "http://liangs.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 21qotc88ci
+  name: "OurMySQL"
+  url: "http://ourmysql.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

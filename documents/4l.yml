@@ -1,0 +1,22 @@
+-
+  _id: 4ls58e5x7q
+  name: "Robert Elder Software"
+  url: "http://blog.robertelder.org/"
+  desc:
+  feed:
+  author: "Robert Elder Software"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 4lmsrz1fd2
+  name: "Drew DeVault"
+  url: "https://drewdevault.com/"
+  desc:
+  feed:
+  author: "Drew DeVault"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

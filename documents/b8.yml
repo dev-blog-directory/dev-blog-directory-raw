@@ -1,0 +1,33 @@
+-
+  _id: b8cyq8vsu9
+  name: "Next Big Future"
+  url: "http://www.nextbigfuture.com/"
+  desc: "Coverage of Disruptive Science and Technology."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: b8adcsi6in
+  name: "Codemancers"
+  url: "https://crypt.codemancers.com/"
+  desc:
+  feed:
+  author: "Codemancers"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: b8b2zokebd
+  name: "Angular Blog "
+  url: "https://blog.angular.io/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]

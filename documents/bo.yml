@@ -1,0 +1,33 @@
+-
+  _id: boo4i0vg84
+  name: "Elastic"
+  url: "https://www.elastic.co/blog/category/engineering"
+  desc:
+  feed:
+  author: "Elastic"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: bofl2p5jmi
+  name: "Laterooms"
+  url: "http://engineering.laterooms.com/"
+  desc:
+  feed:
+  author: "Laterooms"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: bohjphl22b
+  name: "ShareHub"
+  url: "http://blog.xiaohansong.com//"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

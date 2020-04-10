@@ -1,0 +1,22 @@
+-
+  _id: ifnnse4ns1
+  name: "Jesal Gadhia"
+  url: "https://jes.al/"
+  desc:
+  feed:
+  author: "Jesal Gadhia"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ifoetsm7me
+  name: "50linesofco.de"
+  url: "http://50linesofco.de/"
+  desc:
+  feed: "http://50linesofco.de/rss.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

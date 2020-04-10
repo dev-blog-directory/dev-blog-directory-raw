@@ -1,0 +1,55 @@
+-
+  _id: rk0s6skv3d
+  name: "Troy Hunt"
+  url: "https://www.troyhunt.com/"
+  desc: "A blog by Troy Hunt."
+  feed:
+  author: "Troy Hunt"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: rk8qrv6rgj
+  name: "Flight School"
+  url: "https://flight.school/"
+  desc:
+  feed: "https://flight.school/feed.xml"
+  author: "By Mattt"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: rk39mhtl47
+  name: "ProDeveloperTutorial.com"
+  url: "https://www.prodevelopertutorial.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: rkhokop2lf
+  name: "exceptionnotfound.net"
+  url: "https://www.exceptionnotfound.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: [".net","c#"]
+-
+  _id: rkvnopawhr
+  name: "blog.frankmtaylor.com"
+  url: "https://blog.frankmtaylor.com/"
+  desc:
+  feed: "https://blog.frankmtaylor.com/feed"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

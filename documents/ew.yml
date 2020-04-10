@@ -1,0 +1,22 @@
+-
+  _id: ewijvts1v1
+  name: "Strava"
+  url: "https://medium.com/strava-engineering/"
+  desc:
+  feed:
+  author: "Strava"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: ewzdxhd3tb
+  name: "Reverland的行知阁"
+  url: "http://reverland.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,22 @@
+-
+  _id: bv5sfvk7r5
+  name: "Denys Zhadanov on Medium"
+  url: "https://denzhadanov.com/"
+  desc:
+  feed: "https://denzhadanov.com/feed/"
+  author: "By Denys Zhadanov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: bv3ypmsro8
+  name: "Julian Schiavo's Blog"
+  url: "https://schiavo.me/"
+  desc:
+  feed: "https://schiavo.me/feed.xml"
+  author: "By Julian Schiavo"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

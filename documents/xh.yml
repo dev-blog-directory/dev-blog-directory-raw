@@ -1,0 +1,22 @@
+-
+  _id: xhpq2nsz6g
+  name: "AnySuggestion"
+  url: "https://medium.com/anysuggestion"
+  desc:
+  feed: "https://medium.com/feed/anysuggestion"
+  author: "By Oleg Dreyman"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: xhi94kundy
+  name: "不懂真人"
+  url: "http://peiqiang.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

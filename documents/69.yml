@@ -1,0 +1,33 @@
+-
+  _id: 69iq235rbq
+  name: "Marshall Bowers"
+  url: "https://maxdeviant.com/"
+  desc:
+  feed:
+  author: "Marshall Bowers"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 69ngajghqm
+  name: "Federico Tomassetti"
+  url: "https://tomassetti.me/"
+  desc:
+  feed:
+  author: "Federico Tomassetti"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 69qokikn12
+  name: "天地一MADAO的个人空间"
+  url: "http://my.oschina.net/tdONEmadao"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

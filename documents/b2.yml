@@ -1,0 +1,11 @@
+-
+  _id: b2bf9g6r20
+  name: "Chris Dzombak's Blog"
+  url: "https://www.dzombak.com/blog/"
+  desc:
+  feed: "https://www.dzombak.com/atom.xml"
+  author: "By Chris Dzombak"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

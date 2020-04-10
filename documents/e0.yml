@@ -1,0 +1,22 @@
+-
+  _id: e0yapq5n9d
+  name: "Joe Duffy's Blog"
+  url: "http://joeduffyblog.com/"
+  desc: "Posts about operating system and programming language design."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: e0dofkuduu
+  name: "Geekboots.tech"
+  url: "http://www.geekboots.tech/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:

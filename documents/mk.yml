@@ -1,0 +1,66 @@
+-
+  _id: mky2n1et3m
+  name: "Perl Tricks"
+  url: "http://perltricks.com/"
+  desc: "Perl programming articles."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: mk9dnf1yly
+  name: "HomeAway"
+  url: "https://tech.homeaway.com/"
+  desc:
+  feed:
+  author: "HomeAway"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: mkphmwrcnq
+  name: "Point-Free Blog"
+  url: "https://www.pointfree.co/blog"
+  desc:
+  feed: "https://www.pointfree.co/blog/feed/atom.xml"
+  author: "By Brandon Williams and Stephen Celis"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: mk5xvgqo9u
+  name: "Raul Riera on Medium"
+  url: "https://medium.com/@raulriera/"
+  desc:
+  feed: "https://medium.com/feed/@raulriera"
+  author: "By Raul Riera"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: mkr3tbkj2e
+  name: "Way Forever"
+  url: "http://way4ever.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: mk3uk4pins
+  name: "rtl-css.net"
+  url: "https://rtl-css.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

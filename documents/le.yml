@@ -1,0 +1,22 @@
+-
+  _id: le395lyooq
+  name: "Azavea"
+  url: "https://www.azavea.com/blog/category/software-development/"
+  desc:
+  feed:
+  author: "Azavea"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: le18thkbcv
+  name: "Gouthaman Balaraman"
+  url: "http://gouthamanbalaraman.com/"
+  desc:
+  feed:
+  author: "Gouthaman Balaraman"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

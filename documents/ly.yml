@@ -1,0 +1,22 @@
+-
+  _id: ly5c6yv8t4
+  name: "Cocoa with Love"
+  url: "https://www.cocoawithlove.com/"
+  desc:
+  feed: "http://www.cocoawithlove.com/feeds/posts/default?alt=rss"
+  author: "By Matt Gallagher"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: lyaspsz1pg
+  name: "Bohemian Coders"
+  url: "http://bohemiancoders.tumblr.com/"
+  desc:
+  feed: "http://bohemiancoders.tumblr.com/rss"
+  author: "By Bohemian Coders Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

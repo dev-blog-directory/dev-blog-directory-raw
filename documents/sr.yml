@@ -1,0 +1,22 @@
+-
+  _id: sr912lgoij
+  name: "MacTalk-池建强的随想录"
+  url: "http://macshuo.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: srororqsbn
+  name: " Envato Tuts Code | Angular"
+  url: "https://code.tutsplus.com/categories/angular"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["angular","javascript","framework","web-development"]

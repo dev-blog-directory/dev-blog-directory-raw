@@ -1,0 +1,22 @@
+-
+  _id: liyh00zbre
+  name: "Joel on Software"
+  url: "https://www.joelonsoftware.com/"
+  desc: "A blog by Joel Spolsky."
+  feed:
+  author: "Joel Spolsky"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: lig4legz09
+  name: "Python Pedia"
+  url: "https://pythonpedia.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

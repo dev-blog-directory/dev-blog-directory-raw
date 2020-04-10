@@ -1,0 +1,11 @@
+-
+  _id: atjy7r3gmp
+  name: "Honza Dvorsky's Blog"
+  url: "http://honzadvorsky.com/"
+  desc:
+  feed: "https://honzadvorsky.com/feed.xml"
+  author: "By Honza Dvorsky"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

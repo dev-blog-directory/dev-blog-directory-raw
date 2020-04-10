@@ -1,0 +1,77 @@
+-
+  _id: p7h1ua6mx4
+  name: "Klipse"
+  url: "http://blog.klipse.tech/"
+  desc:
+  feed:
+  author: "Klipse"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: p7oo11jfjn
+  name: "Fady Derias on Medium"
+  url: "https://medium.com/@fadiderias"
+  desc:
+  feed: "https://medium.com/feed/@fadiderias"
+  author: "By Fady Derias"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: p79kp5vknv
+  name: "cmsMinds Blog"
+  url: "https://www.cmsminds.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: p74u7cgiev
+  name: "iOS Programming on Reddit"
+  url: "https://www.reddit.com/r/iOSProgramming/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios"]
+-
+  _id: p756q44801
+  name: "hzwer"
+  url: "http://hzwer.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: p7jajwb2g9
+  name: "高明飞"
+  url: "https://gaomf.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: p7dsmzo41v
+  name: "技术尘埃@伯仁"
+  url: "http://itboren.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

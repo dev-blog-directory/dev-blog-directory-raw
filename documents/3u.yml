@@ -1,0 +1,55 @@
+-
+  _id: 3u93d3rnf2
+  name: "Bob the Developer"
+  url: "https://blog.bobthedeveloper.io/"
+  desc:
+  feed: "https://blog.bobthedeveloper.io/feed"
+  author: "By Bob Lee"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 3u7771rqvr
+  name: "David Yang's Blog'"
+  url: "https://david.y4ng.fr/"
+  desc:
+  feed: "https://david.y4ng.fr/rss/"
+  author: "By David Yang"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 3uo60wsr5w
+  name: "VueJobs "
+  url: "https://vuejobs.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["vuejs","javascript","framework","web-development"]
+-
+  _id: 3uqug0fs0v
+  name: "ZDDHUB"
+  url: "http://zddhub.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3u95g3b592
+  name: "rachelandrew.co.uk"
+  url: "https://rachelandrew.co.uk/archives"
+  desc:
+  feed: "https://rachelandrew.co.uk/feed"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

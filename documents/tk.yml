@@ -1,0 +1,55 @@
+-
+  _id: tkm3sbemuu
+  name: "Abhinaba Basu"
+  url: "https://blogs.msdn.com/b/abhinaba/"
+  desc:
+  feed:
+  author: "Abhinaba Basu"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: tk3tvrp9wt
+  name: "XCBlog"
+  url: "http://shashikantjagtap.net/"
+  desc:
+  feed: "http://shashikantjagtap.net/feed/"
+  author: "By Shashikant Jagtap"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: tkfd66xp0j
+  name: "ServerGuy"
+  url: "https://serverguy.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: tk3zyp4ebv
+  name: "张志敏的技术专栏"
+  url: "http://beginor.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: tk2o97ikxc
+  name: "ThinkPC"
+  url: "http://blog.sina.com.cn/thinkpc"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

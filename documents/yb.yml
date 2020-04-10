@@ -1,0 +1,33 @@
+-
+  _id: ybhhbqfnu8
+  name: "León Castillejos"
+  url: "https://l1cafe.blog/"
+  desc:
+  feed:
+  author: "León Castillejos"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: ybzfm43f4y
+  name: "Dora's programming blog"
+  url: "http://doraprojects.net/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: yb1eah4zfr
+  name: "Steve Python | Python Coder"
+  url: "https://stevepython.wordpress.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]

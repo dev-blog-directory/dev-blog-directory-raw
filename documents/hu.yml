@@ -1,0 +1,22 @@
+-
+  _id: hug61dy3fe
+  name: "CenturyLink"
+  url: "https://www.ctl.io/developers/blog"
+  desc:
+  feed:
+  author: "CenturyLink"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: hu2sm3f7np
+  name: "Kelly Vaughn"
+  url: "https://kvlly.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

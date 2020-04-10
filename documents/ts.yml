@@ -1,0 +1,11 @@
+-
+  _id: tsqek2n3zj
+  name: "Reddit"
+  url: "https://redditblog.com/"
+  desc: "What's New on Reddit."
+  feed:
+  author: "Reddit"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

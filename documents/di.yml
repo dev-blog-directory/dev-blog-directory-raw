@@ -1,0 +1,22 @@
+-
+  _id: di7k8j8wxk
+  name: "AirPair"
+  url: "https://www.airpair.com/software-experts"
+  desc: "AirPair Blog."
+  feed:
+  author: "AirPair"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: dir2n9dnmx
+  name: "Medallia"
+  url: "https://engineering.medallia.com/blog/"
+  desc: "Medallia Engineering Blog."
+  feed:
+  author: "Medallia"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

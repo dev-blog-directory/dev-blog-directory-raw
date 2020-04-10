@@ -1,0 +1,55 @@
+-
+  _id: eq0io0sdu0
+  name: "Google Developers Blog"
+  url: "https://developers.googleblog.com/"
+  desc:
+  feed:
+  author: "Google Developers Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: eq4ny8cff5
+  name: "Zoosk"
+  url: "https://about.zoosk.com/en/engineering-blog/"
+  desc:
+  feed:
+  author: "Zoosk"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: eqsohkiq9y
+  name: "Oliver Russell White's Blog"
+  url: "https://oliverrussellwhite.github.io/"
+  desc:
+  feed: "https://github.com/oliverrussellwhite/blog/raw/master/articles.rss"
+  author: "By Oliver Russell White"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: eqb6qz80xh
+  name: "Ahsen Saeed | Just another Programming Nerd"
+  url: "https://ahsensaeed.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: eq3tar6rz3
+  name: "The Cloudcast | Podcast about Cloud Computing"
+  url: "https://www.thecloudcast.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]

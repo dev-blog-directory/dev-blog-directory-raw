@@ -1,0 +1,33 @@
+-
+  _id: zdt8o00liz
+  name: "Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs – WildML"
+  url: "http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: zd1uv0dkmz
+  name: "Pavel Zak's Dev Blog"
+  url: "https://izakpavel.github.io/"
+  desc:
+  feed: "https://izakpavel.github.io/feed.xml"
+  author: "By Pavel Zak"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: zd9abkspmc
+  name: "知行天下"
+  url: "http://www.inter12.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

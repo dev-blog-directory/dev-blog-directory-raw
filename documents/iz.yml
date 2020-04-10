@@ -1,0 +1,22 @@
+-
+  _id: izqm075sr0
+  name: "T.J. Maher"
+  url: "http://adventuresinautomation.blogspot.com/"
+  desc:
+  feed:
+  author: "T.J. Maher"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: izxuggt5xe
+  name: "Logical IDEA"
+  url: "https://logicalidea.co/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]

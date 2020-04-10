@@ -1,0 +1,22 @@
+-
+  _id: y437akoo5m
+  name: "Edward Faulkner"
+  url: "https://eaf4.com/"
+  desc:
+  feed:
+  author: "Edward Faulkner"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: y417nnmlf3
+  name: "Urbanised Geek"
+  url: "http://www.urbanisedgeek.co.za/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

@@ -1,0 +1,22 @@
+-
+  _id: f426q4tanv
+  name: "Geek Gal Go"
+  url: "https://www.geekgalgo.com/home"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: f4orf00x7m
+  name: "快乐生活，快乐工作"
+  url: "http://zgia.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,55 @@
+-
+  _id: dfv1d30dnt
+  name: "Embedded in Academia"
+  url: "http://blog.regehr.org/"
+  desc: "A blog by John Regehr, Professor of Computer Science, University of Utah, USA."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: dfl3er8bnk
+  name: "MailChimp"
+  url: "https://devs.mailchimp.com/blog/"
+  desc:
+  feed:
+  author: "MailChimp"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: dfgzepcps0
+  name: "SintraWorks Blog"
+  url: "https://sintraworks.github.io/"
+  desc:
+  feed: "https://sintraworks.github.io/feed"
+  author: "By António Nunes"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: dfxr8bwhbp
+  name: "Fragmented | An Android Developer Podcast"
+  url: "https://fragmentedpodcast.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: dfh5d0z8gd
+  name: "Practical Business Python"
+  url: "https://pbpython.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["python"]

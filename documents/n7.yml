@@ -1,0 +1,66 @@
+-
+  _id: n72acpg9zt
+  name: "Richard Shackleton"
+  url: "https://rshackleton.co.uk/"
+  desc:
+  feed:
+  author: "Richard Shackleton"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: n7n4vhfd0b
+  name: "Michaël Gallego"
+  url: "http://www.michaelgallego.fr/articles/"
+  desc:
+  feed:
+  author: "Michaël Gallego"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: n7rux4wn5n
+  name: "tucan's blog"
+  url: "http://blog.canapio.com/"
+  desc:
+  feed: "http://blog.canapio.com/rss"
+  author: "By tucan.dev"
+  langs: ["ko"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: n756efugm2
+  name: "UIE Brain Sparks"
+  url: "https://www.uie.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["web-development"]
+-
+  _id: n7odwm8kka
+  name: "Career Geek"
+  url: "https://www.careergeekblog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: n7z2y94kfa
+  name: "C/C++程序员之家"
+  url: "http://www.cplusplus.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

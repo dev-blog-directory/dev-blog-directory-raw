@@ -1,0 +1,11 @@
+-
+  _id: yx26nczzo2
+  name: "Gnip"
+  url: "https://engineering.gnip.com/"
+  desc: "Gnip Engineering."
+  feed:
+  author: "Gnip"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

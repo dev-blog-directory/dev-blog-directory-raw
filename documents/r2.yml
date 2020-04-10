@@ -1,0 +1,33 @@
+-
+  _id: r26e8flclh
+  name: "Code as Craft, Etsy's Engineering Blog"
+  url: "https://codeascraft.com/"
+  desc:
+  feed:
+  author: "Code as Craft, Etsy's Engineering Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: r2s8wctq8g
+  name: "听雨~昨夜卧听风吹雨，不若相忘于江湖。"
+  url: "http://cssor.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: r245lf38cy
+  name: "岁寒"
+  url: "http://lvwenhan.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: 20zrqyzmgh
+  name: "Zero Cho"
+  url: "https://itsze.ro/blog"
+  desc:
+  feed:
+  author: "Zero Cho"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 20msquu2tx
+  name: "Uber Engineering Blog"
+  url: "https://eng.uber.com/"
+  desc:
+  feed:
+  author: "Uber Engineering Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 207mxnsdd0
+  name: "Sensible"
+  url: "http://blog.sensible.io/"
+  desc:
+  feed:
+  author: "Sensible"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

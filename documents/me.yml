@@ -1,0 +1,22 @@
+-
+  _id: medc47cz7c
+  name: "Target"
+  url: "https://target.github.io/"
+  desc:
+  feed:
+  author: "Target"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: mekd6j7xtz
+  name: "snook.ca"
+  url: "https://snook.ca/posts/"
+  desc:
+  feed: "https://snook.ca/posts/index.rss"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

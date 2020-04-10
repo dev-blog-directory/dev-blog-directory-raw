@@ -1,0 +1,22 @@
+-
+  _id: ud4rqbokam
+  name: "VTS"
+  url: "https://buildingvts.com/"
+  desc:
+  feed:
+  author: "VTS"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: udrcgsyhew
+  name: "13's Blog"
+  url: "https://13h.tw/"
+  desc:
+  feed: "https://13h.tw/feed.xml"
+  author: "By Ethan Huang"
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

@@ -1,0 +1,55 @@
+-
+  _id: 8dzk9hda1s
+  name: "Wayfair"
+  url: "https://engineering.wayfair.com/"
+  desc: "Wayfair Engineering."
+  feed:
+  author: "Wayfair"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 8dr0uet44o
+  name: "Coding Explorer Blog"
+  url: "http://www.codingexplorer.com/"
+  desc:
+  feed: "http://www.codingexplorer.com/feed/"
+  author: "By Nick Hanan"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 8dmsiobm6e
+  name: "Reveal Blog"
+  url: "https://revealapp.com/"
+  desc:
+  feed: "https://revealapp.com/news/index.xml"
+  author: "By Reveal Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: 8d2vy2se8o
+  name: "Ben Rousch"
+  url: "http://clusterbleep.net/blog/"
+  desc:
+  feed:
+  author: "Ben Rousch"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 8dxuyatxa0
+  name: "Personal Blog"
+  url: "http://huang-x-h.github.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,55 @@
+-
+  _id: dpc4nav12c
+  name: "SmugMug"
+  url: "http://engineering.slideshare.com/"
+  desc: "SmugMug's Don MacAskill."
+  feed:
+  author: "SmugMug"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: dph0o6jj52
+  name: "Furbo"
+  url: "https://furbo.org/"
+  desc:
+  feed: "http://furbo.org/feed/"
+  author: "By Craig Hockenberry"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: dpk2rjkwgg
+  name: "Nikita Teslyuk on Medium"
+  url: "https://medium.com/@tesnik"
+  desc:
+  feed: "https://medium.com/feed/@tesnik"
+  author: "By Nikita Teslyuk"
+  langs: ["ru"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: dpb2p5b3bc
+  name: "张学程"
+  url: "http://zhangxc.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: dp33ygmrg5
+  name: "tedunangst.com/flak"
+  url: "http://www.tedunangst.com/flak/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["security"]

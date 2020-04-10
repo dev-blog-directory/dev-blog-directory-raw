@@ -1,0 +1,33 @@
+-
+  _id: b0xe0e76av
+  name: "Marginally Interesting"
+  url: "http://blog.mikiobraun.de/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: b0cj8ogoux
+  name: "Build and Run"
+  url: "https://thomas.zoechling.me/journal/"
+  desc:
+  feed: "https://thomas.zoechling.me/journal/feed.xml"
+  author: "By Thomas Zoechling"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: b08n39mmwp
+  name: "The Right Geek"
+  url: "http://therightgeek.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]

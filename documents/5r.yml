@@ -1,0 +1,33 @@
+-
+  _id: 5rrzyy6wor
+  name: "Programming is like Sex"
+  url: "http://fancywt.cn/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5rwo5t2eu4
+  name: "脚儿网脚儿网"
+  url: "http://jo2.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 5rjjt30tpm
+  name: "Matt Hagner"
+  url: "https://www.matthagner.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

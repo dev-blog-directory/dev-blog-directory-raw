@@ -1,0 +1,11 @@
+-
+  _id: zhgciofpvo
+  name: "Jeremy W. Sherman's Blog"
+  url: "https://jeremywsherman.com/"
+  desc:
+  feed: "https://jeremywsherman.com/index.xml"
+  author: "By Jeremy W. Sherman"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

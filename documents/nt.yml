@@ -1,0 +1,66 @@
+-
+  _id: nthv3bgg4g
+  name: "BlaBlaCar"
+  url: "http://blablatech.com/blog/"
+  desc:
+  feed:
+  author: "BlaBlaCar"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: nt376mw3g0
+  name: "Josh Haberman"
+  url: "http://blog.reverberate.org/"
+  desc:
+  feed:
+  author: "Josh Haberman"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ntuhufei4c
+  name: "字母哥博客"
+  url: "http://www.zimug.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ntrdfign7k
+  name: "Lamp Blog"
+  url: "http://www.lampblog.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: ntlhcrh8f0
+  name: "田麦"
+  url: "http://yueyemaitian.iteye.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: nt610q0iro
+  name: "Amit Chaudhary"
+  url: "https://amitness.com/"
+  desc:
+  feed:
+  author: "Amit Chaudhary"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

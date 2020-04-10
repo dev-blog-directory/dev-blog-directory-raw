@@ -1,0 +1,33 @@
+-
+  _id: 2ssvzsurx2
+  name: "Swift.org Blog"
+  url: "https://swift.org/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios","swift"]
+-
+  _id: 2shz0t7fy6
+  name: "Geek Hash"
+  url: "http://geekhash.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: 2sr8jersti
+  name: "forestli"
+  url: "http://www.forestli.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

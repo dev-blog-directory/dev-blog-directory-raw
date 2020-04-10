@@ -1,0 +1,77 @@
+-
+  _id: uov9v6s66d
+  name: "Tiger Oakes"
+  url: "https://tigeroakes.com/posts/"
+  desc:
+  feed:
+  author: "Tiger Oakes"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: uoqlab18k9
+  name: "ennioma"
+  url: "http://ennioma.com/"
+  desc:
+  feed: "http://ennioma.com/rss"
+  author: "By Ennio Masi"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: uo6z2s46y3
+  name: "BPXL Craft"
+  url: "https://medium.com/bpxl-craft"
+  desc:
+  feed: "https://medium.com/feed/bpxl-craft"
+  author: "By Black Pixel Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]
+-
+  _id: uoyaaqx86k
+  name: "不发光的博客"
+  url: "https://lightless.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: uochg55b63
+  name: "Waiting For You"
+  url: "http://www.waitingfy.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: uoe3acmzck
+  name: "未命名"
+  url: "http://arganzheng.life/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: uorfx3i47s
+  name: "网络寻租"
+  url: "http://halida.github.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

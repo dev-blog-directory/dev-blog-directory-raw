@@ -1,0 +1,66 @@
+-
+  _id: wedn4ywhrx
+  name: "deepinmind的技术博客"
+  url: "http://it.deepinmind.com/index.html"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wea6aoat8s
+  name: "Dive into Python 3"
+  url: "http://www.diveintopython3.net/"
+  desc:
+  feed:
+  author: "Dive into Python 3"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: we3vk287jj
+  name: "学而时嘻之 | 用理工科思维理解世界"
+  url: "https://www.geekonomics10000.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: weqweyd6cd
+  name: "Gopher beyond Eliphants"
+  url: "http://www.mikespook.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wepn1czck8
+  name: "Winguse's Blog"
+  url: "https://winguse.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: wetzc82gjw
+  name: "snellman.net/blog"
+  url: "https://www.snellman.net/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["networking"]

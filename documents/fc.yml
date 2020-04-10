@@ -1,0 +1,44 @@
+-
+  _id: fc5w6n80je
+  name: "Alexandru-Paul Copil"
+  url: "https://cpl.li/"
+  desc:
+  feed:
+  author: "Alexandru-Paul Copil"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: fc6ny30tm8
+  name: "Deliveroo"
+  url: "https://deliveroo.engineering/"
+  desc:
+  feed:
+  author: "Deliveroo"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: fc1w17miiz
+  name: "VPS侦探"
+  url: "http://www.vpser.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: fc6818ygxv
+  name: "Wilson's Blog"
+  url: "http://www.520608.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

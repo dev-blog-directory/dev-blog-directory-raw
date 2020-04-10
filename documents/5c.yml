@@ -1,0 +1,22 @@
+-
+  _id: 5cndy3jltj
+  name: "Monsanto"
+  url: "http://engineering.monsanto.com/"
+  desc: "Monsanto Engineering Blog."
+  feed:
+  author: "Monsanto"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 5crbpieooy
+  name: "Charles Leifer"
+  url: "http://charlesleifer.com/blog/tags/python/"
+  desc:
+  feed:
+  author: "Charles Leifer"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]

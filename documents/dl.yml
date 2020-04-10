@@ -1,0 +1,33 @@
+-
+  _id: dlf2v7gscg
+  name: "Joe Armstrong"
+  url: "https://joearms.github.io/"
+  desc:
+  feed:
+  author: "Joe Armstrong"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["erlang"]
+-
+  _id: dlusn833yj
+  name: "NimbleDroid Blog"
+  url: "https://blog.nimbledroid.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["android"]
+-
+  _id: dls1zabrud
+  name: "去更远的地方"
+  url: "http://mirroravatar.iteye.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

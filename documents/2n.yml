@@ -1,0 +1,44 @@
+-
+  _id: 2nswxihdo4
+  name: "Allison Kaptur"
+  url: "http://akaptur.com/"
+  desc:
+  feed:
+  author: "Allison Kaptur"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["python"]
+-
+  _id: 2na86bubpp
+  name: "张戈博客"
+  url: "https://zhangge.net/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 2nstuf6eb9
+  name: "颜海镜"
+  url: "http://yanhaijing.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]
+-
+  _id: 2neojerx2n
+  name: "黯羽轻扬"
+  url: "http://ayqy.net/blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,66 @@
+-
+  _id: hpy89w5mic
+  name: "eBay Tech Blog"
+  url: "http://www.ebaytechblog.com/"
+  desc:
+  feed:
+  author: "eBay Tech Blog"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: hpox8p91ey
+  name: "Agostini.Tech"
+  url: "https://agostini.tech/"
+  desc:
+  feed: "https://agostini.tech/feed/"
+  author: "By Dejan Agostini"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: hpg8rtz9dk
+  name: "Programe Secure | Live life in Better way with new Technology"
+  url: "https://programesecure.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: hp7jni2f2r
+  name: "Gauin's Blog"
+  url: "http://www.gauin.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: hpmmeph3ov
+  name: "codedump"
+  url: "http://www.codedump.info/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: hpxzl14qtu
+  name: "時計坂一刻館三号室"
+  url: "http://www.quchao.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

@@ -1,0 +1,33 @@
+-
+  _id: rrjy9fyj2q
+  name: "The Daily WTF"
+  url: "http://thedailywtf.com/"
+  desc: "The Daily WTF is your how-not-to guide for developing software."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: rr1xo0z134
+  name: "Ray Wenderlich | Tutorials for iPhone & iOS Developers and Gamers"
+  url: "https://www.raywenderlich.com/"
+  desc:
+  feed:
+  author: "Ray Wenderlich"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: rrwolu1syg
+  name: "Think & Build"
+  url: "http://www.thinkandbuild.it/"
+  desc:
+  feed: "http://feeds.feedburner.com/ThinkAndBuild"
+  author: "By Yari D'areglia"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

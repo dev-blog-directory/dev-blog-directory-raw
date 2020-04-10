@@ -1,0 +1,33 @@
+-
+  _id: o31hxnhjjs
+  name: "生活志"
+  url: "http://louishan.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: o3k0pyi53j
+  name: "Locate Myself"
+  url: "http://www.zhujun.me/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: o3q9gcaazx
+  name: "The Daily Code"
+  url: "http://dailycode.daoapp.io/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

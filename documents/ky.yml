@@ -1,0 +1,33 @@
+-
+  _id: kyl1nf1m3z
+  name: "Simulmedia"
+  url: "http://www.simulmedia.com/resources/blog/categories/engineering/"
+  desc: "Simulmedia Engineering."
+  feed:
+  author: "Simulmedia"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: kyazhq58oh
+  name: "Hacking with Swift - Swift Developer News "
+  url: "https://www.hackingwithswift.com/articles"
+  desc:
+  feed: "https://www.hackingwithswift.com/articles/rss"
+  author: "By Paul Hudson"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios","swift"]
+-
+  _id: kykiqfdb1f
+  name: "JDC | 京东设计中心"
+  url: "http://jdc.jd.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:

@@ -1,0 +1,11 @@
+-
+  _id: 6zkariovte
+  name: "Netflix"
+  url: "https://medium.com/netflix-techblog"
+  desc:
+  feed:
+  author: "Netflix"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

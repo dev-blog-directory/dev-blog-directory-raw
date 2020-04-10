@@ -1,0 +1,22 @@
+-
+  _id: 12cykb35dq
+  name: "Future Processing"
+  url: "https://www.future-processing.pl/technical-blog/"
+  desc:
+  feed:
+  author: "Future Processing"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 1250npdbcs
+  name: "GO-JEK"
+  url: "https://blog.gojekengineering.com/"
+  desc:
+  feed:
+  author: "GO-JEK"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

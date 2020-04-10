@@ -1,0 +1,55 @@
+-
+  _id: y8iacgj00w
+  name: "Yomesh Gupta"
+  url: "https://devtools.tech/"
+  desc:
+  feed:
+  author: "Yomesh Gupta"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: y8u7q6i1uc
+  name: "Sift Science"
+  url: "https://blog.siftscience.com/?category=Engineering"
+  desc:
+  feed:
+  author: "Sift Science"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: y80sxr40zj
+  name: "NSHipster en français"
+  url: "https://nshipster.fr/"
+  desc:
+  feed: "https://nshipster.fr/feed.xml"
+  author: "By NSHipster"
+  langs: ["fr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: y8ryckd3wl
+  name: "iDevBlogADay"
+  url: "http://idevblogaday.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios"]
+-
+  _id: y88xkplaee
+  name: "Kot. Academy Blog"
+  url: "https://blog.kotlin-academy.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["kotlin"]

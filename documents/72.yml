@@ -1,0 +1,66 @@
+-
+  _id: 72x698vdu5
+  name: "Blog de l'équipe iOS de PagesJaunes"
+  url: "https://developers.pagesjaunes.fr/tag/ios/"
+  desc:
+  feed: "https://developers.pagesjaunes.fr/tag/ios/rss/"
+  author: "By Equipe tech iOS"
+  langs: ["fr"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 72yiwybswu
+  name: "End Your If"
+  url: "https://www.endyourif.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 72nvaqyg45
+  name: "TechPursue"
+  url: "https://techpursue.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: 72cletwrsm
+  name: "SuperKotlin Blog "
+  url: "https://superkotlin.com/blog/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["kotlin"]
+-
+  _id: 72abnv8kek
+  name: "The Geek Blog"
+  url: "http://www.thegeekblog.co.uk/the-geek-blog"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: 72dymgtc72
+  name: "APP开发者"
+  url: "http://www.aswifter.com//"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

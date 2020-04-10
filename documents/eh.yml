@@ -1,0 +1,33 @@
+-
+  _id: ehaounuvg6
+  name: "BontoJR"
+  url: "https://www.bonto.ch/"
+  desc:
+  feed: "https://www.bonto.ch/atom.xml"
+  author: "By Junior Bonto"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: eh38aifg2s
+  name: "Python for Engineers"
+  url: "https://pythonforengineers.blogspot.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["python"]
+-
+  _id: ehevbgr7dk
+  name: "chaozh.com"
+  url: "http://www.chaozh.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

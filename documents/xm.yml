@@ -1,0 +1,55 @@
+-
+  _id: xmb330fsdo
+  name: "Swift Developer Blog"
+  url: "http://swiftdeveloperblog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["ios"]
+-
+  _id: xmkfg7kesc
+  name: "goz | Go's News"
+  url: "http://goz.hexacosa.net/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["golang"]
+-
+  _id: xm9g0jpy6r
+  name: "qinyu-简书"
+  url: "https://www.jianshu.com/u/oSuHPw"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xmg7ffmeu2
+  name: "» 脑袋博客"
+  url: "http://ifelsend.com/blog"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: xmpwmgj354
+  name: "Smart Testing"
+  url: "http://www.hiadmin.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

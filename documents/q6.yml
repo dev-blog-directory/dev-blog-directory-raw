@@ -1,0 +1,55 @@
+-
+  _id: q6pqxhnjgz
+  name: "Own Your Bits"
+  url: "https://ownyourbits.com/"
+  desc: "Technology with a focus on Open Source."
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: q6m2sxf9v4
+  name: "WebEngage"
+  url: "http://engineering.webengage.com/"
+  desc:
+  feed:
+  author: "WebEngage"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: q6rvzs493u
+  name: "Gleb Bahmutov"
+  url: "https://glebbahmutov.com/blog/"
+  desc:
+  feed:
+  author: "Gleb Bahmutov"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: q63mkkuf5m
+  name: "bootdo"
+  url: "http://www.bootdo.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: q6t9imtk58
+  name: "Continuous Improvement"
+  url: "http://www.linkedme.in/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

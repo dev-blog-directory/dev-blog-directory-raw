@@ -1,0 +1,55 @@
+-
+  _id: r44igiqh9g
+  name: "UPYUN Engineering Blog"
+  url: "http://io.upyun.com/"
+  desc:
+  feed:
+  author: "UPYUN Engineering Blog"
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: r47jebwq8u
+  name: "Apps Dissected"
+  url: "https://www.appsdissected.com/"
+  desc:
+  feed: "https://www.appsdissected.com/feed/"
+  author: "By Evan Deaubl"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: r4iwlaesj3
+  name: "Felix Krause's Blog"
+  url: "https://krausefx.com/"
+  desc:
+  feed: "https://krausefx.com/feed.xml"
+  author: "By Felix Krause"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: r4cs3g41am
+  name: "四号程序员"
+  url: "http://www.coder4.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: r4fmsd25z4
+  name: "Free Mind"
+  url: "http://freemind.pluskid.org/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

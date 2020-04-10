@@ -1,0 +1,33 @@
+-
+  _id: s9ln9h7s13
+  name: "Teespring"
+  url: "http://teespring.engineering/"
+  desc:
+  feed:
+  author: "Teespring"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: s9320de8x9
+  name: "Jindong Zhan"
+  url: "https://zhanjindong.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: s9hxl9qqsw
+  name:
+  url: "https://www.impressivewebs.com/"
+  desc:
+  feed: "http://feeds2.feedburner.com/ImpressiveWebs"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

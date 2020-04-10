@@ -1,0 +1,33 @@
+-
+  _id: g9jqhsn193
+  name: "Nikant Vohra"
+  url: "http://www.nikantvohra.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: g94n30gwkk
+  name: "Ash Furrow's Blog"
+  url: "https://ashfurrow.com/"
+  desc:
+  feed: "https://feed.ashfurrow.com/feed.xml"
+  author: "By Ash Furrow"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: g9i2sg5ad3
+  name: "柴少鹏的官方网站"
+  url: "http://www.51niux.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

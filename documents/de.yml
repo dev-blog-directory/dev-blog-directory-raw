@@ -1,0 +1,33 @@
+-
+  _id: derbubi1lh
+  name: "Monetate"
+  url: "http://engineering.monetate.com/"
+  desc: "Monetate Engineering Blog."
+  feed:
+  author: "Monetate"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: deww52db52
+  name: "Eric Lippert"
+  url: "https://ericlippert.com/"
+  desc:
+  feed:
+  author: "Eric Lippert"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: de57pyfbos
+  name: "PSYcHiC"
+  url: "http://www.quake0day.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

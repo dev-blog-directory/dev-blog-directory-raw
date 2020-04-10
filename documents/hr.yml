@@ -1,0 +1,33 @@
+-
+  _id: hrwer756nf
+  name: "James Milner"
+  url: "https://www.loxodrome.io/"
+  desc:
+  feed:
+  author: "James Milner"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: hrrqthr59w
+  name: "College Info Geek - College Tips for Smart Students"
+  url: "https://collegeinfogeek.com/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["geek"]
+-
+  _id: hryqkp96wn
+  name: "腾讯MXD"
+  url: "http://mxd.tencent.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:

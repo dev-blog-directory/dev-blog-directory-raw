@@ -1,0 +1,22 @@
+-
+  _id: bppo6yasum
+  name: "Derik Ramirez's Blog"
+  url: "https://rderik.com/"
+  desc:
+  feed: "https://rderik.com/feed.xml"
+  author: "By Derik Ramirez"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: bpruoqms4o
+  name: "Swift and Painless"
+  url: "http://swiftandpainless.com/"
+  desc:
+  feed: "http://swiftandpainless.com/feed.xml"
+  author: "By Dominik Hauser"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]

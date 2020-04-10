@@ -1,0 +1,44 @@
+-
+  _id: 9nlmi5341g
+  name: "Mary Rose Cook"
+  url: "https://maryrosecook.com/blog/"
+  desc:
+  feed:
+  author: "Mary Rose Cook"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9n4q2gytti
+  name: "The Cloud Blog"
+  url: "https://thecloudblog.in/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["cloud-computing"]
+-
+  _id: 9nk73zjxfy
+  name: "老高的技术博客"
+  url: "https://blog.phpgao.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 9nwo4gt1sk
+  name: "小强的时间管理博客"
+  url: "http://www.gtdlife.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

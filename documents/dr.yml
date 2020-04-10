@@ -1,0 +1,55 @@
+-
+  _id: dr87yb8b9d
+  name: "Shazam"
+  url: "https://blog.shazam.com/"
+  desc:
+  feed:
+  author: "Shazam"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: drfric3f2o
+  name: "The Atomic Birdhouse"
+  url: "http://www.atomicbird.com/blog"
+  desc:
+  feed: "http://www.atomicbird.com/feed"
+  author: "By Tom Harrington"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: drs6mlx090
+  name: "NSHipster 한국"
+  url: "https://nshipster.co.kr/"
+  desc:
+  feed: "https://nshipster.co.kr/feed.xml"
+  author: "By NSHipster"
+  langs: ["ko"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: drajaitu4u
+  name: "歪麦博客"
+  url: "https://www.awaimai.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: drz88hf8ge
+  name: "Developer Center"
+  url: "http://kuailejim.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

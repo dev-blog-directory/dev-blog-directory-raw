@@ -1,0 +1,44 @@
+-
+  _id: 3t49miuat0
+  name: "Henrik Warne's blog | Thoughts on programming"
+  url: "https://henrikwarne.com/"
+  desc:
+  feed:
+  author: "Henrik Warne"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3to6m1o8xg
+  name: "Ken Boreham's Blog"
+  url: "https://kenb.us/"
+  desc:
+  feed: "https://kenb.us/feed"
+  author: "By Ken Boreham"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: 3tf991jtj2
+  name: "软件测试小兵的博客"
+  url: "http://blog.sina.com.cn/bwftesting"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 3tnvmap7bn
+  name: "SamirChen"
+  url: "http://www.samirchen.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

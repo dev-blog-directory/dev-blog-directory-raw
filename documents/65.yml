@@ -1,0 +1,11 @@
+-
+  _id: 65rlnmpeyy
+  name: "Raizlabs Developer Blog"
+  url: "https://www.raizlabs.com/dev"
+  desc:
+  feed: "https://www.raizlabs.com/dev/feed/"
+  author: "By Raizlabs Team"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags: ["ios"]

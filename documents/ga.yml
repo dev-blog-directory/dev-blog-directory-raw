@@ -1,0 +1,33 @@
+-
+  _id: gaznqzyqj3
+  name: "Benedikt Meurer"
+  url: "https://benediktmeurer.de/"
+  desc:
+  feed:
+  author: "Benedikt Meurer"
+  langs: ["en"]
+  github:
+  categories:
+  tags:
+-
+  _id: gadvc9qdsr
+  name: "Tony Arnold's Blog"
+  url: "http://tonyarnold.com/"
+  desc:
+  feed: "http://tonyarnold.com/atom.xml"
+  author: "By Tony Arnold"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: gah1wxvtda
+  name: "Magnifiant: exploring software testing"
+  url: "http://www.huibschoots.nl/wordpress"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:

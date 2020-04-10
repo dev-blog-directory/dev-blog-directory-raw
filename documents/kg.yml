@@ -1,0 +1,11 @@
+-
+  _id: kgd7o67eip
+  name: "WebEngage"
+  url: "https://engineering.webengage.com/"
+  desc: "WebEngage Engineering Blog."
+  feed:
+  author: "WebEngage"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:

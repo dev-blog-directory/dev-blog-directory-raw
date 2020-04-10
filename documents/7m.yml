@@ -1,0 +1,33 @@
+-
+  _id: 7m2i2znwq3
+  name: "腾讯 AlloyTeam"
+  url: "http://www.alloyteam.com/"
+  desc:
+  feed:
+  author: "腾讯 AlloyTeam"
+  langs: ["zh"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: 7mkbpkpl0t
+  name: "叉叉哥的BLOG"
+  url: "http://xxgblog.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: 7mwud6p00w
+  name: "pl6anet - Steve Mynott "
+  url: "https://pl6anet.org/"
+  desc:
+  feed:
+  author:
+  langs: ["en"]
+  github:
+  categories:
+  tags: ["perl"]

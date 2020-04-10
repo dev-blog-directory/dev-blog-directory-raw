@@ -1,0 +1,22 @@
+-
+  _id: l2tf1h9fn0
+  name: "Criteo"
+  url: "http://engineering.criteolabs.com/"
+  desc:
+  feed:
+  author: "Criteo"
+  langs: ["en"]
+  github:
+  categories: ["Team"]
+  tags:
+-
+  _id: l2i31xhddi
+  name: "keithjgrant.com"
+  url: "https://keithjgrant.com/"
+  desc:
+  feed: "https://keithjgrant.com/posts/index.xml"
+  author:
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags:

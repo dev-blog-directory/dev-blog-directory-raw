@@ -1,0 +1,44 @@
+-
+  _id: w3nd9f3s6x
+  name: "dev etc"
+  url: "http://devetc.org/"
+  desc:
+  feed: "http://devetc.org/feed.xml"
+  author: "By Jonathon Mah"
+  langs: ["en"]
+  github:
+  categories: ["Personal"]
+  tags: ["ios"]
+-
+  _id: w3iz0fcxn6
+  name: "云库网"
+  url: "http://yunkus.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags: ["front-end"]
+-
+  _id: w3pp2qsjux
+  name: "果仁博客"
+  url: "https://blog.guorenxi.com/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
+-
+  _id: w32oh7x6ad
+  name: "清风不识字"
+  url: "https://www.3ewl.cc/"
+  desc:
+  feed:
+  author:
+  langs: ["zh"]
+  github:
+  categories: ["Personal"]
+  tags:
