@@ -28,6 +28,6 @@
   feed: "https://www.mindinventory.com/blog/feed/"
   author: "MindInventory"
   langs: ["en"]
-  github:
+  github: "https://github.com/Mindinventory"
   categories: ["Team"]
   tags: ["ios","android","web-development","cloud-computing"]
