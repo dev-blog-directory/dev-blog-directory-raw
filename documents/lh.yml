@@ -20,3 +20,14 @@
   github:
   categories: ["Personal"]
   tags:
+-
+  _id: lhjumhgnsg
+  name: "MindInventory - Web and App Development Company"
+  url: "https://www.mindinventory.com/blog/"
+  desc:
+  feed: "https://www.mindinventory.com/blog/feed/"
+  author: "MindInventory"
+  langs: ["en"]
+  github: "https://github.com/Mindinventory"
+  categories: ["Team"]
+  tags: ["ios","android","web-development","cloud-computing"]
